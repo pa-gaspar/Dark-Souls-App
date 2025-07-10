@@ -7,7 +7,7 @@ import pandas as pd
 import time
 import sys
 
-
+sys.path.append('./src/')
 from answerGraphBuilder import GraphBuilder, GraphQA, return_answers_to_neo4j
 
 # Load CSV data
@@ -173,8 +173,8 @@ with col1:
                         graph_data = session.read_transaction(
                             lambda tx: run_cypher_query(tx, f"""
                                 MATCH (n)-[r]-(m)
-                                WHERE n.name IN [{', '.join(f'\"{n}\"' for n in nodeList)}]
-                                  AND m.name IN [{', '.join(f'\"{n}\"' for n in nodeList)}]
+                                WHERE n.name IN [{', '.join(f'"{n}"' for n in nodeList)}]
+                                  AND m.name IN [{', '.join(f'"{n}"' for n in nodeList)}]
                                 RETURN DISTINCT n.name AS source, type(r) AS relation, m.name AS target,
                                                labels(n) AS source_labels, labels(m) AS target_labels
                             """)
