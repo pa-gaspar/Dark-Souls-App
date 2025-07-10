@@ -37,7 +37,7 @@ dialoguesDF = dialoguesDF.rename(columns={'name': 'character'})
 itemsDF = itemsDF.rename(columns={'name': 'item'})
 
 GOOGLE_API_KEY = st.secrets["GOOGLE_API_KEY"]
-NEO4JPASSWORD = st.secrets["password"]
+NEO4JPASSWORD = st.secrets["NEO4JPASSWORD"]
 
 
 # Neo4j config
