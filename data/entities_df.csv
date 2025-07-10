@@ -1,0 +1,450 @@
+entity,total_mentions,character_connections,item_connections,entity_types
+"the Catacombs
+Good day",3,3,0,ORG
+Trusty Patches,10,10,0,PERSON
+Soul,9,7,2,PERSON
+Giants,3,3,0,ORG
+the Firelink Shrine,3,3,0,ORG
+Lautrec the Embraced,5,4,1,WORK_OF_ART
+Treasures,4,4,0,PERSON
+Artorias,28,26,2,"ORG, PERSON"
+Alvina,11,8,3,"GPE, PERSON"
+the Darkroot Wood,4,4,0,ORG
+Shiva,11,11,0,PERSON
+East,13,8,5,LOC
+Hollow,124,86,38,ORG
+Thine,8,8,0,GPE
+Hellish,2,2,0,GPE
+Anastacia,5,5,0,PERSON
+Astora,22,16,6,"GPE, PERSON"
+Keeper,5,4,1,"PERSON, GPE"
+Speak,3,3,0,GPE
+Frampt,17,17,0,PERSON
+Fire,20,16,4,"ORG, PERSON"
+Undead,109,72,37,ORG
+Andre,10,10,0,PERSON
+Ascension,4,4,0,PERSON
+Sen's Fortress,18,12,6,ORG
+the Darkroot Garden,14,8,6,EVENT
+Anor Londo,62,31,31,"GPE, PERSON"
+Catacombs,6,6,0,ORG
+Artorias the Abysswalker,8,4,4,"WORK_OF_ART, PERSON"
+the Large Divine Ember,3,3,0,LAW
+Splendid,4,4,0,PERSON
+Owww,4,4,0,PERSON
+"Sen's Fortress
+Sen's Fortress
+Initial",1,1,0,ORG
+Logan,53,50,3,"ORG, WORK_OF_ART, PERSON, GPE, PRODUCT"
+Firelink Shrine,22,22,0,ORG
+"Sen's Fortress
+Oh",2,2,0,ORG
+"Sen's Fortress
+Firelink Shrine
+Firelink Shrine
+First Firelink Shrine",1,1,0,ORG
+First Firelink Shrine,5,5,0,ORG
+"Intelligence
+Hello",4,4,0,ORG
+"Intelligence
+Leaving",1,1,0,ORG
+The Duke's Archives',6,6,0,"ORG, WORK_OF_ART"
+Archives,10,10,0,ORG
+the Primordial Crystal,6,6,0,ORG
+the Crystal Forest,2,2,0,ORG
+Seath,2,2,0,PERSON
+Farewell,26,26,0,PERSON
+Heavens,4,4,0,PERSON
+Black Iron Tarkus,7,4,3,ORG
+Bah,22,22,0,PERSON
+Bells of Awakening,5,5,0,ORG
+the Undead Church,9,8,1,ORG
+Blighttown,11,10,1,"WORK_OF_ART, PERSON, GPE"
+New Londo,34,21,13,GPE
+the Undead Burg,9,7,2,PRODUCT
+the Undead Parish,3,3,0,PRODUCT
+"Broken"" Weapon
+Do",2,2,0,WORK_OF_ART
+"Broken"" Weapon
+Exhausting",1,1,0,WORK_OF_ART
+The Fire Keeper,2,2,0,WORK_OF_ART
+god,2,2,0,PERSON
+peter,2,2,0,PERSON
+the Taurus Demon,3,3,0,"WORK_OF_ART, PRODUCT"
+the Residence Key,3,3,0,ORG
+the Lower Undead Burg,3,3,0,ORG
+Griggs,7,7,0,"PERSON, WORK_OF_ART"
+Unexpected,4,4,0,PERSON
+chum,2,2,0,NORP
+Laurentius,11,11,0,PERSON
+Undead Church,3,3,0,ORG
+Rhea,15,15,0,PERSON
+Vince,17,17,0,PERSON
+Nico,16,16,0,"ORG, GPE"
+Damn,4,4,0,PRODUCT
+Heheh,2,2,0,PERSON
+the Great Lord Gwyn,8,8,0,EVENT
+Gwyndolin,21,15,6,PERSON
+"the Blade of the Darkmoon
+O Disciple of the Dark Sun",2,2,0,ORG
+Covenant,2,2,0,PERSON
+Darkmoon,28,25,3,"ORG, LOC"
+a Blade,4,4,0,PERSON
+Hunteth,4,4,0,PERSON
+Lords,11,11,0,"ORG, PRODUCT"
+Exit,4,4,0,PERSON
+"the Blade of the Darkmoon
+Answer",1,1,0,ORG
+Blade,10,10,0,PERSON
+Godmother,4,4,0,PERSON
+the white fog gate,6,6,0,ORG
+non-Darkmoon,3,3,0,NORP
+Mark,6,6,0,PERSON
+"Gwynevere
+Heretic",2,2,0,ORG
+the Great Lord,2,2,0,EVENT
+the Dark Sun,2,2,0,PERSON
+Dark,43,30,13,"PERSON, ORG, GPE"
+Seek Anor Londo,4,4,0,PERSON
+Gwyn,32,18,14,ORG
+Abyss,96,76,20,PERSON
+Lifedrain,9,6,3,GPE
+The Dark Soul,2,2,0,WORK_OF_ART
+the Dark Soul,2,2,0,LAW
+Firelink Altar,2,2,0,PERSON
+"Firelink Altar
+Speak",1,1,0,PERSON
+Firelink,16,16,0,GPE
+Seek Gravelord Nito,2,2,0,PERSON
+Izalith,26,21,5,PERSON
+Seath the Scaleless,4,4,0,WORK_OF_ART
+Aye,1,1,0,ORG
+karmaic,1,1,0,PERSON
+"Firelink Shrine
+Talk",2,2,0,ORG
+"Firelink Shrine
+Hmm",1,1,0,ORG
+Rumour,1,1,0,PERSON
+rescueth,2,2,0,PERSON
+Oolacile,32,28,4,"GPE, PERSON, ORG, WORK_OF_ART"
+the Crystal Golem,4,4,0,LOC
+Manus,16,16,0,PERSON
+Erggkt,4,4,0,PERSON
+Killing Quelaag's,2,2,0,ORG
+Fair,4,4,0,ORG
+Quelaag,14,12,2,"ORG, PERSON"
+the Old Witch's,2,2,0,ORG
+Mistress Quelaag's,4,4,0,ORG
+Mistress Quelaag,4,4,0,ORG
+Quelana,10,6,4,PERSON
+Thy Scent,2,2,0,PERSON
+Dusk,5,4,1,PERSON
+Knight Artorias,10,10,0,"ORG, PERSON"
+Marvelous Chester,2,2,0,PERSON
+"Marvelous Chester
+Speak",1,1,0,PERSON
+"Manus
+Using",1,1,0,WORK_OF_ART
+Forge,8,8,0,PERSON
+Duke,6,6,0,"ORG, PERSON"
+Angh,2,2,0,PERSON
+Vinheim,28,28,0,GPE
+"Intelligence
+Answer",1,1,0,ORG
+Intelligence,3,3,0,ORG
+Terrific,2,2,0,PERSON
+Reah,17,17,0,ORG
+Kindling,9,8,1,GPE
+"Firelink Shrine
+Speak",2,2,0,ORG
+Time,4,4,0,ORG
+Regal Archives,2,2,0,ORG
+Earth,4,4,0,LOC
+beseech,2,2,0,NORP
+Succeed Lord Gwyn,6,6,0,PERSON
+Without Fire,4,4,0,PERSON
+inheriteth the Fire of our world,4,4,0,WORK_OF_ART
+Kalameet,67,66,1,"ORG, PERSON"
+Skyward,4,4,0,PERSON
+Gough,12,4,8,ORG
+Greatbow,4,4,0,PERSON
+blacksmith,8,8,0,"ORG, PERSON"
+Knighthood,16,16,0,PERSON
+Humans,2,2,0,NORP
+Cursed,4,4,0,PERSON
+Darkwraiths,13,8,5,ORG
+Key,3,3,0,LOC
+Bell of Awakening,3,3,0,ORG
+the Bell of Awakening,9,8,1,ORG
+the Primordial Serpent,2,2,0,ORG
+Chosen Undead,8,8,0,ORG
+the Firelink Chamber,2,2,0,ORG
+Kingseeker,4,4,0,PERSON
+Gravelord Nito,2,2,0,PERSON
+Scaleless,3,2,1,ORG
+Chosen,2,2,0,PERSON
+Knight Lautrec,8,8,0,PERSON
+Parish,12,12,0,NORP
+Gargoyles,6,6,0,"LAW, WORK_OF_ART"
+"the Catacombs
+Ah",2,2,0,ORG
+Maiden Thorolund,4,4,0,PERSON
+Hollows,25,18,7,"ORG, PRODUCT"
+Leaving Maiden Thorolund,4,4,0,PERSON
+"the Catacombs
+Answer",1,1,0,ORG
+"Bell of Awakening
+Oh",2,2,0,ORG
+"Bell of Awakening
+No",1,1,0,ORG
+"Anor Londo
+Anor Londo",1,1,0,PERSON
+the Keeper,4,4,0,PERSON
+Keepers,8,8,0,PERSON
+"Gwynevere
+Hmm",2,2,0,ORG
+the Regal Archives,2,2,0,ORG
+Archive,2,2,0,ORG
+forbidden Archives,2,2,0,ORG
+"Blades of the Darkmoon
+Oh…",3,3,0,ORG
+Depths,15,8,7,PERSON
+"The Depths
+Entering",1,1,0,WORK_OF_ART
+the Great Swamp,4,4,0,LOC
+The Witch of Izalith,8,8,0,PERSON
+Quelaana,3,3,0,ORG
+"Firelink
+Aaahhhh",2,2,0,ORG
+Chester,2,2,0,"ORG, PERSON"
+Juniper,4,4,0,ORG
+Abysswalker,4,4,0,PERSON
+Carim,8,4,4,"ORG, PERSON"
+Indictments,5,5,0,ORG
+"Firelink Shrine
+Speaking",1,1,0,ORG
+Through Kindling,6,6,0,PERSON
+Miracles,20,20,0,PERSON
+"Firelink Shrine
+Greeting
+Oh",1,1,0,ORG
+Thorolund,4,2,2,PRODUCT
+Sob,6,6,0,PERSON
+"Lautrec
+Greeting",1,1,0,EVENT
+Lautrec,10,10,0,"ORG, PERSON"
+Goodbye Quelaag,2,2,0,ORG
+the Bed of Chaos Report,2,2,0,ORG
+Ceaseless Discharge,2,2,0,ORG
+Queelag,3,3,0,PERSON
+"the Bed of Chaos
+Queelag",1,1,0,LAW
+Salaman,6,6,0,PERSON
+the Flame of Chaos,2,2,0,ORG
+the Bed of Chaos,6,6,0,ORG
+the Ascended Pyromancy Flame,3,3,0,ORG
+"the Bed of Chaos
+Now",2,2,0,ORG
+"the Bed of Chaos
+Leaving",1,1,0,ORG
+The Tomb of the Giants,1,1,0,WORK_OF_ART
+"The Tomb of the Giants
+Speak",1,1,0,WORK_OF_ART
+Hollowed,6,2,4,ORG
+Perhaps Petrus,4,4,0,ORG
+Vereor Nox,6,6,0,PERSON
+Dragon School,8,4,4,ORG
+Rickert,4,4,0,WORK_OF_ART
+Forest Hunter,4,3,1,PERSON
+Sieglinde,11,11,0,ORG
+Ash Lake,1,1,0,PERSON
+"Ash Lake
+Talk",1,1,0,PERSON
+Catarina,33,32,1,"GPE, NORP, ORG, PERSON"
+Outside Sen's Fortress,1,1,0,PERSON
+Outside Sen's,1,1,0,PERSON
+Siegmeyer,8,8,0,PERSON
+Inside Sen's Fortress,2,2,0,PERSON
+"Sen's Fortress
+Mmm",2,2,0,ORG
+Fantastic,14,14,0,NORP
+Knight,4,4,0,PERSON
+Sng,4,4,0,PERSON
+The Poison Swamp,2,2,0,WORK_OF_ART
+Lin,4,4,0,PERSON
+"Undead Burg
+Undead Burg",1,1,0,PERSON
+"Anor Londo
+Anor Londo
+Speak",1,1,0,PERSON
+Smooth,4,4,0,PERSON
+Undead Burg - Altar,1,1,0,PERSON
+Sun,18,16,2,"ORG, LOC"
+Tomb,2,2,0,PERSON
+Gravelord,2,2,0,PERSON
+the Sunlight Maggot,3,3,0,WORK_OF_ART
+Drat,4,4,0,"PERSON, GPE"
+Nee,2,2,0,ORG
+Yulia,30,30,0,GPE
+Tsk,4,4,0,PERSON
+Cheap,4,4,0,PRODUCT
+Chaos,4,3,1,PRODUCT
+Old Vamos,4,4,0,PERSON
+the Gaping Dragon,4,3,1,"ORG, LOC"
+Curses,1,1,0,ORG
+Times,4,4,0,ORG
+Petrus,3,3,0,ORG
+Vince of Thorolund,2,2,0,PERSON
+After Petrus,1,1,0,ORG
+seeketh,2,2,0,NORP
+Ariamis,3,2,1,"ORG, PERSON"
+Arrow,2,0,2,PERSON
+Heavier,1,0,1,PERSON
+Moonlight Arrows,1,0,1,PERSON
+Dragonslayer,2,0,2,PERSON
+Dragonslayer Arrows,1,0,1,PERSON
+Dragonslayer Greatbow,1,0,1,PERSON
+Requires Greatbow,1,0,1,PERSON
+Equip,1,0,1,GPE
+Rest,3,0,3,PERSON
+the Firelink Altar,1,0,1,ORG
+Estus,5,0,5,ORG
+Medicinal,1,0,1,ORG
+Poison,2,0,2,ORG
+Goddess Gwynevere,1,0,1,ORG
+The Goddess of Sunlight,1,0,1,ORG
+Flame of Chaos,1,0,1,WORK_OF_ART
+Arstor,4,0,4,"PERSON, GPE"
+the Earl of Carim,1,0,1,PERSON
+The Purging Stone,1,0,1,ORG
+Explodes,1,0,1,PERSON
+Fire Keeper,10,0,10,PERSON
+Estus Flasks,1,0,1,ORG
+Fire Keeper's,3,0,3,PERSON
+Domain,1,0,1,GPE
+Moonlight Butterfly,1,0,1,PERSON
+Ornstein,10,0,10,"ORG, PERSON"
+Dragonslayer Knight,1,0,1,PERSON
+Priscilla the Crossbreed,1,0,1,WORK_OF_ART
+Guardian,1,0,1,ORG
+Demons,1,0,1,ORG
+Wolf,1,0,1,PERSON
+Sif,1,0,1,PERSON
+Ancient Manus,1,0,1,ORG
+Cinder,5,0,5,PERSON
+Old Man McLoyf,1,0,1,WORK_OF_ART
+Lordran,19,0,19,GPE
+The Cracked Red Eye Orb,2,0,2,ORG
+Allfather Lloyd,2,0,2,PERSON
+Talisman,1,0,1,ORG
+Allfather Lloyd's,1,0,1,PERSON
+Lloyd's,1,0,1,ORG
+Knight King Rendal,1,0,1,PERSON
+Temporary,1,0,1,ORG
+Painted World,1,0,1,ORG
+Archives Tower,1,0,1,PERSON
+Extra,1,0,1,NORP
+Archive Tower,1,0,1,ORG
+Undead Burg,2,0,2,PERSON
+Bent Crest Key,1,0,1,PERSON
+the Undead Asylum,1,0,1,WORK_OF_ART
+North,1,0,1,LOC
+Drake Valley,1,0,1,LOC
+Sealers,4,0,4,PRODUCT
+Burg,1,0,1,PERSON
+the North Undead Asylum,2,0,2,ORG
+The Undead Asylum,2,0,2,WORK_OF_ART
+Quit Battle of Stoicism,1,0,1,PERSON
+The Red Soapstone,1,0,1,ORG
+Black Eye,1,0,1,ORG
+Dragon Scale,1,0,1,ORG
+Stone,2,0,2,ORG
+Roar,1,0,1,PERSON
+Eyes of Death,1,0,1,ORG
+the Eyes of Death,1,0,1,ORG
+Blood-Drained,1,0,1,ORG
+the Blades of the Darkmoon,3,0,3,"ORG, WORK_OF_ART"
+Sunlight,1,0,1,PERSON
+Very Good,1,0,1,WORK_OF_ART
+The Goddess of Sin Velka,1,0,1,ORG
+Velka,10,0,10,ORG
+the Daughters of Chaos,1,0,1,ORG
+wearer,11,0,11,ORG
+"Knight
+Artorias",1,0,1,ORG
+Knight Artorias's,1,0,1,PERSON
+Darkmoon Blade Covenant,1,0,1,WORK_OF_ART
+Gwynevere,1,0,1,PERSON
+Eastern,10,0,10,ORG
+Havel,5,0,5,ORG
+Blade Ciaran,5,0,5,PERSON
+Ciaran,2,0,2,GPE
+The Leo Ring,1,0,1,PERSON
+Vinheim Dragon School,12,0,12,ORG
+Fina,5,0,5,GPE
+max,1,0,1,PERSON
+Sin,1,0,1,ORG
+Gywn,1,0,1,PERSON
+the Princess of Sunlight,1,0,1,LAW
+Flame,1,0,1,PERSON
+the Way of White,5,0,5,LOC
+wolf,1,0,1,PERSON
+Helm,7,0,7,NORP
+Balder,8,0,8,"PERSON, GPE"
+Gigantic,1,0,1,ORG
+Tarkus,4,0,4,PERSON
+"Vinheim
+Dragon School",1,0,1,ORG
+the Dark of Manus,1,0,1,ORG
+a Blade of Darkmoon,4,0,4,PERSON
+Knights of Catarina,4,0,4,ORG
+Knights,3,0,3,ORG
+the First Flame,4,0,4,ORG
+Darkwraith,1,0,1,ORG
+Fang Boar,1,0,1,PERSON
+Daughter of Chaos,4,0,4,ORG
+Zena,3,0,3,GPE
+Domhnall,4,0,4,PERSON
+Helm of Kirk,1,0,1,PERSON
+Thorns,4,0,4,NORP
+Kirk,5,0,5,"ORG, PERSON"
+Helm of Solaire,1,0,1,ORG
+"Astora, Knight",4,0,4,ORG
+Solaire,5,0,5,PERSON
+the Goddess of Sin,4,0,4,WORK_OF_ART
+Grant,4,0,4,ORG
+Sanctus,4,0,4,ORG
+Leeroy,4,0,4,ORG
+Pharis,1,0,1,GPE
+Helm of Vamos,1,0,1,PERSON
+skeleton blacksmith,1,0,1,PERSON
+"Anor
+Londo",8,0,8,"GPE, PERSON"
+Channelers,4,0,4,ORG
+Executioner,4,0,4,ORG
+Curse,1,0,1,PERSON
+the Knights of Berenike,3,0,3,ORG
+the Stone Knight,4,0,4,ORG
+The Stone Knight,4,0,4,ORG
+Beatrice,8,0,8,ORG
+Armor of Solaire,1,0,1,ORG
+Robe,5,0,5,PERSON
+the Black Knight,1,0,1,ORG
+Cloak,3,0,3,"ORG, PERSON"
+Caterina,3,0,3,GPE
+recovery1,1,0,1,ORG
+White,2,0,2,LOC
+magic garb,3,0,3,PERSON
+"Dragon
+School",1,0,1,ORG
+Armor of Smough,1,0,1,ORG
+the Black Knights,1,0,1,ORG
+Manchette,2,0,2,ORG
+the Silver Knights,2,0,2,ORG
+Countless Knights,2,0,2,PERSON
+Leggings,5,0,5,ORG
+Leggings of Black Iron Tarkus,1,0,1,ORG
+Hollow Warriors,1,0,1,ORG
+Leggings of Solaire,1,0,1,ORG
+Leggings of Leeroy,1,0,1,ORG
+Leggings of Smough,1,0,1,ORG

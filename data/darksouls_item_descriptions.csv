@@ -1,0 +1,1842 @@
+name,url,type,description
+Wooden Arrow,http://darksouls.wikidot.com/wooden-arrow,Ammo,"Standard Arrow.
+These arrows do not fly particularly far,
+nor do they inflict a terrible amount of
+damage, but their cheap cost make them
+useful when volume is required."
+Standard Arrow,http://darksouls.wikidot.com/standard-arrow,Ammo,"Standard Arrow.
+Arrow must be equipped to be fired."
+Large Arrow,http://darksouls.wikidot.com/large-arrow,Ammo,"Large Arrow.
+Heavier arrows cause more damage,
+but have a shorter range."
+Feather Arrow,http://darksouls.wikidot.com/feather-arrow,Ammo,"Red feather arrows of the Lord's hunters.
+Their long range makes them effective for sniping."
+Fire Arrow,http://darksouls.wikidot.com/fire-arrow,Ammo,"Arrows fired with flaming tips.
+Inflicts flaming damage."
+Poison Arrow,http://darksouls.wikidot.com/poison-arrow,Ammo,"Arrow with point dipped in poison.
+Ensures the demise of prey in a hunt,
+or the target in an assassination.
+Once an enemy is poisoned, one need only wait."
+Moonlight Arrow,http://darksouls.wikidot.com/moonlight-arrow,Ammo,"Arrow granted to those bound by Covenant to the Dark Sun Gwyndolin, Lord Gwyn's lastborn.
+Moonlight Arrows glow silver, and inflict magic damage."
+Dragonslayer Arrow,http://darksouls.wikidot.com/dragonslayer-arrow,Ammo,"Giant dragon-hunting arrows, resembling iron spears.
+Used by Hawkeye Gough and his Dragonslayer, they puncture human flesh easily.
+Dragonslayer Arrows can only be used with the Dragonslayer Greatbow, and vice-versa."
+Gough's Great Arrow,http://darksouls.wikidot.com/gough-s-great-arrow,Ammo,"Great arrow used by Hawkeye Gough,
+one of Lord Gwyn's Four Knights,
+for dragon slaying. Requires Greatbow. Gough personally crafts each stone tip,
+and wraps the shaft tightly with tree bark."
+Wood Bolt,http://darksouls.wikidot.com/wood-bolt,Ammo,"Basic wood bolt. These bolts do not fly particularly far,
+nor do they inflict a terrible amount of
+damage, but their cheap cost makes them
+useful when volume is required."
+Standard Bolt,http://darksouls.wikidot.com/standard-bolt,Ammo,"Standard crossbow bolt.
+Used mainly with the Light Crossbow. Equip crossbow with a bolt to fire."
+Heavy Bolt,http://darksouls.wikidot.com/heavy-bolt,Ammo,"Large bolt.
+Used mainly with the Heavy Crossbow. These weighty bolts inflict high damage, but have reduced range."
+Lightning Bolt,http://darksouls.wikidot.com/lightning-bolt,Ammo,"Special bolts imbued with lightning, crafted
+by the giant blacksmith of Anor Londo. The giant blacksmith has never seen a
+crossbow, but remembers the specifications
+of the bolts requested by ancient warriors."
+Sniper Bolt,http://darksouls.wikidot.com/sniper-bolt,Ammo,"Red feather bolts used with the Sniper
+Crossbow. Their long range makes them
+effective for sniping."
+Armor Smithbox,http://darksouls.wikidot.com/armor-smithbox,Bonfire Items,"Tool used to etch titanite into armor for reinforcement.
+Rest at a bonfire to make armor reinforcement possible."
+Bottomless Box,http://darksouls.wikidot.com/bottomless-box,Bonfire Items,"A peculiar bottomless wooden box.
+Its origins are unknown. Some deride
+it as a symbol of unbridled avarice. Any number of items can be deposited into
+the box, and items can be managed while
+resting at a bonfire."
+Lordvessel,http://darksouls.wikidot.com/lordvessel,Bonfire Items,"Lordvessel bestowed upon the chosen Undead who is destined to succeed Lord Gwyn.
+The chosen Undead is granted the art of warping between bonfires.
+To open the final door, place this vessel on the Firelink Altar, and fill it with powerful souls."
+Repairbox,http://darksouls.wikidot.com/repairbox,Bonfire Items,"Specialized mortar1 used to repair weapons and armor by grinding repair powder.
+Rest at a bonfire to make weapon and armor repair possible. Repair powder is fragile and cannot be taken along."
+Rite of Kindling,http://darksouls.wikidot.com/rite-of-kindling,Bonfire Items,"This secret rite allows bonfires to be
+bolstered further with Kindling,
+so that even more Estus can be collected. Kindling was a sacred rite passed down among clerics,
+but all Undead can imitate the process in the same manner
+that they restore their Hollowing with humanity.
+How peculiar that humans had found little use for humanity until they turned Undead."
+Weapon Smithbox,http://darksouls.wikidot.com/weapon-smithbox,Bonfire Items,"Tools used to etch titanite
+into weapons for reinforcement. Rest at a bonfire to make
+weapon reinforcement possible."
+Estus Flask,http://darksouls.wikidot.com/estus-flask,Consumables,"The Undead treasure these dull green flasks.
+Fill with Estus at bonfire. Fills HP."
+Elizabeth's Mushroom,http://darksouls.wikidot.com/elizabeth-s-mushroom,Consumables,"Large medicinal mushroom of
+Elizabeth, keeper of the sanctuary. Eating this mushroom invigorates the flesh,
+and greatly restores HP for a limited duration. Its dramatic effect can make the differance
+between a warrior's life and death."
+Bloodred Moss Clump,http://darksouls.wikidot.com/bloodred-moss-clump,Consumables,"Medicinal red moss clump.
+Reduces bleeding build-up. Bleeding builds up when attacked by sharp
+blades or spikes, and once triggered causes
+severe damage. Use this moss clump before
+it reaches this point."
+Purple Moss Clump,http://darksouls.wikidot.com/purple-moss-clump,Consumables,"Medicinal purple moss clump.
+Reduces poison build-up. Cures poison. Poison builds up in the body, and when it
+breaks out, it causes gradual damage over
+a period of time.
+Poison can be exasperating, so be certain to
+carry the needed quantity of these moss
+clumps when destined for an afflicted area."
+Blooming Purple Moss Clump,http://darksouls.wikidot.com/blooming-purple-moss-clump,Consumables,"Potently medicinal moss clump with a flower.
+Reduces poison and toxin. Restores status. Toxin is a more vicious form of poison which
+quickly leads to death. Moss clumps without a flower are useless
+against toxin, and a lack of these moss
+clumps could lead to an early demise."
+Divine Blessing,http://darksouls.wikidot.com/divine-blessing,Consumables,"Holy water from Goddess Gwynevere.
+Fully restores HP and undo irregularities. The Goddess of Sunlight, Gwynevere, daughter of
+the great Lord of Sunlight Gwyn, is cherished
+by all as the symbol of bounty and fertility."
+Egg Vermifuge,http://darksouls.wikidot.com/egg-vermifuge,Consumables,"Bitter, sour chestnut.
+Removes parasitic egg from body. The egg-bearers have chosen to serve the
+Flame of Chaos, and the eggs symbolize this
+selfless choice. Naturally, these chestnuts are forbidden, but
+are allowed under certain circumstances."
+Green Blossom,http://darksouls.wikidot.com/green-blossom,Consumables,"Green weed, shaped like a flower.
+Temporary boost to stamina recovery speed. This uniquely bitter, biting herb is
+sometimes harvested in large quantities
+but normally it is an annual plant found
+near water."
+Purging Stone,http://darksouls.wikidot.com/purging-stone,Consumables,"Ash-colored stone encasing a skull.
+Secret treasure of Arstor, the Earl of Carim.
+Reduces curse build-up and breaks curse. Humans are helpless against curses,
+and can only redirect their influence.
+The Purging Stone does not dispel curses,
+but receives them as a surrogate. The stone
+itself was once a person or some other being."
+Firebomb,http://darksouls.wikidot.com/firebomb,Consumables,"Bisque urn filled with black powder.
+explodes, inflicting fire damage. Relatively powerful ranged weapon, especially in situations calling for fire damage.
+A very precious item for low levels. Many warriors use these to augment their strategic repertoire."
+Black Firebomb,http://darksouls.wikidot.com/black-firebomb,Consumables,"Black bisque urn filled with black powder.
+Explodes, inflicting fire damage. Powerful ranged weapon, especially
+in situations calling for fire damage.
+A very precious item at low levels. Black Firebombs are especially destructive."
+Dung pie,http://darksouls.wikidot.com/dung-pie,Consumables,"Atrocious fecal waste material.
+Throw at enemy to build up toxins,
+but also builds up your toxicity, Although the stench makes it difficult to
+carry on one's person, turning an enemy toxic
+inflicts high damage over a period of time."
+Throwing Knife,http://darksouls.wikidot.com/throwing-knife,Consumables,"Throwing Knife.
+Used as a projectile. Throwing knives have limited range and
+accuracy compared to arrows, but offer a
+quick-and-easy ranged attack. Undead who lack other means of ranged
+attacks will do well to stock a few of these."
+Poison Throwing Knife,http://darksouls.wikidot.com/poison-throwing-knife,Consumables,"Throwing knife.
+Coated with poison. Throwing knives have limited range and
+accuracy compared to arrows, but offer a
+quick-and-easy ranged attack. When a foe is poisoned, it will continually
+take damage over a period of time."
+Charcoal Pine Resin,http://darksouls.wikidot.com/charcoal-pine-resin,Consumables,"Black charcoal-like pine resin.
+Applies fire to right-hand weapon. Affected weapon inflicts fire damage
+for a short time. Particularly effective
+against corporeal creatures and Undead,
+who have an instinctual fear of fire."
+Gold Pine Resin,http://darksouls.wikidot.com/gold-pine-resin,Consumables,"Rare pine which emits golden sparks.
+Applies lightning to right-hand weapon. Affected weapon inflicts rare lightning
+damage, making it effective against targets
+which are resilient to both magic and fire.
+Very effective against dragon family foes."
+Rotten Pine Resin,http://darksouls.wikidot.com/rotten-pine-resin,Consumables,"Rotten pine resin that has gained poison.
+Adds poison effect to right-hand weapon. Hits with affected weapon build up enemy
+poison level. If enemy is poisoned, damage
+will be inflicted for a period of time."
+Fire Keeper Soul,http://darksouls.wikidot.com/fire-keeper-soul,Consumables,"Soul of a long-lost Fire Keeper. Each Fire Keeper is a corporeal manifestation
+of her bonfire, and a draw for the humanity
+which is offered to her. Her soul is gnawed
+by infinite humanity, and can boost the power
+of precious Estus Flasks. Reinforced Estus
+Flasks capture denser Estus, allowing for
+increased restoration of HP. Soul of the Ash Maiden,
+Fire Keeper of Firelink Shrine. A Fire Keeper's soul is a draw for humanity,
+and held within their bosoms, below just a
+thin layer of skin, are swarms of humanity
+that writhe and squirm.
+Was the Ash Maiden locked in this dark prison
+for some transgression, or by her own will? Soul of the Darkmoon Knightess,
+Fire Keeper of Anor Londo. A Fire Keeper's soul is a draw for humanity,
+and held within their bosoms, below just a
+thin layer of skin, are swarms of humanity
+that writhe and squirm. Her brass armor
+serves to disguise this ghastly form. Soul of a Daughter of Chaos,
+Fire Keeper of Quelaag's Domain. A Fire Keeper's soul is a draw for humanity,
+and held within their bosoms, below just a
+thin layer of skin, are swarms of humanity
+that writhe and squirm.
+To her, the countless eggs which appeared
+were cradles for each tiny humanity."
+Soul of a Lost Undead,http://darksouls.wikidot.com/soul-of-a-lost-undead,Consumables,"Soul of a lost Undead who has
+long ago gone Hollow. Use to acquire souls. Souls are the source of all life,
+and whether Undead, or even Hollow,
+one continues to seek them."
+Large Soul of a Lost Undead,http://darksouls.wikidot.com/large-soul-of-a-lost-undead,Consumables,"Large soul of a lost Undead
+who has long ago gone Hollow. Use to acquire souls. Souls are the source of all life,
+and whether Undead, or even Hollow,
+one continues to seek them."
+Soul of a Nameless Soldier,http://darksouls.wikidot.com/soul-of-a-nameless-soldier,Consumables,"Soul of a nameless Undead soldier
+who has long ago gone Hollow. Use to acquire souls. Souls are the source of all life,
+and whether Undead, or even Hollow,
+one continues to seek them."
+Large Soul of a Nameless Soldier,http://darksouls.wikidot.com/large-soul-of-a-nameless-soldier,Consumables,"Large soul of a nameless Undead
+soldier who has long ago gone Hollow. Use to acquire many souls. Souls are the source of all life,
+and whether Undead, or even Hollow,
+one continues to seek them."
+Soul of a Proud Knight,http://darksouls.wikidot.com/soul-of-a-proud-knight,Consumables,"Soul of a proud Undead knight who
+has long ago gone Hollow. Use to acquire many souls. Souls are the source of all life,
+and whether Undead, or even Hollow,
+one continues to seek them."
+Large Soul of a Proud Knight,http://darksouls.wikidot.com/large-soul-of-a-proud-knight,Consumables,"Large soul of a proud Undead knight who
+has long ago gone Hollow. Use to acquire many souls. Souls are the source of all life,
+and whether Undead, or even Hollow,
+one continues to seek them."
+Soul of a Brave Warrior,http://darksouls.wikidot.com/soul-of-a-brave-warrior,Consumables,"Soul of a brave Undead warrior
+who has long ago gone Hollow. Use to acquire a large amount of souls. Souls are the source of all life,
+and whether Undead, or even Hollow,
+one continues to seek them."
+Large Soul of a Brave Warrior,http://darksouls.wikidot.com/large-soul-of-a-brave-warrior,Consumables,"Large soul of a brave Undead warrior
+who has long ago gone Hollow. Use to acquire a large amount of souls. Souls are the source of all life,
+and whether Undead, or even Hollow,
+one continues to seek them."
+Soul of a Hero,http://darksouls.wikidot.com/soul-of-a-hero,Consumables,"Soul of a hero of legend
+who has long ago gone Hollow. Use to acquire a large amount of souls. Souls are the source of all life,
+and whether Undead, or even Hollow,
+one continues to seek them."
+Soul of a Great Hero,http://darksouls.wikidot.com/soul-of-a-great-hero,Consumables,"Great soul of a hero of legend
+who has long ago gone Hollow. Use to acquire an incredible amount of souls. Souls are the source of all life,
+and whether Undead, or even Hollow,
+one continues to seek them."
+Soul of the Moonlight Butterfly,http://darksouls.wikidot.com/soul-of-the-moonlight-butterfly,Consumables,"Soul of the mystical Moonlight Butterfly,
+which flitters in the Darkroot Garden. Special beings have special souls.
+The butterfly's soul is a creation of
+Seath the Scaleless. Use to acquire a huge amount of souls,
+or to create a unique weapon."
+Soul of Quelaag,http://darksouls.wikidot.com/soul-of-quelaag,Consumables,"Soul of Quelaag, once daughter of the Witch of Izalith, but now a chaos demon. Special beings have special souls, and Quelaag's soul contains all aspects of Chaos.
+Use it to acquire a huge amount of souls, or to create a unique weapon."
+Core of an Iron Golem,http://darksouls.wikidot.com/core-of-an-iron-golem,Consumables,"Soul serving as the core of the Iron Golem, guardian of Sen's Fortress, and slayer of countless heroes seeking Anor Londo. Originally a bone of an everlasting dragon. Use to acquire a huge amount of souls, or to create a unique weapon."
+Soul of Ornstein,http://darksouls.wikidot.com/soul-of-ornstein,Consumables,"Soul of Ornstein, Dragonslayer Knight who guards the cathedral in the forsaken city of Anor Londo. Special beings have special souls. Lord Gwyn granted this soul to his four most trusted knights. Use to acquire a large amount of souls, or to create a unique weapon."
+Soul of Smough,http://darksouls.wikidot.com/soul-of-smough,Consumables,"Soul of Smough the Executioner, who guards the cathedral in the forsaken city of Anor Londo. Special beings have special souls. Use the soul of this eerily gleeful executioner to acquire a huge amount of souls, or to create a unique weapon."
+Soul of Priscilla,http://darksouls.wikidot.com/soul-of-priscilla,Consumables,"Soul of Priscilla the Crossbreed,
+trapped inside the painted world of Ariamis. Special beings have special souls.
+Use the soul of this crossbreed bastard
+child and antithesis to all life to acquire
+a huge amount (sic) of souls, or to create
+a unique weapon."
+Guardian Soul,http://darksouls.wikidot.com/guardian-soul,Consumables,"Soul of the white winged lion sanctuary watchkeeper,
+who dreaded the spread of the Abyss. The Guardian exhibited traits of several
+animals other than lions, suggesting that
+it was no ordinary beast, but rather closer
+to the beings known as Demons."
+Soul of Sif,http://darksouls.wikidot.com/soul-of-sif,Consumables,"Soul of Sif the Great Grey Wolf, who guards the grave of Artorias the Abysswalker. Special beings have special souls.
+Use the soul of Sif, who inherited the divine knightsword, to acquire a huge amount of souls, or to create a unique weapon."
+Soul of Gwyndolin,http://darksouls.wikidot.com/soul-of-gwyndolin,Consumables,"Soul of Darkmoon Gwyndolin, god of the Dark Sun and guardian of deserted Anor Londo. Special beings have special souls.
+Use the soul of Gwyn's lastborn to acquire a huge amount of souls, or to create a unique weapon."
+Soul of Artorias,http://darksouls.wikidot.com/soul-of-artorias,Consumables,"Soul of Lord Gwyn's Knight Artorias,
+who was consumed by the Abyss. The legend that Artorias repelled the Abyss
+only told half the story. It seems that he was defeated, and his
+honor preserved, by some unsung hero,
+who is the true victor of the Abyss."
+Soul of Manus,http://darksouls.wikidot.com/soul-of-manus,Consumables,"Soul of Manus, Father of the Abyss.
+This extraordinary soul is a viscous,
+lukewarm lump of gentle humanity. Ancient Manus was clearly once human.
+But he became the Father of the Abyss
+after his humanity went wild, eternally
+seeking his precious broken pendant."
+"Soul of Gwyn, Lord of Cinder",http://darksouls.wikidot.com/soul-of-gwyn-lord-of-cinder,Consumables,"Soul of Gwyn, the Lord of Sunlight
+and Cinder, who linked the First Flame. Lord Gwyn bequeathed most of his power to the
+Gods, and burned as cinder for the First
+Flame, but even so, Lord Gwyn's soul
+is a powerful thing indeed."
+Alluring Skull,http://darksouls.wikidot.com/alluring-skull,Consumables,"A skull with meekly lingering souls.
+Throw to shatter and spread souls to
+attract certain types of enemies. Souls are a concentration of life, and the
+life-starved Hollows are lured by its power.
+Not effective for all enemies."
+Binoculars,http://darksouls.wikidot.com/binoculars,Consumables,"Binoculars made of brass.
+Use to peer at distant scenery. This advanced device was built by a
+famous craftsman of Astora. Its utility is
+singular, but its applications many. The value of these specs depends greatly on
+the imagination of their owner."
+Copper Coin,http://darksouls.wikidot.com/copper-coin,Consumables,"Coin made of copper. Its face shows
+Old Man McLoyf, god of medicine and drink. Even coins of great value in the world of
+men have little value in Lordran, where the
+accepted currency is souls. Those who dream of returning to the outside
+world are fond of carrying these around."
+Cracked Red Eye Orb,http://darksouls.wikidot.com/cracked-red-eye-orb,Consumables,"Online play item.
+Invade another world.
+(Hollows cannot use the item) Defeat the master of the world you have
+invaded to acquire humanity. The Cracked Red Eye Orb allows players to
+temporarily imitate this ability normally
+limited to the Darkwraiths of Kaathe."
+Darksign,http://darksouls.wikidot.com/darksign,Consumables,"The Darksign signifies an accursed Undead.
+Those branded with it are reborn after death,
+but will one day lose their mind and go Hollow. Death triggers the Darksign,
+which returns its bearer to the last bonfire
+rested at, but at the cost of all humanity and souls."
+Gold Coin,http://darksouls.wikidot.com/gold-coin,Consumables,"Coin made of gold, with Allfather Lloyd
+and his white halo shown on its face. Even coins of great value in the world of
+men have little value in Lordran, where the
+accepted currency is souls. Those who dream of returning to the outside
+world are fond of carrying these around."
+Humanity,http://darksouls.wikidot.com/humanity,Consumables,"Rare tiny black sprite found on corpses.
+Use to gain 1 humanity and restore a
+large amount of HP. This black sprite is called humanity, but
+little is known about its true nature.
+If the soul is the source of all life,
+then what distinguishes the humanity
+we hold within ourselves?"
+Homeward Bone,http://darksouls.wikidot.com/homeward-bone,Consumables,"Bone fragment reduced to white ash.
+Return to last bonfire used for resting. Bonfires are fueled by the bones of the Undead.
+In rare cases, the strong urge of their previous owner's
+to seek bonfires enchants their bones with a homeward instinct."
+Lloyd's Talisman,http://darksouls.wikidot.com/lloyd-s-talisman,Consumables,"Talisman utilized by Allfather Lloyd's
+cleric knights to hunt down the Undead. Blocks Estus recovery within a limited area. In the outside world, the Undead are
+accursed creatures, and Lloyd's cleric knights
+are widely praised for their Undead hunts.
+This blessed talisman blocks Undead recovery,
+allowing the knights to fight with impunity."
+Pendant,http://darksouls.wikidot.com/pendant,Consumables,"A simple pendant with no effect. Even so, pleasant memories are crucial
+to survival on arduous journeys."
+Prism Stone,http://darksouls.wikidot.com/prism-stone,Consumables,"Warm pebble emitting a beautiful phasing aura
+of seven colors, with a very rare eighth. The rainbow stone does nothing special, but
+can serve as a path marker, and can be
+dropped off a cliff to judge height by the
+sound of descent. If a loud noise is heard upon its landing,
+then a fall off the ledge is surely lethal."
+Repair Powder,http://darksouls.wikidot.com/repair-powder,Consumables,"Lightly enchanted golden powder.
+Repairs weapon equipped in right hand. Use of a weapon depletes its durability, eventually rendering it ineffective.
+Repair Powder is a precious method of repair on the battlefield, as it obviates the need for a Repairbox."
+Rubbish,http://darksouls.wikidot.com/rubbish,Consumables,"Rubbish has no value. Who in their right mind would bother carrying this around?
+Perhaps you need help."
+Silver Coin,http://darksouls.wikidot.com/silver-coin,Consumables,"Coin made of silver, with a portrait of the
+legendary Knight King Rendal on its face. Even coins of great value in the world of
+men have little value in Lordran, where the
+accepted currency is souls. Those who dream of returning to the outside
+world are fond of carrying these around."
+Silver Pendant,http://darksouls.wikidot.com/silver-pendant,Consumables,"One of the ancient treasures of Anor Londo.
+Presented to Artorias for facing the Abyss.
+
+Effectively deflects the Dark of the Abyss,
+especially in its magic forms."
+Transient Curse,http://darksouls.wikidot.com/transient-curse,Consumables,"Limb of the victim of a curse.
+Temporary curse allows engagement with ghosts. The only way to fight back against ghosts,
+who are cursed beings, is to become cursed
+oneself. The safest method, however dreadful,
+is to cut off an arm of the dead."
+Twin Humanities,http://darksouls.wikidot.com/twin-humanities,Consumables,"Rare tiny black sprite found on corpses.
+Very unusual twin humanity.
+Use to gain 2 humanity and restore a
+large amount of HP. This black sprite is called humanity, but
+little is known about its true nature.
+If the soul is the source of all life,
+then what distinction is left for humanity?"
+Annex Key,http://darksouls.wikidot.com/annex-key,Keys,"Key to the annex in the
+Painted World of Ariamis. In the wintery painted world,
+there is a structure resembling an
+old cathedral; its annex serves
+as a type of storehouse."
+Archive Tower Cell Key,http://darksouls.wikidot.com/archive-tower-cell-key,Keys,"Key to the cell of the Duke's Archive Tower. The Archive Tower, once a trove of precious tomes and letters, became a prison after the onset of Seath's madness. The serpent men who guard the prison know not the value of what they hide. In the basement of the tower are the writhing ""mistakes"" of the terrifying experiments which were conducted there."
+Archive Tower Giant Cell Key,http://darksouls.wikidot.com/archive-tower-giant-cell-key,Keys,"Key to the giant cell below the Duke's Archives Tower.
+The giant cell once imprisoned countless maidens, but is now empty, save for a few key persons. They struggle to uphold their sanity, as the horde of ""mistakes"" writhe at a fearfully close proximity."
+Archive Tower Giant Door Key,http://darksouls.wikidot.com/archive-tower-giant-door-key,Keys,"Key to the giant door leading out from the uppermost floor of Archive Tower, which now serves as a prison. The key's design resembles not the key of a prison; indeed, the tower was once no prison at all, but a trove of precious tomes."
+Archive Prison Extra Key,http://darksouls.wikidot.com/archive-tower-extra-key,Keys,"Extra key to a cell in the Duke's Archive Tower.
+Perhaps the serpent men were careless, for there are several keys scattered about which fit Archive Tower cells."
+Basement Key,http://darksouls.wikidot.com/basement-key,Keys,"Opens the narrow passage leading below
+at the far face of the great bridge in
+the Undead Burg. The lower Undead Burg is a treacherous place.
+Do not turn your back on the wily thieves, or
+the wild dogs who serve the Capra Demon."
+Big Pilgrim´s Key,http://darksouls.wikidot.com/big-pilgrim-s-key,Keys,"Key to the inner door of the Undead Asylum
+main hall. Big key belonging to a chosen
+Undead pilgrim. But this chosen Undead knows not what
+this pilgrimage has in store."
+Blighttown Key,http://darksouls.wikidot.com/blighttown-key,Keys,"Key to Blighttown from the Depths of the
+Undead Burg. Swallowed by the Gaping Dragon. As its name suggests, Blighttown is a place
+of great pestilence. Even the polluted
+inhabitants of the Depths are aware of its
+dangers, and built this mighty door in hopes
+that they could remain safely separated."
+Broken Pendant,http://darksouls.wikidot.com/broken-pendant,Keys,"Half of a broken stone pendant.
+The vine appears to originate from Oolacile. A powerful magic can be sensed from this
+ancient stone. Yet men of this time can
+neither manipulate nor sense its power,
+which has a distinct air consisting of
+both reverence and nostalgia."
+Cage Key,http://darksouls.wikidot.com/cage-key,Keys,"Key to the hanging cage in Sen's Fortress. If a hapless adventurer becomes fatigued during an imprudent attempt to overcome the fortress, the serpent men will not kill him, but lock him up in a lonely cage. Eventually, unless they have forgotten, they drag the victim off to who-knows-where."
+Crest Key,http://darksouls.wikidot.com/crest-key,Keys,"Bent Crest Key.
+The grooves of the crest are enchanted,
+the door sealed with a powerful spell."
+Crest of Artorias,http://darksouls.wikidot.com/crest-of-artorias,Keys,"This crest opens a door in the Darkroot Garden sealed by ancient magic. This door leads to the grave of Sir Artorias the Abysswalker. Many adventurers have left for the grave, but none have returned for they make easy prey for local bandits,
+With such dangers, the crest can do more harm than good in the hands of the uninitiated."
+Dungeon Cell Key,http://darksouls.wikidot.com/dungeon-cell-key,Keys,"Key to the dungeon of the Undead Asylum to
+the North. A mysterious knight, without saying a word,
+shoved a corpse down into the cell, and on
+its person was this key. Who was this knight?
+And was was his purpose? There may be no
+answer, but one must still forge ahead."
+Key to New Londo Ruins,http://darksouls.wikidot.com/key-to-new-londo-ruins,Keys,"Key to the iron bars separating the ruins of
+New Londo and Drake Valley. The ruins of New Londo were blocked off,
+for the cursed ghosts posed danger to life
+and spirit, and the legends speak of a
+terrible Dark that was sealed away."
+Key to the Depths,http://darksouls.wikidot.com/key-to-the-depths,Keys,"Key opening the door from the lower
+Undead Burg to the Depths. Those banished from the Undead Burg eke out
+their existence in the Depths, a damp lair
+with no trace of sunlight. Nearly half of
+the Depths form a perilous flooded labyrinth."
+Key to the Seal,http://darksouls.wikidot.com/key-to-the-seal,Keys,"Key to the floodgates of New Londo, which seal away the Four Kings who fell to Dark. The Sealers flooded New Londo to banish the Darkwraiths and the Four Kings. The agonizing decision was made with the realization that countless lives, and the robust culture of the city, would be lost. The victims now roam the ruins as ghosts."
+Master Key,http://darksouls.wikidot.com/master-key,Keys,"This universal key opens any basic lock.
+Tool of the trade for thieves. But in the cursed land of the Undead,
+most doors are better left unopened."
+Mystery Key,http://darksouls.wikidot.com/mystery-key,Keys,"The purpose of this key is unknown.
+Resembles a basic prison cell key."
+Peculiar Doll,http://darksouls.wikidot.com/peculiar-doll,Keys,"A strange doll in strange dress. There once was an abomination who had
+no place in this world. She clutched this
+doll tightly, and eventually was drawn into
+a cold and lonely painted world."
+Residence Key,http://darksouls.wikidot.com/residence-key,Keys,"Key to a residence in the Undead Burg.
+Simple, sturdy design of the locks in
+the Burg keep out unwanted visitors. But this is a standard key in these parts,
+and will open several residences."
+Undead Asylum F2 East Key,http://darksouls.wikidot.com/undead-asylum-f2-east-key,Keys,"Key to the iron bars on the east side of the
+second floor of the North Undead Asylum. The Undead Asylum is a giant Undead prison,
+segmented by countless iron bars. Even if an Undead were to escape from a
+cell, passage to the outside world would
+not be gained easily."
+Undead Asylum F2 West Key,http://darksouls.wikidot.com/undead-asylum-f2-west-key,Keys,"Key to the iron bars on the west side of the
+second floor of the North Undead Asylum. The Undead Asylum is a giant Undead prison,
+segmented by countless iron bars. But even if a hero found a key in Lordran
+to liberate this prison, would he have the
+means, or the heart, to ever come back?"
+Sewer Chamber Key,http://darksouls.wikidot.com/sewer-chamber-key,Keys,"Key to the sewer chamber in the Depths. In any community, a few bad apples are sure
+to exhibit insatiable greed. If they were
+turned Undead, and banished to the Depths,
+would they reconsider their ways? Use this key to see for yourself."
+Watchtower Basement Key,http://darksouls.wikidot.com/watchtower-basement-key,Keys,"Key to the basement of the watchtower in
+the Undead Burg. The basement of the watchtower forms a stone
+cell. There are rumors of a hero turned
+Hollow who was locked away by a dear friend.
+For his own good, of course."
+Black Separation Crystal,http://darksouls.wikidot.com/black-separation-crystal,Multiplayer Items,"This black crystal, long a symbol of
+farewell, is granted to banished Undead.
+The crystal sends phantoms back to their
+homes, or sends you back to yours. Beware of fickle use of the item if you
+intend to nurture relations."
+Orange Guidance Soapstone,http://darksouls.wikidot.com/orange-guidance-soapstone,Multiplayer Items,"Online play item.
+Write/view/rate message. Messages transmit to other worlds, where they
+are rated. Also, rate messages of others. In Lordran, the flow of time is distorted,
+and messages allow Undead to assist
+(or deceive) one another."
+Purple Coward's Crystal,http://darksouls.wikidot.com/purple-coward-s-crystal,Multiplayer Items,"Online play item.
+Quit Battle of Stoicism.
+(Session ends if host leaves) Victory in this battle once led to ancient
+Anor Londo, but even in the absence
+of it's overseer, capitulation is a disgrace.
+In the name of a warrior's honor, do not
+quickly resort to the use of this crystal."
+Red Sign Soapstone,http://darksouls.wikidot.com/red-sign-soapstone,Multiplayer Items,"Online play item.
+Leaves invasion sign.
+(Hollows cannot use the item) Be summoned to another world as a dark
+spirit, and defeat the summoner to acquire
+humanity.
+Certain Darkwraiths resist their descent into
+dark and preserve along the honorable path.
+The Red Soapstone is for them."
+White Sign Soapstone,http://darksouls.wikidot.com/white-sign-soapstone,Multiplayer Items,"Online play item.
+Leave summon sign. Be summoned to another world as a phantom
+through your sign, and defeat the area boss
+to acquire humanity.
+(Hollows cannot conduct summons) In Lordran, the flow of time is distorted,
+and the White Sign Soapstone allows
+Undead to assist one another."
+Black Eye Orb,http://darksouls.wikidot.com/black-eye-orb,Multiplayer Items,"Mystical orb found on a Keeper's corpse. Invade the world of the murderer of a
+Fire Keeper, to defeat the perpetrator and
+reclaim the soul of the Fire Keeper. The Black Eye keeps constant watch on the
+city of the Gods, Anor Londo."
+Blue Eye Orb,http://darksouls.wikidot.com/blue-eye-orb,Multiplayer Items,"Online play item.
+Invade world of player in Book of the Guilty.
+Subdue player to acquire Souvenir of Reprisal.
+(Only Covenanter can use the item) These mystical orbs are granted to
+Blades of the Darkmoon, knights who serve
+the Dark Sun Gwyndolin, so that they may
+serve the Gods in meting out vengenance."
+Cracked Red Eye Orb,http://darksouls.wikidot.com/cracked-red-eye-orb,Multiplayer Items,"Online play item.
+Invade another world.
+(Hollows cannot use the item) Defeat the master of the world you have
+invaded to acquire humanity. The Cracked Red Eye Orb allows players to
+temporarily imitate this ability normally
+limited to the Darkwraiths of Kaathe."
+Red Eye Orb,http://darksouls.wikidot.com/red-eye-orb,Multiplayer Items,"Online play item.
+Invade another world.
+(Only Covenanter can use the item while Hollows cannot) Defeat the master of the world you have
+invaded to acquire humanity. The Darkwraiths of Kaathe use this orb to
+seek humanity and plunge further into dark.
+Perhaps they are more human than we?"
+Dragon Eye,http://darksouls.wikidot.com/dragon-eye,Multiplayer Items,"Online play item.
+Find a player who has acquired a Dragon Scale
+and invade that player's world to pillage it.
+(Only Covenanter can use the item). An art of the transcendent apostles who pray
+to the ancient dragons. To be alive is to be
+vulnerable, and the fiery Gods are no
+exception. The apostles seek another plane
+of existence, which transcends life."
+Dragon Head Stone,http://darksouls.wikidot.com/dragon-head-stone,Multiplayer Items,"Stone imbued with the power of the dragons.
+Rite of apostles of the ancient dragons.
+Gain head of dragon. Emit dragon breath. The dragon apostles seek transcendence of
+life itself, attainable by transformation
+into an ancient dragon. This rite is only one
+step, but it cannot be reversed until death."
+Dragon Torso Stone,http://darksouls.wikidot.com/dragon-torso-stone,Multiplayer Items,"Stone imbued with the power of the dragons.
+Rite of apostles of the ancient dragons.
+Gain torso of dragon. Roar like a dragon. The dragon apostles seek transcendence of
+life itself, attainable by transformation
+into an ancient dragon. This rite is only one
+step, but it cannot be reversed until death."
+Eye of Death,http://darksouls.wikidot.com/eye-of-death,Multiplayer Items,"Online play item.
+Lure phantoms from other worlds.
+(Only Covenanter can use the item while Hollows cannot) The dreadful Eyes of Death spread disaster
+across neighboring worlds. Phantoms lured
+to the host world may end up as victims,
+allowing the Eyes of Death to multiply,
+and leading to further proliferation of bane."
+Souvenir of Reprisal,http://darksouls.wikidot.com/souvenir-of-reprisal,Multiplayer Items,"Blood-Drained, shrunken ear.
+Souvenir taken for subduing the guilty. The knights called the Blades of the Darkmoon
+punish the guilt-soaked offenders of the Gods
+and take this as proof of their conquest.
+The earless corpses of the guilty will be
+left behind as a warning to others, inspiring
+both fear and respect for the Gods. Such is
+the eternal mandate of the Dark Sun."
+Sunlight Medal,http://darksouls.wikidot.com/sunlight-medal,Multiplayer Items,"This faintly warm medal engraved with the
+symbol of the Sun, is the ultimate honor,
+awarded to those who summon the Warrior
+of Sunlight and complete a goal. The symbol represents Lord Gwyn's firstborn,
+who lost his deity status and was expunged
+from the annals. But the old God of War
+still watches closely over his warriors."
+Hello Carving,http://darksouls.wikidot.com/hello-carving,Multiplayer Items,"Head carved of archtrees by Gough in his
+imprisonment. Gough imparts an emotion to
+each and every completed carving, which
+helps him achieve personal enlightenment.
+When a head is disturbed, it speaks,
+reflecting the emotion conferred to it. This head says ""Hello"". Have another look.
+Do you sense the amicability in its eyes?"
+Very Good! Carving,http://darksouls.wikidot.com/very-good-carving,Multiplayer Items,"Head carved of archtrees by Gough in his
+imprisonment. Gough imparts an emotion to
+each and every completed carving, which
+helps him achieve personal enlightenment.
+When a head is disturbed, it speaks,
+reflecting the emotion conferred to it. This head says ""Very Good!"". Have another
+look. Does it not appear quite jovial?"
+Thank You Carving,http://darksouls.wikidot.com/thank-you-carving,Multiplayer Items,"Head carved of archtrees by Gough in his
+imprisonment. Gough imparts an emotion to
+each and every completed carving, which
+helps him achieve personal enlightenment.
+When a head is disturbed, it speaks,
+reflecting the emotion conferred to it. This head says ""Thank you"". Have another
+look. Is this not the face of gratitude?"
+I'm Sorry Carving,http://darksouls.wikidot.com/i-m-sorry-carving,Multiplayer Items,"Head carved of archtrees by Gough in his
+imprisonment. Gough imparts an emotion to
+each and every completed carving, which
+helps him achieve personal enlightenment.
+When a head is disturbed, it speaks,
+reflecting the emotion conferred to it. This head says ""I'm Sorry"". Have another look.
+Isn't that an expression of atonement?"
+Help Me! Carving,http://darksouls.wikidot.com/help-me-carving,Multiplayer Items,"Head carved of archtrees by Gough in his
+imprisonment. Gough imparts an emotion to
+each and every completed carving, which
+helps him achieve personal enlightenment.
+When a head is disturbed, it speaks,
+reflecting the emotion conferred to it. This head says ""Help me!"". Have another
+look. Can you hear the desperate plea?"
+Book of the Guilty,http://darksouls.wikidot.com/book-of-the-guilty,Multiplayer Items,"Online play item.
+Check list of indicted players. The Goddess of Sin Velka oversees this list
+of the guilty, who have disrespected the Gods
+or their covenants, and shall one day face
+the wrath of the Blades of the Darkmoon."
+Dried Finger,http://darksouls.wikidot.com/dried-finger,Multiplayer Items,"Dried Finger with multiple knuckles.
+Shriveled but still slightly warm. With this many knuckles,
+surely it cannot be anything human."
+Indictment,http://darksouls.wikidot.com/indictment,Multiplayer Items,"Slip sold by bishop of Velka, Goddess of Sin.
+If you are killed by an invader, use this
+to report the crime of the trespasser. The indicted player will be added to a list
+of unfortunate souls who will one day face
+the wrath of the Blades of the Darkmoon"
+Servant Roster,http://darksouls.wikidot.com/servant-roster,Multiplayer Items,"Online play item.
+Check servants of the Daughters of Chaos. Egg-bearer Eingyi keeps this roster of those
+who serve his master, a Daughter of Chaos.
+Eingyi praises those who offer significant
+humanity to alleviate his master's suffering. But what is praise from Eingyi really worth?"
+Bellowing Dragoncrest Ring,http://darksouls.wikidot.com/bellowing-dragoncrest-ring,Rings,"A special ring granted to only the most
+accomplished sorcerers at the Vinheim Dragon
+School. The ring is engraved with an everlasting
+dragon, and boosts the strength of sorceries."
+Bloodbite Ring,http://darksouls.wikidot.com/bloodbite-ring,Rings,"One of the infamous bite rings commissioned by Sir Arstor of Carim. Despite the dreadful rumors surrounding its creation, this ring is an unmistakable
+asset, in its ability to help prevent bleeding."
+Blue Tearstone Ring,http://darksouls.wikidot.com/blue-tearstone-ring,Rings,"The rare gem called tearstone has the
+uncanny ability to sense imminent death. This blue tearstone from Catarina boosts
+the defence of its wearer when in danger."
+Calamity Ring,http://darksouls.wikidot.com/calamity-ring,Rings,"A ring enchanted by the orange eye
+of Kalameet, the bringer of calamity.
+Doubles damage received by its wearer. A useless ring befitting of no finger.
+Best left unknown, or at least well hidden."
+Cat Covenant Ring,http://darksouls.wikidot.com/cat-covenant-ring,Rings,"Ring granted to those bound by the
+Forest Hunter covenant.
+Answer Alvina's summoning. The white cat Alvina speaks a human tongue
+and has lived since the early Age of Fire.
+Alvina was a trusted friend of Knight
+Artorias and the Great Wolf Sif."
+Cloranthy Ring,http://darksouls.wikidot.com/cloranthy-ring,Rings,"This ancient ring, engraved with a large green flower, is of unknown origin. Hastens the regeneration of stamina."
+Covenant Of Artorias,http://darksouls.wikidot.com/covenant-of-artorias,Rings,"This ring symbolizes Knight Artorias's
+covenant with the beasts of the Abyss. It's wearer, like Artorias himself, can
+traverse the Abyss."
+Covetous Gold Serpent Ring,http://darksouls.wikidot.com/covetous-gold-serpent-ring,Rings,"The serpent is an imperfect dragon and symbol
+of the Undead. Its habit of devouring prey
+even larger than itself has led to an
+association with gluttony. This gold ring, engraved with the serpent,
+boosts its wearer's item discovery, so that
+more items can be amassed."
+Covetous Silver Serpent Ring,http://darksouls.wikidot.com/covetous-silver-serpent-ring,Rings,"The serpent is an imperfect dragon and symbol
+of the Undead. Its habit of devouring prey
+even larger than itself has led to an
+association with gluttony. This silver ring, engraved with the serpent,
+rewards its wearer with additional souls
+for each kill."
+Cursebite Ring,http://darksouls.wikidot.com/cursebite-ring,Rings,"One of the infamous bite rings
+commissioned by Sir Arstor of Carim. Despite the dreadful rumors surrounding its
+creation, this ring is an unmistakable asset,
+in its ability to help prevent curses."
+Darkmoon Blade Covenant Ring,http://darksouls.wikidot.com/darkmoon-blade-covenant-ring,Rings,"Ring granted to those bound by the
+Darkmoon Blade Covenant.
+Answer Dark Sun Gwyndolin's summoning. Gwyndolin, all too aware of his repulsive,
+frail appearance, created the illusion of
+a sister Gwynevere, who helps him guard
+over Anor Londo. An unmasking of these
+deities would be tantamount to blasphemy."
+Darkmoon Seance Ring,http://darksouls.wikidot.com/darkmoon-seance-ring,Rings,"This ring is granted to adherents of
+Gwyndolin, Darkmoon deity and
+last born of Gwyn, Lord of Sunlight.
+Grants additional magic and attunement slots. The Dark Sun Gwyndolin is the only remaining
+deity in Anor Londo. His followers are few,
+but their tasks are of vital importance."
+Dark Wood Grain Ring,http://darksouls.wikidot.com/dark-wood-grain-ring,Rings,"This special ring crafted in an Eastern land is made
+of gold, but with a wood grain crest on its surface. Agents of subterfuge in this faraway land are particularly
+fond of the dark gold wood grain, which greatly
+alters its wearer's rolling action."
+Dusk Crown Ring,http://darksouls.wikidot.com/dusk-crown-ring,Rings,"This magic crown-shaped ring was granted to
+Princess Dusk of Oolacile upon her birth. The ringstone allows its wearer to cast additional
+sorceries, but at the cost of one-half of HP."
+East Wood Grain Ring,http://darksouls.wikidot.com/east-wood-grain-ring,Rings,"This special ring crafted in an Eastern land
+is made of gold, but with a wood grain crest
+on its surface. The ring slows the loss of weapon durability
+and is particularly useful to bearers of
+delicate swords crafted in the East."
+Flame Stoneplate Ring,http://darksouls.wikidot.com/flame-stoneplate-ring,Rings,"Stoneplates, the symbol of a true knight,
+grant the strength to face various hardships. The red stoneplate symbolizes fire,
+and boosts defense against flame."
+Havel's Ring,http://darksouls.wikidot.com/havel-s-ring,Rings,"This ring was named after Havel the Rock,
+Lord Gwyn's old battlefield compatriot. Havel's men wore the ring to express faith in
+their leader and to carry a heavier load."
+Hawk Ring,http://darksouls.wikidot.com/hawk-ring,Rings,"One of the special rings granted to the four
+knights of Gwyn, The Hawk Ring belongs to
+Hawkeye Gough, who led the Greatarchers. Boosts bow range, so that arrows fly like
+they were shot by Gough's great bow,
+which took down high-flying dragons."
+Hornet Ring,http://darksouls.wikidot.com/hornet-ring,Rings,"One of the special rings granted to the four
+knights of Gwyn. The Hornet Ring belonged
+to the Lord's Blade Ciaran. By boosting critical attacks, its wearer can
+annihilate foes, as Ciaran's dagger laid
+waste to Lord Gwyn's enemies"
+Leo Ring,http://darksouls.wikidot.com/leo-ring,Rings,"One of the special rings granted to the four
+knights of Gwyn. The Leo Ring belonged to
+Ornstein the Dragonslayer. This ring strengthens counters with pierce
+weapons. His lugged spear is said
+to have sliced a boulder in two."
+Lingering Dragoncrest Ring,http://darksouls.wikidot.com/lingering-dragoncrest-ring,Rings,"A special ring granted to only the most accomplished
+sorcerers at Vinheim Dragon School. The ring is engraved with a lingering dragon,
+and boosts the length of the effects of sorceries."
+Old Witch's Ring,http://darksouls.wikidot.com/old-witch-s-ring,Rings,"Old ring from an old witch. Engraved minutely with
+indecipherable script, but seemingly useless."
+Orange Charred Ring,http://darksouls.wikidot.com/orange-charred-ring,Rings,"An orange ring enchanted by a witch.
+Reduces lava damage. Since his sores were inflamed by lava
+from birth, his witch sisters gave him
+this special ring. But fool that he is,
+he readily dropped it, and from that spot,
+a terrible centipede demon was born."
+Poisonbite Ring,http://darksouls.wikidot.com/poisonbite-ring,Rings,"One of the infamous bite rings commissioned by Sir Arstor of Carim. Despite the dreadful rumors surrounding its creation, this ring
+is an unmistakable asset, in its ability to help prevent poison."
+Rare Ring of Sacrifice,http://darksouls.wikidot.com/rare-ring-of-sacrifice,Rings,"This mystical ring was created in a
+sacrificial rite of Velka, the Goddess of Sin.
+The magenta-shaded ring is especially rare.
+Its wearer will lose nothing upon death, and
+will be freed from any curse whatsoever, but the ring itself breaks.
+""Die, lose nothing, nullify curse, ring breaks."""
+Red Tearstone Ring,http://darksouls.wikidot.com/red-tearstone-ring,Rings,The rare gem called tearstone has the uncanny ability to sense imminent death. This red tearstone from Carim boosts the attack of its wearer when in danger.
+Ring of Favor and Protection,http://darksouls.wikidot.com/ring-of-favor-and-protection,Rings,"A ring symbolizing the favor and
+protection of the goddess Fina,
+known in legend to possess ""fateful beauty."" This ring boosts its wearer's HP, stamina,
+and max equipment load, but breaks if
+ever removed."
+Ring of Fog,http://darksouls.wikidot.com/ring-of-fog,Rings,"Those who befriend Alvina are given
+this mysterious ring. It resembles a pearl with
+its robust pure-white fog. The ring camouflages its wearer's
+presence, helping to prevent detection."
+Ring of Sacrifice,http://darksouls.wikidot.com/ring-of-sacrifice,Rings,"This mystical ring was created in a
+sacrificial rite of Velka, the Goddess
+of Sin. Its wearer will lose nothing upon death,
+but the ring itself breaks."
+Ring of Steel Protection,http://darksouls.wikidot.com/ring-of-steel-protection,Rings,"This ring belonged to the Knight King Rendal.
+It grants its wearer protection by boosting
+defense against physical attacks. Of the many legends surrounding the Knight
+King Rendal, one of the more well-known
+speaks of his standing down a giant drake
+and slashing it to pieces."
+Ring of the Evil Eye,http://darksouls.wikidot.com/ring-of-the-evil-eye,Rings,"According to legend, this ring contains the
+spirit of the evil eye, a dark beast which
+assaulted Astora. The strength of the evil eye does not waver,
+and HP is absorbed from fallen enemies."
+Ring of the Sun's Firstborn,http://darksouls.wikidot.com/ring-of-the-sun-s-firstborn,Rings,"Lord Gwyn's firstborn, who inherited the
+sunlight, once wore this ancient ring.
+Boosts the strength of miracles. Lord Gwyn's firstborn was a god of war,
+but his foolishness led to a loss of the
+annals, and rescinding of his deific status.
+Today, even his name is not known."
+Ring of the Sun Princess,http://darksouls.wikidot.com/ring-of-the-sun-princess,Rings,"This ring is granted to those who enter a
+Covenant with Gwynevere, daughter of Lord Gywn
+and the Princess of Sunlight. This slightly
+warm ring boosts the synergy of miracles. The Princess of Sunlight Gwynevere left
+Anor Londo along many other deities,
+and later became wife to Flame God Flann."
+Rusted Iron Ring,http://darksouls.wikidot.com/rusted-iron-ring,Rings,"This iron ring was used to shackle the guilty.
+It is terribly rusted, and faintly stained with blood. Those who find this strange ring to their liking will
+be pleased to find it easier to gain footing
+on poor ground such as swamps."
+Slumbering Dragoncrest Ring,http://darksouls.wikidot.com/slumbering-dragoncrest-ring,Rings,"This ring was secretly worn by a certain
+surreptitious sorcerer at Vinheim Dragon
+School. The ring is engraved with an everlasting
+dragon in silent slumber, and masks all
+sound emitting from its wearer."
+Speckled Stoneplate Ring,http://darksouls.wikidot.com/speckled-stoneplate-ring,Rings,"Stoneplates, the symbol of a true knight,
+grant the strength to face various hardships. The precious rare speckled stoneplate grants
+a small boost to defence against magic,
+flame and lightning."
+Spell Stoneplate Ring,http://darksouls.wikidot.com/spell-stoneplate-ring,Rings,"Stoneplates, the symbol of a true knight, grant the strength to face various hardships
+The blue stoneplate symbolizes souls, and boost defense against magic."
+Thunder Stoneplate Ring,http://darksouls.wikidot.com/thunder-stoneplate-ring,Rings,"Stoneplates, the symbol of a true knight, grant the strength to face various hardships
+The yellow stoneplate symbolizes souls, and boost defense against lightning."
+Tiny Being's Ring,http://darksouls.wikidot.com/tiny-being-s-ring,Rings,"Ring made of an ancient tiny red jewel.
+Grants small increase to HP. Rings grant powers large and small.
+Their discovery, and effective use,
+can make one's journey easier."
+White Seance Ring,http://darksouls.wikidot.com/white-seance-ring,Rings,"A divine ring entrusted to the head bishop
+of the Way of White and apostle to
+Allfather Lloyd, uncle to Lord Gwyn.
+It grants additional attunement slots. The head bishop of the Way of White is the
+guardian of law and caste, and one of the
+great royals of Thorolund."
+Wolf Ring,http://darksouls.wikidot.com/wolf-ring,Rings,"One of the special rings granted to the four knights of Gwyn.
+The wolf ring belongs to Artorias the Abysswalker.
+Artorias had an unbendable will of steel,
+and was unmatched with a greatsword."
+Balder Helm,http://darksouls.wikidot.com/balder-helm,Head,"Helm worn by the knights of the ancient
+kingdom of Balder. It is made from thick
+iron plates. Balder was the homeland of the Knight
+King Rendal, but it came to ruin after a
+great many Undead were spawned."
+Big Hat,http://darksouls.wikidot.com/big-hat,Head,"Gigantic hat worn by the great sorcerer
+Logan. It completely hid his face, which led
+to his nickname ""Big Hat."" Famously antisocial, Logan used it to block
+out noise and people's stares so he could
+focus on his own thoughts, but it does not
+possess any special magic powers."
+Black Iron Helm,http://darksouls.wikidot.com/black-iron-helm,Head,"Helm of Black Iron Tarkus, a knight known
+for his great strength. Built of a special black iron and
+providing strong defense, notably
+against fire, but so terrible heavy to be
+unwieldy to all but Tarkus himself."
+Black Knight Helm,http://darksouls.wikidot.com/black-knight-helm,Head,"Helm of the Black Knights who haunt Lordran. The knights followed Lord Gwyn when he
+departed to link the flame, but they
+were burned to ashes in newly kindled
+fire, wandering the world as disembodied
+spirits ever after."
+Black Sorcerer Hat,http://darksouls.wikidot.com/black-sorcerer-hat,Head,"Hat worn by the secret sorcerers at Vinheim
+Dragon School. They secretly work with sound-based spells,
+and never reveal themselves."
+Bloated Head,http://darksouls.wikidot.com/bloated-head,Head,"The head of an Oolacile resident whose
+humanity went wild after being devoured
+by the Dark of Manus, Father of the Abyss. The bloated head is fissured, the cracks
+lined with innumerable tiny red eyeballs
+with a hard outside and mucous-filled
+inside, no sane person could ever wear it."
+Bloated Sorcerer Head,http://darksouls.wikidot.com/bloated-sorcerer-head,Head,"The head of an Oolacile resident whose
+humanity went wild after being devoured
+by the Dark of manus, Father of the Abyss. The bloated head is fissured, the cracks
+lined with innumerable tiny red eyeballs
+and accented by protuding brain parts.
+It is lightly enchanted, suggesting that it
+may have belonged to a sorcerer."
+Brass Helm,http://darksouls.wikidot.com/brass-helm,Head,"Helm of the Darkmoon Knightess,
+Fire Keeper of Anor Londo. After becoming Undead, she visited the Dark
+Sun Gwyndolin at the Mausoleum of the Spiral
+Depths, became a Blade of Darkmoon,
+and assumed the flame-keeping duty. She
+received this helm, which hides her hideous
+form and helps her hunt the guilty."
+Brigand Hood,http://darksouls.wikidot.com/brigand-hood,Head,"Hood worn by the brigands who raid mountain
+hamlets and attack travelers. In addition to protecting against the blazing
+sun, dust, and sand, it helps them tell
+friend from foe in the heat of battle."
+Catarina Helm,http://darksouls.wikidot.com/catarina-helm,Head,"Distinctively shaped helm worn by the
+Knights of Catarina. Outside Catarina, they are often ridiculed for
+their onion-like shape, infuriating the proud
+knights, but the masterfully forged curved
+design makes it very effective for parrying."
+Chain Helm,http://darksouls.wikidot.com/chain-helm,Head,"A chainmail helm of thin interlinking rings
+of steel. It is common throughout the human
+world since it can be easily produced, it is not
+too heavy, and offers good defense. Knights may favor flashy armor, but for
+warriors on the battlefield, anything is
+fine as long as it keeps them alive."
+Cleric Helm,http://darksouls.wikidot.com/cleric-helm,Head,"Helm worn by the warrior clerics of the
+Way of White, who are famous for being
+unyielding in battle. It is rather substantial in size and weight, making
+its wearer look even bigger than
+he actually is."
+Crown of Dusk,http://darksouls.wikidot.com/crown-of-dusk,Head,"Special magic crown bestowed upon
+Dusk, Princess of Oolacile, upon her birth. Its wearer is blessed by all manner of magic.
+This raises the power and effect of the wearer's
+magic, but damage suffered by magic attack also rises."
+Crown of the Dark Sun,http://darksouls.wikidot.com/crown-of-the-dark-sun,Head,"Crown of the Dark Sun Gwyndolin, protector
+of the forsaken city of Anor Londo. This crown of the gods demands faith
+immeasurable of its wearer, but it is imbued
+with Darkmoon power that enhances all magic.
+The image of the sun manifests Gwyndolin's
+deep adoration of the sun."
+Crown of the Great Lord,http://darksouls.wikidot.com/crown-of-the-great-lord,Head,"Crown of Gwyn, Lord of Cinder, who linked
+the First Flame. Lord Gwyn, bearer of the ultimate soul,
+divided that power among his great clan before
+linking the flame. But he did keep his crown,
+perhaps to preserve a symbol of the monarch,
+for its actual power had fully subsided."
+Crystalline Helm,http://darksouls.wikidot.com/crystalline-helm,Head,"Helm worn by a Hollowed knight, who was
+partially crystallized. The crystal power provides powerful defense,
+but it cannot be used for long because it is
+easily broken and cannot be repaired."
+Dark Mask,http://darksouls.wikidot.com/dark-mask,Head,"Mask of the Darkwraiths, former knights of
+New Londo who descended into Dark. Some say the skeletal mask of an ancient
+Darkwraith is partially fused with the flesh
+of its face."
+Dingy Hood,http://darksouls.wikidot.com/dingy-hood,Head,"Worn by the Fire Keeper at Firelink Shrine. It is thought to have once been the white
+hood of a maiden, but smoke and ashes
+from bonfires darkened it over the
+years."
+Eastern Helm,http://darksouls.wikidot.com/eastern-helm,Head,"A distinctive helm made in an Eastern land. Exquisitely crafted, this helm offers
+excellent defense, particularly versus slash
+attacks, which are one of the main threats in
+battles in the East."
+Elite Cleric Helm,http://darksouls.wikidot.com/elite-cleric-helm,Head,"Helm worn by the warrior clerics of the
+Way of White, who are famous for being
+unyielding in battle. Among such helms, those that were black
+belonged to warrior clerics sent on missions,
+many of whom were high-level priests."
+Elite Knight Helm,http://darksouls.wikidot.com/elite-knight-helm,Head,"Helm of a nameless knight, perhaps an elite
+knight of Astora. Although he was loath to give up on his
+Undead mission, he perished at the Undead
+Asylum, and went Hollow."
+Fang Boar Helm,http://darksouls.wikidot.com/fang-boar-helm,Head,"Severed head of the fully-armored Fang Boar
+taken by the one who killed it as proof of
+his victory, just as the Gods once did with
+the head of the ancient dragon. Can be worn on the head as a surprisingly
+sound piece of protective gear."
+Gargoyle Helm,http://darksouls.wikidot.com/gargoyle-helm,Head,"Helm of the gargoyle, an enchanted creature
+that guarded the Bell of Awakening in the
+belfry of the Undead Church. This bronze helm was for mere appearance's
+sake, as gargoyle skin is naturally hard.
+Little in the way of defense can be expected
+from it."
+Giant Helm,http://darksouls.wikidot.com/giant-helm,Head,"Helm of the giant sentinels of Anor Londo. Made from ancient brass, it also offers
+protection versus non-physical attacks, but
+due to its giant size, it is extremely heavy
+for humans, and impedes stamina recovery."
+Gold-Hemmed Black Hood,http://darksouls.wikidot.com/gold-hemmed-black-hood,Head,"Worn by the witch Quelana of Izalith, mother
+of pyromancy and Daughter of Chaos. She wore this gold-hemmed black hood before
+even the Age of Fire, and it offers strong
+resistance versus fire, poison, and other
+perils."
+Golem Helm,http://darksouls.wikidot.com/golem-helm,Head,"Head of the Iron Golem, guardian of the
+ancient Sen's Fortress, slayer of heroes who
+ventured forth to Anor Londo. Without its core, it is a mere hunk of iron,
+and can be equipped as solid protective gear,
+but its immense weight hinders stamina
+recovery."
+Gough`s Helm,http://darksouls.wikidot.com/gough-s-helm,Head,"Helm of Hawkeye Gough,
+one of Gwyn's Four Knights.
+Received as a decoration of knightly honor. A helm crafted especially for the honorable Hawkeye Gough,
+only the eye holes were packed with tree resin
+by those who dismissed Gough as a brutish giant."
+Guardian Helm,http://darksouls.wikidot.com/guardian-helm,Head,"Helm of the stone knights,
+guardians of the forest sanctuary. The stone knights are golems animated by magic,
+and their enchanted helms are oppressively heavy."
+Havel`s Helm,http://darksouls.wikidot.com/havel-s-helm,Head,"Helm worn by Havel the Rock's warriors.
+Carved from solid rock, its tremendous weight
+is matched only by the defense it provides. Havel's warriors never flinched nor retreated
+from battle. Those unfortunate enough to face
+them were inevitably beaten to a pulp."
+Helm of Artorias,http://darksouls.wikidot.com/helm-of-artorias,Head,"Helm of Artorias the Abysswalker,
+one of Gwyn's four knights. The death of the helm's owner can be surmised from the corrosive Dark of the Abyss,
+and the musty azure-blue tassel, once a symbol of pride and glory."
+Helm of Favor,http://darksouls.wikidot.com/helm-of-favor,Head,"Helm of Lautrec the Embraced,
+representing the goddess Fina's love. During his solitude, he forsook everything,
+for he believed in the goddess's love for
+him."
+Helm of The Wise,http://darksouls.wikidot.com/helm-of-the-wise,Head,"A strange helm from the ancient land of Zena,
+birthplace of the curious dealer Domhnall. The two horns are believed to symbolize
+wisdom."
+Helm of Thorns,http://darksouls.wikidot.com/helm-of-thorns,Head,"Helm of Kirk, knight of Thorns and notorious
+member of the Darkwraiths. A dense patch of
+thorns grows from its surface. It is a fitting item for the murderous Kirk,
+for by simply wearing it and rolling, one can
+damage enemies."
+Hollow Soldier Helm,http://darksouls.wikidot.com/hollow-soldier-helm,Head,"Helm worn by Hollow soldiers. It may be old
+and battered, but its iron construction makes
+it quite sturdy. It is wise to wear a sturdy form of head
+protection against arrows and other physical
+threats."
+Hollow Thief`s Hood,http://darksouls.wikidot.com/hollow-thief-s-hood,Head,"Hood worn by Hollow thieves.
+Used to hide a guilty countenance."
+Hollow Warrior Helm,http://darksouls.wikidot.com/hollow-warrior-helm,Head,"Helm worn by Hollow warriors. Although it is
+made of iron, it is old, battered and worn
+out. It is wise to wear a sturdy form of head
+protection against arrows and other physical
+threats."
+Iron Helm,http://darksouls.wikidot.com/iron-helm,Head,"Helm of Solaire of Astora, Knight of
+Sunlight. Of high quality, but lacking any
+particular powers. Solaire's incredible prowess must have
+come from rigorous training alone, for
+his equipment exhibits no special traits."
+Knight Helm,http://darksouls.wikidot.com/knight-helm,Head,"Helm of a lower-rank knight. Despite the
+thin metal used, the grooved texture gives
+it added protection."
+Mage Smith Hat,http://darksouls.wikidot.com/mage-smith-hat,Head,"Hat worn by proper mage smiths who
+studied at Vinheim Dragon School. Mage smiths learn their craft alongside
+sorcerers, but apply their sorcery to
+forging weapons with magic embers."
+Maiden Hood,http://darksouls.wikidot.com/maiden-hood,Head,"White hood worn by traveling maidens. It is
+part of their formal attire, regardless of
+rank. It is soft and well-made, but does not offer
+much in the way of defense, making it ill-
+suited to use in battle."
+Mask of the Child,http://darksouls.wikidot.com/mask-of-the-child,Head,"One of the three masks of the Pinwheel,
+the necromancer who stole the power of the
+Gravelord, and reigns over the Catacombs. This mask, belonging to the naive child,
+slightly raises stamina recovery speed."
+Mask of the Father,http://darksouls.wikidot.com/mask-of-the-father,Head,"One of the three masks of the Pinwheel,
+the necromancer who stole the power of the
+Gravelord, and reigns over the Catacombs. This mask, belonging to the valiant father,
+slightly raises equipment load."
+Mask of the Mother,http://darksouls.wikidot.com/mask-of-the-mother,Head,"One of the three masks of the Pinwheel,
+the necromancer who stole the power of the
+Gravelord, and reigns over the Catacombs. This mask, belonging to the kindly mother,
+slightly raises HP."
+Mask of the Sealer,http://darksouls.wikidot.com/mask-of-the-sealer,Head,"Mask of the sorcerers who flooded New Londo
+to seal away the Darkwraiths, and the
+Four Kings who descended into Dark. It symbolizes their resolve to keep the seal
+shut forever and their atonement for all who
+were sacrificed, but two of the three forsook
+New Londo upon tiring of their duty."
+Mask of Velka,http://darksouls.wikidot.com/mask-of-velka,Head,"Mask worn by pardoners serving Velka,
+the Goddess of Sin. The pardoners listen to the confessions of
+sinners, urging reflection and salvation.
+Their masks symbolize separation from
+worldly desires."
+Ornstein`s Helm,http://darksouls.wikidot.com/ornstein-s-helm,Head,"Helm of the dragonslayer Ornstein, who
+guards the cathedral in the forsaken city of
+Anor Londo. Ornstein is believed to be the captain of the
+Four Knights. His golden lion helm is imbued
+with the power of lightning and should
+provide good protection against it."
+Painting Guardian Hood,http://darksouls.wikidot.com/painting-guardian-hood,Head,"Hood worn by the alabaster-clothed guardians
+of the paintings in Anor Londo. Offer
+substantial protection versus magic. They have guarded the Great Painting of
+Ariamis for ages, passing their duty down
+through generations, but the reason for
+doing so passed from all memory long ago."
+Paladin Helm,http://darksouls.wikidot.com/paladin-helm,Head,"Helm of Leeroy, Paladin of the Catacombs. Long ago, the Way of the White produced its
+first Undead, a paladin in golden armor.
+With the legendary treasures Grant and
+Sanctus, Leeroy set out for Lordran,
+Land of the Gods, in the first Undead
+mission of the Way of White."
+Pharis`s Hat,http://darksouls.wikidot.com/pharis-s-hat,Head,"Broad-brimmed hat favored by the archer hero
+Pharis. Pharis was an accomplished archer, and though
+he was human, he ranked alongside Hawkeye
+Gough, one of the Four Knights of Lord
+Gwyn. His hat is universally popular among
+children."
+Porcelain Mask,http://darksouls.wikidot.com/porcelain-mask,Head,"Mask of the Lord's Blade Ciaran,
+one of Gwyn's Four Knights. The cyclops headpiece is common to all of the Lord's Blades, but Ciaran was determined
+to earn this soft porcelain mask as a unique decoration of honor. The mask is lined with
+ivory locks of hair."
+Priest`s Hat,http://darksouls.wikidot.com/priest-s-hat,Head,"Distinctive hat worn only by Way of White
+priests in Thorolund. It is simply meant to show their position
+within the hierarchy. It holds almost no
+meaning in the land of Lordran."
+Royal Helm,http://darksouls.wikidot.com/royal-helm,Head,"Helm of Vamos, skeleton blacksmith of the
+Catacombs. Partially made of gold, and
+confers high resistance overall. The helm is believed to belong to an ancient
+royal line, but only Vamos would know for
+sure, and he shall never speak again."
+Sack,http://darksouls.wikidot.com/sack,Head,"Bloodstained patchwork sack by the Undead
+man-eating cook lurking in the Depths. Two
+eyeholes have been haphazardly cut out. It is unexpectedly soft and comfortable to
+wear, but it is probably near meaningless
+in terms of defense."
+Shadow Mask,http://darksouls.wikidot.com/shadow-mask,Head,"Black cloth mask worn by spooks from an
+Eastern land. Designed so as not to hinder
+their unique form of martial arts. While it sacrifices defense for the sake of
+greater mobility, it does offer resistance
+to bleeding and poison among other things,
+perhaps due to the nature of their duty."
+Silver Knight Helm,http://darksouls.wikidot.com/silver-knight-helm,Head,"Helm of the Silver Knights who protect Anor
+Londo. When Lord Gwyn departed to link the Fire,
+his knights split into two groups. The Silver
+Knights remained in the forsaken capital in
+the service of their goddess."
+Six-Eyed Helm of the Channelers,http://darksouls.wikidot.com/six-eyed-helm-of-the-channelers,Head,"Helm of the Channelers, sorcerers that serve
+Seath the Scaleless. The six eyes arranged
+in two vertical columns compensate for
+Seath's lack of sight. The heaviest of protective gear for
+sorcerers, and imbued with magic."
+Smough`s Helm,http://darksouls.wikidot.com/smough-s-helm,Head,"Helm of Smough, the Executioner, protector
+of the cathedral at the forsaken city of Anor
+Londo. It offers extremely high defense
+and can be worn by humans, but not
+without great difficulty."
+Snickering Top Hat,http://darksouls.wikidot.com/snickering-top-hat,Head,"Black top hat worn by Marvellous Chester,
+a man of mystery lost in the past. The wearer of this top hat cracks a dubious,
+permanent grin. The Curse of Chester!"
+Sorcerer Hat,http://darksouls.wikidot.com/sorcerer-hat,Head,"Hat worn by proper sorcerers who
+studied at Vinheim Dragon School. The majority take pride in having studied at
+the academy and look down on breaking the
+formal dress code established for sorcerers."
+Standard Helm,http://darksouls.wikidot.com/standard-helm,Head,"A sturdy helm made of iron. Very common
+type of protective gear, it provides
+a sound level of defense. It is wise to wear a sturdy form of head
+protection against arrows and other physical
+threats."
+Steel Helm,http://darksouls.wikidot.com/steel-helm,Head,"Helm of the Knights of Berenike, known for
+their heavy armaments and armor. Countless Knights of Berenike, once
+extolled as the mightiest of mighty, became
+Undead and ventured to Lordran. But their
+journey was for naught, as they went Hollow,
+and became a threat to all Undead."
+Stone Helm,http://darksouls.wikidot.com/stone-helm,Head,"Moss-covered helm of the Stone Knight,
+defender of the Darkroot Garden. The Stone Knight is a product of ancient
+magic, and although this helm is also imbued
+with magic, it is incredibly heavy."
+Sunlight Maggot,http://darksouls.wikidot.com/sunlight-maggot,Head,"A loathsome parasite that inhabits Lost
+Izalith. It is completely immobile, yet still
+lives. When worn on the head, it emanates
+blinding light, which is why it is known
+as a Sunlight Maggot."
+Symbol of Avarice,http://darksouls.wikidot.com/symbol-of-avarice,Head,"Monster head resembling a treasure chest.
+Once an ancient god, it is said this is the
+symbol of shame imposed on a long lost clan,
+exiled for the sin of avarice. Wearing this slightly raises soul absorption
+and item discovery, but also affects its
+wearer with the curse of the branded."
+Tattered Cloth Hood,http://darksouls.wikidot.com/tattered-cloth-hood,Head,"Hood worn by pyromancers of the Great Swamp.
+Though it appears tattered, it is actually
+quite strong. Their attire offers substantial protection
+against poison, fire, and other forces of
+nature out in the hinterlands where they
+were driven."
+Thief Mask,http://darksouls.wikidot.com/thief-mask,Head,"Mask of sinners. They hide their faces,
+stifle their voices and hide in the shadows.
+It does not provide much in the way of
+defense."
+Wanderer Hood,http://darksouls.wikidot.com/wanderer-hood,Head,"Hood of an aimless traveler. Made from sturdy
+leather, it offers protection versus wind
+and rain."
+Witch Hat,http://darksouls.wikidot.com/witch-hat,Head,"Hat of the rogue witch Beatrice. Almost all magic users that employ a wand
+studied at Dragon School, but Beatrice is
+one of the few exceptions. She braved the
+Abyss but did not live to tell of her ordeal."
+Xanthous Crown,http://darksouls.wikidot.com/xanthous-crown,Head,"A mysterious item once worn by the Xanthous
+King Jeremiah, the legendary exile. No one
+knows where it came from. The crown bears high-quality cloth which is
+quite soft to the touch, but its bright
+yellow color stings the eyes, and it is
+clearly far too big."
+Antiquated Dress,http://darksouls.wikidot.com/antiquated-dress,Chest,"A dress from the ancient fallen
+land of Oolacile. Its ivory-colored
+silk features elaborate embroidery
+and is imbued with ancient magic power. One cannot expect any physical
+protection from this garment,
+as it was not meant to be worn in battle."
+Armor of Artorias,http://darksouls.wikidot.com/armor-of-artorias,Chest,"Armor of Artorias the Abysswalker,
+one of Gwyn's four knights. The death of the armor's owner can be surmised from the corrosive Dark of the Abyss,
+and the tattered azure-blue cape, once a symbol of pride and glory."
+Armor of the Glorious,http://darksouls.wikidot.com/armor-of-the-glorious,Chest,"Strange armor from the ancient land of Zena,
+birthplace of the curious dealer Domhnall. The many medals are believed to symbolize
+glory."
+Armor of the Sun,http://darksouls.wikidot.com/armor-of-the-sun,Chest,"Armor of Solaire of Astora, Knight of
+Sunlight. The large holy symbol of the Sun,
+while powerless, was painted by Solaire himself. Solaire's incredible prowess must have
+come from rigorous training alone, for
+his equipment exhibits no special traits."
+Armor of Thorns,http://darksouls.wikidot.com/armor-of-thorns,Chest,"Armor of Kirk, knight of Thorns and notorious
+member of the Darkwraiths. A dense patch of
+thorns grows from its surface. It is a fitting item for the murderous Kirk,
+for by simply wearing it and rolling, one can
+damage enemies."
+Balder Armor,http://darksouls.wikidot.com/balder-armor,Chest,"Armor worn by the knights of the ancient
+kingdom of Balder. It is made from thick
+iron plates. Balder was the homeland of the Knight
+King Rendal, but it came to ruin after a
+great many Undead were spawned."
+Black Cleric Robe,http://darksouls.wikidot.com/black-cleric-robe,Chest,"Robe worn by pardoners serving Velka,
+the Goddess of Sin. The pardoners' attire is uniformly black in
+color and said to be imbued with Velka's
+mystical power, which provides resistance
+against all manner of magic."
+Black Iron Armor,http://darksouls.wikidot.com/black-iron-armor,Chest,"Armor of Black Iron Tarkus, a knight
+known for his great strength. Built of a special black iron and
+providing strong defense, notably
+against fire, but so terrible heavy to be
+unwieldy to all but Tarkus himself."
+Black Knight Armor,http://darksouls.wikidot.com/black-knight-armor,Chest,"Armor of the Black Knight who haunt Lordran. The knights followed Lord Gwyn when he
+departed to link the flame, but they
+were burned to ashes in newly kindled
+fire, wandering the world as disembodied
+spirits ever after."
+Black Leather Armor,http://darksouls.wikidot.com/black-leather-armor,Chest,"This armor made of smooth black leather is
+extremely quiet, a good thing for those who
+hide in the shadows. The leather itself is thick, offering a
+decent level of protection."
+Black Sorcerer Cloak,http://darksouls.wikidot.com/black-sorcerer-cloak,Chest,"Cloak worn by the secret sorcerers at
+Vinheim Dragon School. They secretly work with sound-based spells,
+and never reveal themselves."
+Brass Armor,http://darksouls.wikidot.com/brass-armor,Chest,"Armor of the Darkmoon Knightess,
+Fire Keeper of Anor Londo. After becoming Undead, she visited the Dark
+Sun Gwyndolin at the Mausoleum of the Spiral
+Depths, became a Blade of Darkmoon,
+and assumed the flame-keeping duty. She
+received this armor, which hides her hideous
+form and helps her hunt the guilty."
+Brigand Armor,http://darksouls.wikidot.com/brigand-armor,Chest,"Armor worn by the brigands who raid mountain
+hamlets and attack travelers. The addition of metal over a base of cloth
+and leather offers good mobility and defense."
+Catarina Armor,http://darksouls.wikidot.com/catarina-armor,Chest,"Distinctively shaped armor worn by the
+Knights of Catarina. Outside of Caterina, it is often ridiculed for
+their onion-like shape, infuriating the proud
+knights, but the masterfully forged curved
+design makes it very effective for parrying."
+Chain Armor,http://darksouls.wikidot.com/chain-armor,Chest,"Chainmail armor of thin interlinking rings of
+steel. It is common throughout the human
+world since it can be easily produced, is not
+too heavy, and offers good defense. Knights may favor flashy armor, but for
+warriors on the battlefield, anything is
+fine as long as it keeps them alive."
+Chester`s Long Coat,http://darksouls.wikidot.com/chester-s-long-coat,Chest,"Black leather long coat hat worn by Marvellous Chester,
+a man of mystery lost in the past. This exquisitely sewn aristocratic suit allows its wearer
+to move in silence, lending well to stealth."
+Cleric Armor,http://darksouls.wikidot.com/cleric-armor,Chest,"Armor worn by the warrior clerics of the
+Way of White, who are famous for being
+unyielding in battle. It is rather substantial in size and weight, making
+its wearer look even bigger than
+he actually is."
+Crimson Robe,http://darksouls.wikidot.com/crimson-robe,Chest,"Robe of the sorcerers who flooded
+New Londo to seal away the Dark wraiths,
+and the Four Kings who descended into Dark. The Sealers were once known as healers,
+and the bright crimson was a symbol of that."
+Crystalline Armor,http://darksouls.wikidot.com/crystalline-armor,Chest,"Armor worn by a Hollowed knight, who was
+partially crystallized. The crystal provides powerful defense, but
+it cannot be used for long because it is
+easily broken and cannot be repaired."
+Dark Armor,http://darksouls.wikidot.com/dark-armor,Chest,"Armor of the Darkwraiths, former knights of
+New Londo who descended into Dark. Their armor transformed, and remains a
+symbol of the Dark servants and their
+diabolical art of Lifedrain."
+Dingy Robe,http://darksouls.wikidot.com/dingy-robe,Chest,"Worn by the Fire Keeper at Firelink Shrine. It is thought to have once been the white
+robe of a maiden, but smoke and ashes
+from bonfires darkened it over the
+years."
+Eastern Armor,http://darksouls.wikidot.com/eastern-armor,Chest,"A distinctive armor made in an Eastern land. Exquisitely crafted, this armor offers
+excellent defense, particularly versus slash
+attacks, which are one of the main threats in
+battles in the East."
+Elite Cleric Armor,http://darksouls.wikidot.com/elite-cleric-armor,Chest,"Armor worn by the warrior clerics of the
+Way of White, who are famous for being
+unyielding in battle. Among such armors, those that were black
+belonged to warrior clerics sent on missions,
+many of whom were high-level priests."
+Elite Knight Armor,http://darksouls.wikidot.com/elite-knight-armor,Chest,"Armor of a nameless knight, perhaps an elite
+knight of Astora, based on the fire-warding
+heraldic symbol on its blue surcoat. Although he was loath to give up on his
+Undead mission, he perished at the Undead
+Asylum, and went Hollow."
+Embraced Armor of Favor,http://darksouls.wikidot.com/embraced-armor-of-favor,Chest,"Armor of Lautrec the Embraced,
+representing the goddess Fina's love. The goddess's arms wrap around it, as if to
+embrace the wearer."
+Giant Armor,http://darksouls.wikidot.com/giant-armor,Chest,"Armor of the giant sentinels of Anor Londo. Made from ancient brass, it also offers
+protection versus non-physical attacks, but
+due to its giant size, it is extremely heavy
+for humans, and impedes stamina recovery1."
+Gold-Hemmed Black Cloak,http://darksouls.wikidot.com/gold-hemmed-black-cloak,Chest,"Worn by the witch Quelana of Izalith, mother
+of pyromancy and Daughter of Chaos. She wore this gold-hemmed black cloak
+before even the Age of Fire, and it offers
+strong resistance versus fire, poison, and
+other perils."
+Golem Armor,http://darksouls.wikidot.com/golem-armor,Chest,"Body of the Iron Golem, guardian of the
+ancient Sen's Fortress, slayer of heroes who
+ventured forth to Anor Londo. Without its core, it is a mere hunk of iron,
+and can be equipped as solid protective gear,
+but its immense weight hinders stamina
+recovery."
+Gough`s Armor,http://darksouls.wikidot.com/gough-s-armor,Chest,"Armor of Hawkeye Gough,
+one of Gwyn's Four Knights. Armor donned by Gough since his days as a dragonslayer.
+The medallion, bequeathed by the Lord Himself,
+and the dragon bone pauldrons are symbols of the highest honors."
+Guardian Armor,http://darksouls.wikidot.com/guardian-armor,Chest,"Armor of the stone knights,
+guardians of the forest sanctuary. The stone knights are golems animated by magic,
+and their enchanted armor is oppressively heavy."
+Hard Leather Armor,http://darksouls.wikidot.com/hard-leather-armor,Chest,"Armor made of thick leather. Very common
+type of protective gear, it provides
+a sound level of defense."
+Havel`s Armor,http://darksouls.wikidot.com/havel-s-armor,Chest,"Armor worn by Havel the Rock's warriors.
+Carved from solid rock, its tremendous weight
+is matched only by the defense it provides. Havel's warriors never flinched nor retreated
+from battle. Those unfortunate enough to face
+them were inevitably beaten to a pulp."
+Hollow Soldier Armor,http://darksouls.wikidot.com/hollow-soldier-armor,Chest,"Armor worn by Hollow soldiers. It may be
+old and battered, but its iron construction
+makes it quite sturdy."
+Hollow Thief`s Leather Armor,http://darksouls.wikidot.com/hollow-thief-s-leather-armor,Chest,"Leather armor worn by Hollow thieves. It
+stifles noise and helps its wear hide
+in the shadows."
+Hollow Warrior Armor,http://darksouls.wikidot.com/hollow-warrior-armor,Chest,"Armor worn by Hollow warriors. It is made of
+thick leather that is tattered with age."
+Holy Robe,http://darksouls.wikidot.com/holy-robe,Chest,"Robe donned by the men of the cloth. Though plain
+to the eye, its hardy fabric repels rain and
+keeps the body warm. Those dissatisfied with church teachings
+must test their faith by going on a spiritual
+journey. Such is the ritual of self-purification
+of the Way of the White."
+Knight Armor,http://darksouls.wikidot.com/knight-armor,Chest,"Armor of a lower-rank knight. Despite the
+thin metal used, the grooved texture gives
+it added protection."
+Leather Armor,http://darksouls.wikidot.com/leather-armor,Chest,"Armor made of soft leather.
+Very common type of protective gear."
+Lord`s Blade Robe,http://darksouls.wikidot.com/lord-s-blade-robe,Chest,"Robe of the Lord's Blade Ciaran,
+one of Gwyn's Four Knights. A robe common to all of the Lord's Blades,
+These deadly women shift nimbly between layers of darkness,
+etching streaks of gold into the night air, and planting visions of
+terror into the minds of their targets."
+Maiden Robe,http://darksouls.wikidot.com/maiden-robe,Chest,"White robe worn by traveling maidens. It is
+part of their formal attire, regardless of
+rank. It is soft and well-made, but does not offer
+much in the way of defense, making it ill-
+suited to use in battle."
+Mage Smith Coat,http://darksouls.wikidot.com/mage-smith-coat,Chest,"Coat worn by proper mage smiths who
+studied at Vinheim Dragon School. Mage smiths learn their craft alongside
+sorcerers, but apply their sorcery to
+forging weapons with magic embers."
+Moonlight Robe,http://darksouls.wikidot.com/moonlight-robe,Chest,"Robe of the Dark Sun Gwyndolin, protector
+of the forsaken city of Anor Londo. The power of the moon was strong in
+Gwyndolin, and thus he was raised as a
+daughter. His magic garb is silk-thin
+and hardly provides any physical defense."
+Ornstein`s Armor,http://darksouls.wikidot.com/ornstein-s-armor,Chest,"Armor of the dragonslayer Ornstein, who
+guards the cathedral in the forsaken city of
+Anor Londo. Ornstein is believed to be the captain of the
+Four Knights. His golden lion armor is imbued
+with the power of lightning and should
+provide good protection against it."
+Painting Guardian Robe,http://darksouls.wikidot.com/painting-guardian-robe,Chest,"Robe worn by the alabaster-clothed guardians
+of the paintings in Anor Londo. Offer
+substantial protection versus magic. They have guarded the Great Painting of
+Ariamis for ages, passing their duty down
+through generations, but the reason for
+doing so passed from all memory long ago."
+Paladin Armor,http://darksouls.wikidot.com/paladin-armor,Chest,"Armor of Leeroy, Paladin of the Catacombs. Long ago, the Way of the White produced its
+first Undead, a paladin in golden armor.
+With the legendary treasures Grant and
+Sanctus, Leeroy set out for Lordran,
+Land of the Gods, in the first Undead
+mission of the Way of White."
+Robe of the Channelers,http://darksouls.wikidot.com/robe-of-the-channelers,Chest,"Robe of the Channelers, sorcerers that serve
+Seath the Scaleless. Even after the onset of
+Seath's madness, the ""snatchers"" as they
+were often called, ventured to far lands to
+find suitable human specimens. The heaviest of protective gear for
+sorcerers, and imbued with magic."
+Robe of the Great Lord,http://darksouls.wikidot.com/robe-of-the-great-lord,Chest,"Robe of Gwyn, Lord of Cinder, who linked
+the First Flame. Lord Gwyn, bearer of the ultimate soul,
+divided that power among his clan before
+linking the flame. When he departed, he
+left only with his greatsword, his garb,
+and the crown, now bereft of power."
+Sage Robe,http://darksouls.wikidot.com/sage-robe,Chest,"Robe worn by Big Hat Logan. It is said to
+have been from his apprentice days at Dragon
+School, but it is so worn out, no one knows
+what it originally looked like. Logan, who cared little for his appearance,
+no doubt ever bothered to change out of it."
+Shadow Garb,http://darksouls.wikidot.com/shadow-garb,Chest,"Black cloth garb worn by spooks from an
+Eastern land. Designed so as not to hinder
+their unique form of martial arts. White it sacrifices defense for the sake of
+greater mobility, it does offer resistance
+to bleeding and poison among other things,
+perhaps due to the nature of espionage."
+Silver Knight Armor,http://darksouls.wikidot.com/silver-knight-armor,Chest,"Armor of the Silver Knights who protect Anor
+Londo. When Lord Gwyn departed to link the Fire,
+his knights split into two groups. The Silver
+Knights remained in the forsaken capital in
+the service of their goddess."
+Smough`s Armor,http://darksouls.wikidot.com/smough-s-armor,Chest,"Armor of Smough, the Executioner, protector
+of the cathedral at the forsaken city of Anor
+Londo. It offers extremely high defense
+and can be worn by humans, but not
+without great difficulty."
+Sorcerer Cloak,http://darksouls.wikidot.com/sorcerer-cloak,Chest,"Cloak worn by proper sorcerers who
+studied at Vinheim Dragon School. The majority take pride in having studied at
+the academy and look down on breaking the
+formal dress code established for sorcerers."
+Steel Armor,http://darksouls.wikidot.com/steel-armor,Chest,"Armor of the Knights of Berenike, known for
+their heavy armaments and armor. Countless Knights of Berenike, once
+extolled as the mightiest of mighty, became
+Undead and ventured to Lordran. But their
+journey was for naught, as they went Hollow,
+and became a threat to all Undead."
+Stone Armor,http://darksouls.wikidot.com/stone-armor,Chest,"Moss-covered armor of the Stone Knight,
+defender of the Darkroot Garden. The Stone Knight is a product of ancient
+magic, and although this armor is also imbued
+with magic, it is incredibly heavy."
+Tattered Cloth Robe,http://darksouls.wikidot.com/tattered-cloth-robe,Chest,"Robe worn by pyromancers of the Great Swamp.
+Though it appears tattered, it is actually
+quite strong. Their attire offers substantial protection
+against poison, fire, and other forces of
+nature out in the hinterlands where they
+were driven."
+Wanderer Coat,http://darksouls.wikidot.com/wanderer-coat,Chest,"Coat of an aimless traveler. Made from sturdy
+leather and quilting. Battle comes with the territory when one
+wanders the land, and this coat provides a
+certain degree of protection."
+Witch Cloak,http://darksouls.wikidot.com/witch-cloak,Chest,"Cloak of the rogue witch Beatrice. Almost all magic users that employ catalysts
+studied at Dragon School, but Beatrice is
+one of the few exceptions. She braved the
+Abyss but did not live to tell of her ordeal."
+Xanthous Overcoat,http://darksouls.wikidot.com/xanthous-overcoat,Chest,"A mysterious item once worn by the Xanthous
+King Jeremiah, the legendary exile. No one
+knows where it came from. It may be tattered, but its bright yellow
+color still stings the eyes."
+Antiquated Gloves,http://darksouls.wikidot.com/antiquated-gloves,Hands,"Gloves from the ancient fallen
+land of Oolacile. Their ivory-colored
+silk features elaborate embroidery
+and are imbued with ancient magic power. One cannot expect any physical
+protection from these, as they
+were not meant to be worn in battle."
+Balder Gauntlets,http://darksouls.wikidot.com/balder-gauntlets,Hands,"Gauntlets worn by the knights of the ancient
+kingdom of Balder. It is made from thick
+iron plates. Balder was the homeland of the Knight
+King Rendal, but it came to ruin after a
+great many Undead were spawned."
+Black Iron Gauntlets,http://darksouls.wikidot.com/black-iron-gauntlets,Hands,"Gauntlets of Black Iron Tarkus, a knight
+known for his great strength. Built of a special black iron and
+providing strong defense, notably
+against fire, but so terrible heavy to be
+unwieldy to all but Tarkus himself."
+Black Knight Gauntlets,http://darksouls.wikidot.com/black-knight-gauntlets,Hands,"Gauntlets of the Black Knights who haunt
+Lordran. The knights pursued Lord Gwyn when he
+departed to link the flame, but they
+were burned to ashes in newly kindled
+fire, wandering the world as disembodied
+spirits ever after."
+Black Leather Gloves,http://darksouls.wikidot.com/black-leather-gloves,Hands,"These gloves made of smooth black leather are
+extremely quiet, a good thing for those who hide in
+the shadows. The leather itself is thick, offering a
+decent level of protection."
+Black Manchette,http://darksouls.wikidot.com/black-manchette,Hands,"Manchette worn by pardoners serving Velka,
+the Goddess of Sin. The pardoners' attire is uniformly black in
+color and said to be imbued with Velka's
+mystical power, which provides resistance
+against all manner of magic."
+Black Sorcerer Gauntlets,http://darksouls.wikidot.com/black-sorcerer-gauntlets,Hands,"Gauntlets worn by the secret sorcerers at
+Vinheim Dragon School. They secretly work with sound-based spells,
+and never reveal themselves."
+Bracelet of the Great Lord,http://darksouls.wikidot.com/bracelet-of-the-great-lord,Hands,"Bracelet of Gwyn, Lord of Cinder, who linked
+the First Flame. Lord Gwyn, bearer of the ultimate soul,
+divided that power among his clan before
+linking the flame. When he departed, he
+left only with his greatsword, his garb,
+and the crown, now bereft of power."
+Brass Gauntlets,http://darksouls.wikidot.com/brass-gauntlets,Hands,"Gauntlets of the Darkmoon Knightess,
+Fire Keeper of Anor Londo. After becoming Undead, she visited the Dark
+Sun Gwyndolin at the Mausoleum of the Spiral
+Depths, became a Blade of Darkmoon,
+and assumed the flame-keeping duty. She
+received these gauntlets, which hide her
+hideous form and help her hunt the guilty."
+Brigand Gauntlets,http://darksouls.wikidot.com/brigand-gauntlets,Hands,"Gauntlets worn by the brigands who raid
+mountain hamlets and attack travelers. The addition of metal over a base of cloth
+and leather offers good mobility and defense."
+Catarina Gauntlets,http://darksouls.wikidot.com/catarina-gauntlets,Hands,"Distinctively shaped gauntlets worn by the
+Knights of Catarina. Outside of Caterina, they are often ridiculed
+for their onion-like shape, infuriating the
+proud knights, but the masterfully forged
+curved design makes it very effective for
+parrying."
+Chester`s Gloves,http://darksouls.wikidot.com/chester-s-gloves,Hands,"Leather gloves worn by Marvellous Chester,
+a man of mystery lost in the past. These gloves have no distinguishing features,
+but are of extremely high quality."
+Cleric Gauntlets,http://darksouls.wikidot.com/cleric-gauntlets,Hands,"Gauntlets worn by the warrior clerics of the
+Way of White, who are famous for being
+unyielding in battle. They are rather substantial in size and
+weight, making their wearer look even bigger
+than he actually is."
+Crimson Gloves,http://darksouls.wikidot.com/crimson-gloves,Hands,"Gloves of the sorcerers who flooded
+New Londo to seal away the Dark wraiths,
+and the Four Kings who descended into Dark. The Sealers were once known as healers, and
+the bright crimson was a symbol of that."
+Crystalline Gauntlets,http://darksouls.wikidot.com/crystalline-gauntlets,Hands,"Gauntlets worn by a Hollowed knight, who was
+partially crystallized. The crystal provides strong defense, but
+they cannot be used for long because they
+are easily broken and cannot be repaired."
+Dark Gauntlets,http://darksouls.wikidot.com/dark-gauntlets,Hands,"Gauntlets of the Darkwraiths, former knights
+of New Londo who descended into Dark. Their gauntlets transformed, and remain
+symbol of the Dark servants and their
+diabolical art of Lifedrain."
+Dingy Gloves,http://darksouls.wikidot.com/dingy-gloves,Hands,"Worn by the Fire Keeper at Firelink Shrine. They are thought to have once been the white
+gloves of a maiden, but smoke and ashes
+from bonfires darkened them over the
+years."
+Eastern Gauntlets,http://darksouls.wikidot.com/eastern-gauntlets,Hands,"Distinctive gauntlets made in an Eastern
+land. Exquisitely crafted, these gauntlets offer
+excellent defense, particularly versus slash
+attacks, which are one of the main threats in
+battles in the East."
+Elite Cleric Gauntlets,http://darksouls.wikidot.com/elite-cleric-gauntlets,Hands,"Gauntlets worn by the warrior clerics of the
+Way of White, who are famous for being
+unyielding in battle. Among such gauntlets, those that were black
+belonged to warrior clerics sent on missions,
+many of whom were high-level priests."
+Elite Knight Gauntlets,http://darksouls.wikidot.com/elite-knight-gauntlets,Hands,"Gauntlets of a nameless knight, perhaps an
+elite knight of Astora. Although he was loath to give up on his
+Undead mission, he perished at the Undead
+Asylum, and went Hollow."
+Gauntlets of Artorias,http://darksouls.wikidot.com/gauntlets-of-artorias,Hands,"Gauntlets of Artorias the Abysswalker,
+one of Gwyn's four knights. The death of the their owner can be surmised from the corrosive Dark of the Abyss,
+which has compromised their protective utility."
+Gauntlets of Favor,http://darksouls.wikidot.com/gauntlets-of-favor,Hands,"Gauntlets of Lautrec the Embraced,
+representing the goddess Fina's love. During his solitude, he forsook everything,
+for he believed in the goddess's love for
+him."
+Gauntlets of the Channelers,http://darksouls.wikidot.com/gauntlets-of-the-channelers,Hands,"Gauntlets of the Channelers, sorcerers that
+serve Seath the Scaleless. Even after the
+onset of Seath's madness, the ""snatchers""
+as they were often called, ventured to far
+lands to find suitable human specimens. The heaviest of protective gear for
+sorcerers, and imbued with magic."
+Gauntlets of the Vanquisher,http://darksouls.wikidot.com/gauntlets-of-the-vanquisher,Hands,"Strange gauntlets from the ancient land of
+Zena, birthplace of the curious dealer
+Domhnall. They gold bracelets symbolize a vanquisher."
+Gauntlets of Thorns,http://darksouls.wikidot.com/gauntlets-of-thorns,Hands,"Gauntlets of Kirk, knight of Thorns and
+notorious member of the Darkwraiths. A dense
+patch of thorns grows from their surface. They are a fitting item for the murderous
+Kirk, for by simply wearing them and rolling,
+one can damage enemies."
+Giant Gauntlets,http://darksouls.wikidot.com/giant-gauntlets,Hands,"Gauntlets of the giant sentinels of Anor
+Londo. Made from ancient brass, they also offer
+protection versus non-physical attacks, but
+due to their giant size, they are extremely
+heavy for humans, and impede stamina
+recovery."
+Gold-Hemmed Black Gloves,http://darksouls.wikidot.com/gold-hemmed-black-gloves,Hands,"Worn by the witch Quelana of Izalith, mother
+of pyromancy and Daughter of Chaos. She wore these gold lined black gloves
+before even the Age of Fire, and they offer
+strong resistance versus fire, poison, and
+other perils."
+Golem Gauntlets,http://darksouls.wikidot.com/golem-gauntlets,Hands,"Arms of the Iron Golem, guardian of the
+ancient Sen's Fortress, slayer of heroes who
+ventured forth to Anor Londo. Without its core, they are mere hunks of
+iron, and can be equipped as solid protective
+gear, but their immense weight hinders
+stamina recovery."
+Gough`s Gauntlets,http://darksouls.wikidot.com/gough-s-gauntlets,Hands,"Gauntlets of Hawkeye Gough,
+one of Gwyn's Four Knights. Received as a decoration of honor.
+Crafted of similar material to the gauntlets worn by the Silver Knights."
+Guardian Gauntlets,http://darksouls.wikidot.com/guardian-gauntlets,Hands,"Gauntlets of the stone knights,
+guardians of the forest sanctuary. The stone knights are golems animated by magic,
+and their enchanted gauntlets are oppressively heavy."
+Hard Leather Gauntlets,http://darksouls.wikidot.com/hard-leather-gauntlets,Hands,"Gauntlets made of thick leather. Very
+common type of protective gear, they
+provide a sound level of defense."
+Havel`s Gauntlets,http://darksouls.wikidot.com/havel-s-gauntlets,Hands,"Gauntlets worn by Havel the Rock's warriors.
+Carved from solid rock, their
+tremendous weight is matched only by the
+defense it provides. Havel's warriors never flinched nor retreated
+from battle. Those unfortunate enough to face
+them were inevitably beaten to a pulp."
+Iron Bracelet,http://darksouls.wikidot.com/iron-bracelet,Hands,"Bracelets of Solaire of Astora, Knight of
+Sunlight. Of high quality, but lacking any
+particular powers. Solaire's incredible prowess must have
+come from rigorous training alone, for
+his equipment exhibits no special traits."
+Knight Gauntlets,http://darksouls.wikidot.com/knight-gauntlets,Hands,"Gauntlets of a lower-rank knight. Despite the
+thin metal used, the grooved texture gives
+them added protection."
+Leather Gauntlets,http://darksouls.wikidot.com/leather-gauntlets,Hands,"Gauntlets made of soft leather.
+One of the more common kinds of protective gear."
+Leather Gloves,http://darksouls.wikidot.com/leather-gloves,Hands,"Gloves made of soft leather.
+Very common type of protective gear."
+Lord`s Blade Gloves,http://darksouls.wikidot.com/lord-s-blade-gloves,Hands,"Gloves worn by the Lord's Blade Ciaran, one of Gwyn's four knights. Gloves common to all of the Lord's Blades.
+These deadly women shift nimbly between layers of darkness,
+etching streaks of gold into the night air,
+and planting visions of terror into the minds of their targets."
+Mage Smith Gauntlets,http://darksouls.wikidot.com/mage-smith-gauntlets,Hands,"Gauntlets worn by proper mage smiths who
+studied at Vinheim Dragon School. Mage smiths learn their craft alongside
+sorcerers, but apply their sorcery to
+forging weapons with magic embers."
+Maiden Gloves,http://darksouls.wikidot.com/maiden-gloves,Hands,"White gloves worn by traveling maidens. It is
+part of their formal attire, regardless of
+rank. It is soft and well-made, but does not offer
+much in the way of defense, making it ill-
+suited to use in battle."
+Moonlight Gloves,http://darksouls.wikidot.com/moonlight-gloves,Hands,"Gloves of the Dark Sun Gwyndolin, protector
+of the forsaken city of Anor Londo. The power of the moon was strong in
+Gwyndolin, and thus he was raised as a
+daughter. His magic garb is silk-thin,
+and hardly provides any physical defense."
+Ornstein`s Gauntlets,http://darksouls.wikidot.com/ornstein-s-gauntlets,Hands,"Gauntlets of the dragonslayer Ornstein, who
+guards the cathedral in the forsaken city of
+Anor Londo. Ornstein is believed to be the captain of the
+Four Knights. His golden lion gauntlets are
+imbued with the power of lightning and should
+provide good protection against it."
+Painting Guardian Gloves,http://darksouls.wikidot.com/painting-guardian-gloves,Hands,"Gloves worn by the alabaster-clothed guardians
+of the paintings in Anor Londo. Offer
+substantial protection versus magic. They have guarded the Great Painting of
+Ariamis for ages, passing their duty down
+through generations, but the reason for
+doing so passed from all memory long ago."
+Paladin Gauntlets,http://darksouls.wikidot.com/paladin-gauntlets,Hands,"Gauntlets of Leeroy, Paladin of the
+Catacombs. Long ago, the Way of the White produced its
+first Undead, a paladin in golden armor.
+With the legendary treasures Grant and
+Sanctus, Leeroy set out for Lordran,
+Land of the Gods, in the first Undead
+mission of the Way of White."
+Shadow Gauntlets,http://darksouls.wikidot.com/shadow-gauntlets,Hands,"Black cloth gauntlets worn by spooks from an
+Eastern land. Designed so as not to hinder
+their unique form of martial arts. White they sacrifice defense for the sake of
+greater mobility, they do offer resistance
+to bleeding and poison among other things,
+perhaps due to the nature of espionage."
+Silver Knight Gauntlets,http://darksouls.wikidot.com/silver-knight-gauntlets,Hands,"Gauntlets of the Silver Knights who protect
+Anor Londo. When Lord Gwyn departed to link the Fire,
+his knights split into two groups. The Silver
+Knights remained in the forsaken capital in
+the service of their goddess."
+Smough`s Gauntlets,http://darksouls.wikidot.com/smough-s-gauntlets,Hands,"Gauntlets of Smough, the Executioner, protector
+of the cathedral at the forsaken city of Anor
+Londo. It offers extremely high defense
+and can be worn by humans, but not
+without great difficulty."
+Sorcerer Gauntlets,http://darksouls.wikidot.com/sorcerer-gauntlets,Hands,"Gauntlets worn by proper sorcerers who
+studied at Vinheim Dragon School. The majority take pride in having studied at
+the academy and look down on breaking the
+formal dress code established for sorcerers."
+Steel Gauntlets,http://darksouls.wikidot.com/steel-gauntlets,Hands,"Gauntlets of the Knights of Berenike, known
+for their heavy armaments and armor Countless Knights of Berenike, once
+extolled as the mightiest of mighty, became
+Undead and ventured to Lordran. But their
+journey was for naught, as they went Hollow,
+and became a threat to all Undead."
+Stone Gauntlets,http://darksouls.wikidot.com/stone-gauntlets,Hands,"Moss-covered gauntlets of the Stone Knight,
+defender of the Darkroot Garden. The Stone Knight is a product of ancient
+magic, and although these gauntlets are also imbued
+with magic, they are incredibly heavy."
+Tattered Cloth Manchette,http://darksouls.wikidot.com/tattered-cloth-manchette,Hands,"Manchette worn by pyromancers of the Great
+Swamp. Though it appears tattered, it is
+actually quite strong. Their attire offers substantial protection
+against poison, fire, and other forces of
+nature out in the hinterlands where they
+were driven."
+Traveling Gloves,http://darksouls.wikidot.com/traveling-gloves,Hands,"Thick, sturdy gloves made for travelers on
+extended journeys."
+Traveling Gloves,http://darksouls.wikidot.com/traveling-gloves-logan,Hands,"Gloves worn by Big Hat Logan. They are
+indistinguisable from the ordinary kind
+worn by travelers"
+Wanderer Manchette,http://darksouls.wikidot.com/wanderer-manchette,Hands,"Manchette of an aimless traveler. Made from sturdy leather and protects the
+hands."
+Witch Gloves,http://darksouls.wikidot.com/witch-gloves,Hands,"Gloves of the rogue witch Beatrice. Almost all magic users that employ catalysts
+studied at Dragon School, but Beatrice is
+one of the few exceptions. She braved the
+Abyss but did not live to tell of her ordeal."
+Xanthous Gloves,http://darksouls.wikidot.com/xanthous-gloves,Hands,"Mysterious items once worn by the Xanthous
+King Jeremiah, the legendary exile. No one
+knows where it came from. They may be tattered, but its bright yellow
+color still stings the eyes."
+Anklet of the Great Lord,http://darksouls.wikidot.com/anklet-of-the-great-lord,Legs,"Anklet of Gwyn, Lord of Cinder, who linked
+the First Flame. Lord Gwyn, bearer of the ultimate soul,
+divided that power among his clan before
+linking the flame. When he departed, he
+left only with his greatsword, his garb,
+and the crown, now bereft of power."
+Antiquated Skirt,http://darksouls.wikidot.com/antiquated-skirt,Legs,"A skirt from the ancient fallen
+land of Oolacile. Its ivory-colored
+silk features elaborate embroidery
+and is imbued with ancient magic power. One cannot expect any physical
+protection from this garment,
+as it was not meant to be worn in battle."
+Balder Leggings,http://darksouls.wikidot.com/balder-leggings,Legs,"Leggings worn by the knights of the ancient
+kingdom of Balder. It is made from thick
+iron plates. Balder was the homeland of the Knight
+King Rendal, but it came to ruin after a
+great many Undead were spawned."
+Black Iron Leggings,http://darksouls.wikidot.com/black-iron-leggings,Legs,"Leggings of Black Iron Tarkus, a knight
+known for his great strength. Built of a special black iron and
+providing strong defense, notably
+against fire, but so terrible heavy to be
+unwieldy to all but Tarkus himself."
+Black Knight Leggings,http://darksouls.wikidot.com/black-knight-leggings,Legs,"Leggings of the Black Knights who haunt
+Lordran. The knights followed Lord Gwyn when he
+departed to link the flame, but they
+were burned to ashes in newly kindled
+fire, wandering the world as disembodied
+spirits ever after."
+Black Leather Boots,http://darksouls.wikidot.com/black-leather-boots,Legs,"These boots made of smooth black leather are
+extremely quiet, a good thing for those who hide in
+the shadows. The leather itself is thick, offering a
+decent level of protection."
+Black Sorcerer Boots,http://darksouls.wikidot.com/black-sorcerer-boots,Legs,"Boots worn by the secret sorcerers at
+Vinheim Dragon School. They secretly work with sound-based spells,
+and never reveal themselves."
+Black Tights,http://darksouls.wikidot.com/black-tights,Legs,"Tights worn by pardoners serving Velka,
+the Goddess of Sin. The pardoners' attire is uniformly black in
+color and said to be imbued with Velka's
+mystical power, which provides resistance
+against all manner of magic."
+Blood-Stained Skirt,http://darksouls.wikidot.com/blood-stained-skirt,Legs,"Worn by the Fire Keeper at Firelink Shrine. It is thought to have once been the white
+skirt of a maiden, but its true origin
+is lost in patches of blood. Perhaps its
+former wearer was maimed to prevent escape?"
+Boots of the Explorer,http://darksouls.wikidot.com/boots-of-the-explorer,Legs,"Strange boots from the ancient land of Zena,
+birthplace of the curious dealer Domhnall. The inlaid silver rings symbolize an
+explorer."
+Brass Leggings,http://darksouls.wikidot.com/brass-leggings,Legs,"Leggings of the Darkmoon Knightess,
+Fire Keeper of Anor Londo. After becoming Undead, she visited the Dark
+Sun Gwyndolin at the Mausoleum of the Spiral
+Depths, became a Blade of Darkmoon,
+and assumed the flame-keeping duty. She
+received these leggings, which hides her
+hideous form and help her hunt the guilty."
+Brigand Trousers,http://darksouls.wikidot.com/brigand-trousers,Legs,"Trousers worn by the brigands who raid
+mountain hamlets and attack travelers. The addition of metal over a base of cloth
+and leather offers good mobility and defense."
+Catarina Leggings,http://darksouls.wikidot.com/catarina-leggings,Legs,"Distinctively shaped leggings worn by the
+Knights of Catarina. Outside of Caterina, they are often ridiculed
+for their onion-like shape, infuriating the
+proud knights, but the masterfully forged
+curved design makes it very effective for
+parrying."
+Chain Leggings,http://darksouls.wikidot.com/chain-leggings,Legs,"Chainmail leggings of thin interlinking rings
+of steel. It is common throughout the human
+world since it can be easily produced, it is not
+too heavy, and offers good defense. Knights may favor flashy armor, but for
+warriors on the battlefield, anything is
+fine as long as it keeps them alive."
+Chester`s Trousers,http://darksouls.wikidot.com/chester-s-trousers,Legs,"Black leather trousers worn by Marvellous Chester,
+a man of mystery lost in the past. These exquisitely sewn trousers
+are decorated with silver trinkets of varying sizes,
+and have straps on the inner legs for carrying crossbow bolts."
+Cleric Leggings,http://darksouls.wikidot.com/cleric-leggings,Legs,"Leggings worn by the warrior clerics of the
+Way of White, who are famous for being
+unyielding in battle. They are rather substantial in size and
+weight, making their wearer look even bigger
+than he actually is."
+Crimson Waistcloth,http://darksouls.wikidot.com/crimson-waistcloth,Legs,"Waistcloth of the sorcerers who flooded
+New Londo to seal away the Darkwraiths,
+and the Four Kings who descended into Dark. The Sealers were once known as healers, and
+the bright crimson was a symbol of that."
+Crystalline Leggings,http://darksouls.wikidot.com/crystalline-leggings,Legs,"Leggings worn by a Hollowed knight, who was
+partially crystallized. The crystal power provides good defense, but
+they cannot be used for long because they
+are easily broken and cannot be repaired."
+Dark Leggings,http://darksouls.wikidot.com/dark-leggings,Legs,"Leggings of the Darkwraiths, former knights
+of New Londo who descended into Dark. Their leggings transformed, and remain a
+symbol of the Dark servants and their
+diabolical art of Lifedrain."
+Eastern Leggings,http://darksouls.wikidot.com/eastern-leggings,Legs,"Distinctive leggings made in an Eastern
+land. Exquisitely crafted, these leggings offer
+excellent defense, particularly versus slash
+attacks, which are one of the main threats in
+battles in the East."
+Elite Cleric Leggings,http://darksouls.wikidot.com/elite-cleric-leggings,Legs,"Leggings worn by the warrior clerics of the
+Way of White, who are famous for being
+unyielding in battle. Among such leggings, those that were black
+belonged to warrior clerics sent on missions,
+many of whom were high-level priests."
+Elite Knight Leggings,http://darksouls.wikidot.com/elite-knight-leggings,Legs,"Leggings of a nameless knight, perhaps an
+elite knight of Astora. Although he was loath to give up on his
+Undead mission, he perished at the Undead
+Asylum, and went Hollow."
+Giant Leggings,http://darksouls.wikidot.com/giant-leggings,Legs,"Leggings of the giant sentinels of Anor
+Londo. Made from ancient brass, they also offer
+protection versus non-physical attacks, but
+due to their giant size, they are extremely
+heavy for humans, and impede stamina
+recovery."
+Gold-Hemmed Black Skirt,http://darksouls.wikidot.com/gold-hemmed-black-skirt,Legs,"Worn by the witch Quelana of Izalith, mother
+of pyromancy and Daughter of Chaos. She wore this gold-hemmed black skirt before
+even the Age of Fire, and it offers strong
+resistance versus fire, poison, and other
+perils."
+Golem Leggings,http://darksouls.wikidot.com/golem-leggings,Legs,"Legs of the Iron Golem, guardian of the
+ancient Sen's Fortress, slayer of heroes who
+ventured forth to Anor Londo. Without its core, they are mere hunks of
+iron, and can be equipped as solid protective
+gear, but their immense weight hinders
+stamina recovery."
+Gough`s Leggings,http://darksouls.wikidot.com/gough-s-leggings,Legs,"Leggings of Hawkeye Gough,
+one of Gwyn's Four Knights. Received as a decoration of honor.
+Crafted of similar material to the gauntlets worn by the Silver Knights."
+Guardian Leggings,http://darksouls.wikidot.com/guardian-leggings,Legs,"Leggings of the stone knights,
+guardians of the forest sanctuary. The stone knights are golems animated by magic,
+and their enchanted leggings are oppressively heavy."
+Hard Leather Boots,http://darksouls.wikidot.com/hard-leather-boots,Legs,"Boots made of thick leather. Very common
+type of protective gear, they provides
+a sound level of defense."
+Havel`s Leggings,http://darksouls.wikidot.com/havel-s-leggings,Legs,"Leggings worn by Havel the Rock's warriors.
+Carved from solid rock, their tremendous weight
+is matched only by the defense it provides. Havel's warriors never flinched nor retreated
+from battle. Those unfortunate enough to face
+them were inevitably beaten to a pulp."
+Heavy Boots,http://darksouls.wikidot.com/heavy-boots,Legs,"Boots made of thick leather. The boots of the
+pyromancers are incredibly tough, on account
+of the rugged grasslands and treacherous
+swamps they must traverse. Their soles are
+nearly impenetrable."
+Hollow Soldier Waistcloth,http://darksouls.wikidot.com/hollow-soldier-waistcloth,Legs,"Waistcloth worn by Hollow soldiers. It is so
+tattered that it barely serves its purpose
+anymore."
+Hollow Thief`s Tights,http://darksouls.wikidot.com/hollow-thief-s-tights,Legs,"Tights worn by Hollow thieves. They stifle
+noise and help their wearer hide in the
+shadows."
+Hollow Warrior Waistcloth,http://darksouls.wikidot.com/hollow-warrior-waistcloth,Legs,"Waistcloth worn by Hollow Warriors. It is so
+tattered that it barely serves its purpose
+anymore."
+Holy Trousers,http://darksouls.wikidot.com/holy-trousers,Legs,"Trousers donned by the men of the cloth, Though
+plain to the naked eye, their hardy fabric
+repels rain and keeps the body warm. Those dissatisfied with church teachings
+must test their faith by going on a spiritual
+journey. Such is the ritual of self-purification
+of the Way of the White."
+Iron Leggings,http://darksouls.wikidot.com/iron-leggings,Legs,"Leggings of Solaire of Astora, Knight of
+Sunlight. Of high quality, but lacking any
+particular powers. Solaire's incredible prowess must have
+come from rigorous training alone, for
+his equipment exhibits no special traits."
+Knight Leggings,http://darksouls.wikidot.com/knight-leggings,Legs,"Leggings of a lower-rank knight. Despite the
+thin metal used, the grooved texture gives
+them added protection."
+Leather Boots,http://darksouls.wikidot.com/leather-boots,Legs,"Boots made of soft leather.
+Very common type of protective gear."
+Leggings of Artorias,http://darksouls.wikidot.com/leggings-of-artorias,Legs,"Leggings of Artorias the Abysswalker,
+one of Gwyn's four knights. The death of the their owner can be surmised from the corrosive Dark of the Abyss,
+which has compromised their protective utility."
+Leggings of Favor,http://darksouls.wikidot.com/leggings-of-favor,Legs,"Leggings of Lautrec the Embraced,
+representing the goddess Fina's love. During his solitude, he forsook everything,
+for he believed in the goddess's love for
+him."
+Leggings of Thorns,http://darksouls.wikidot.com/leggings-of-thorns,Legs,"Leggings of Kirk, knight of Thorns and
+notorious member of the Darkwraiths. A dense
+patch of thorns grows from their surface. They are a fitting item for the murderous
+Kirk, for by simply wearing them and rolling,
+one can damage enemies."
+Lord`s Blade Waistcloth,http://darksouls.wikidot.com/lord-s-blade-waistcloth,Legs,"Waistcloth worn by the Lord's Blade Ciaran,
+one of Gwyn's four knights. Waistcloth common to all of the Lord's Blades.
+These deadly women shift nimbly between layers of darkness,
+etching streaks of gold into the night air,
+and planting visions of terror into the minds of their targets."
+Mage Smith Boots,http://darksouls.wikidot.com/mage-smith-boots,Legs,"Boots worn by proper mage smiths who
+studied at Vinheim Dragon School. Mage smiths learn their craft alongside
+sorcerers, but apply their sorcery to
+forging weapons with magic embers."
+Maiden Skirt,http://darksouls.wikidot.com/maiden-skirt,Legs,"White skirt worn by traveling maidens. It is
+part of their formal attire, regardless of
+rank. It is soft and well-made, but does not offer
+much in the way of defense, making it ill-
+suited to use in battle."
+Moonlight Waistcloth,http://darksouls.wikidot.com/moonlight-waistcloth,Legs,"Waistcloth of the Dark Sun Gwyndolin,
+protector of the forsaken city of Anor Londo. The power of the moon was strong in
+Gwyndolin, and thus he was raised as a
+daughter. His magic garb is silk-thin,
+and hardly provides any physical defense."
+Ornstein`s Leggings,http://darksouls.wikidot.com/ornstein-s-leggings,Legs,"Leggings of the dragonslayer Ornstein, who
+guards the cathedral in the forsaken city of
+Anor Londo. Ornstein is believed to be the captain of the
+Four Knights. His golden lion leggings are
+imbued with the power of lightning and should
+provide good protection against it."
+Painting Guardian Waistcloth,http://darksouls.wikidot.com/painting-guardian-waistcloth,Legs,"Waistcloth worn by the alabaster-clothed
+guardians of the paintings in Anor Londo.
+Offer substantial protection versus magic. They have guarded the Great Painting of
+Ariamis for ages, passing their duty down
+through generations, but the reason for
+doing so passed from all memory long ago."
+Paladin Leggings,http://darksouls.wikidot.com/paladin-leggings,Legs,"Leggings of Leeroy, Paladin of the Catacombs. Long ago, the Way of the White produced its
+first Undead, a paladin in golden armor.
+With the legendary treasures Grant and
+Sanctus, Leeroy set out for Lordran,
+Land of the Gods, in the first Undead
+mission of the Way of White."
+Shadow Leggings,http://darksouls.wikidot.com/shadow-leggings,Legs,"Black cloth leggings worn by spooks from an
+Eastern land. Designed so as not to hinder
+their unique form of martial arts. White they sacrifice defense for the sake of
+greater mobility, they do offer resistance
+to bleeding and poison among other things,
+perhaps due to the nature of espionage."
+Silver Knight Leggings,http://darksouls.wikidot.com/silver-knight-leggings,Legs,"Leggings of the Silver Knights who protect
+Anor Londo. When Lord Gwyn departed to link the Fire,
+his knights split into two groups. The Silver
+Knights remained in the forsaken capital in
+the service of their goddess."
+Smough`s Leggings,http://darksouls.wikidot.com/smough-s-leggings,Legs,"Leggings of Smough, the Executioner, protector
+of the cathedral at the forsaken city of Anor
+Londo. It offers extremely high defense
+and can be worn by humans, but not
+without great difficulty."
+Sorcerer Boots,http://darksouls.wikidot.com/sorcerer-boots,Legs,"Boots worn by proper sorcerers who studied
+at Vinheim Dragon School. The majority take pride in having studied at
+the academy and look down on breaking the
+formal dress code established for sorcerers."
+Steel Leggings,http://darksouls.wikidot.com/steel-leggings,Legs,"Leggings of the Knights of Berenike, known
+for their heavy armaments and armor Countless Knights of Berenike, once
+extolled as the mightiest of mighty, became
+Undead and ventured to Lordran. But their
+journey was for naught, as they went Hollow,
+and became a threat to all Undead."
+Stone Leggings,http://darksouls.wikidot.com/stone-leggings,Legs,"Moss-covered leggings of the Stone Knight,
+defender of the Darkroot Garden. The Stone Knight is a product of ancient
+magic, and although these leggings are also imbued
+with magic, they are incredibly heavy."
+Traveling Boots,http://darksouls.wikidot.com/traveling-boots,Legs,"Boots worn by Big Hat Logan. They are
+indistinguishable from the ordinary kind
+worn by travelers."
+Waistcloth of the Channelers,http://darksouls.wikidot.com/waistcloth-of-the-channelers,Legs,"Waistcloth of the Channelers, sorcerers that serve
+Seath the Scaleless. Even after the onset of
+Seath's madness, the ""snatchers"" as they
+were often called, ventured to far lands to
+find suitable human specimens. The heaviest of protective gear for
+sorcerers, and imbued with magic."
+Wanderer Boots,http://darksouls.wikidot.com/wanderer-boots,Legs,"Boots of an aimless traveler. Made from sturdy leather. A must-have for
+long journeys."
+Witch Skirt,http://darksouls.wikidot.com/witch-skirt,Legs,"Skirt of the rogue witch Beatrice. Almost all magic users that employ catalysts
+studied at Dragon School, but Beatrice is
+one of the few exceptions. She braved the
+Abyss but did not live to tell of her ordeal."
+Xanthous Waistcloth,http://darksouls.wikidot.com/xanthous-waistcloth,Legs,"A mysterious item once worn by the Xanthous
+King Jeremiah, the legendary exile. No one
+knows where it came from. It may be tattered, but its bright yellow
+color still stings the eyes."

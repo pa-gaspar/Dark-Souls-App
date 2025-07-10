@@ -1,0 +1,386 @@
+entity,total_mentions,character_connections,item_connections,entity_types,grouped_entities,group_size
+"the Catacombs
+Good day",3,3,0,ORG,['the Catacombs\nGood day'],1
+Trusty Patches,10,10,0,PERSON,['Trusty Patches'],1
+Soul,9,7,2,PERSON,['Soul'],1
+Giants,3,3,0,ORG,['Giants'],1
+Firelink Shrine,30,30,0,ORG,"['the Firelink Shrine', 'Firelink Shrine', 'First Firelink Shrine']",3
+Lautrec the Embraced,5,4,1,WORK_OF_ART,['Lautrec the Embraced'],1
+Treasures,4,4,0,PERSON,['Treasures'],1
+Artorias,28,26,2,"ORG, PERSON",['Artorias'],1
+Alvina,11,8,3,"GPE, PERSON",['Alvina'],1
+the Darkroot Wood,4,4,0,ORG,['the Darkroot Wood'],1
+Shiva,11,11,0,PERSON,['Shiva'],1
+East,13,8,5,LOC,['East'],1
+Hollow,155,106,49,ORG,"['Hollow', 'Hollows', 'Hollowed']",3
+Thine,8,8,0,GPE,['Thine'],1
+Hellish,2,2,0,GPE,['Hellish'],1
+Anastacia,5,5,0,PERSON,['Anastacia'],1
+Astora,22,16,6,"GPE, PERSON",['Astora'],1
+Keepers,13,12,1,PERSON,"['Keeper', 'Keepers']",2
+Speak,3,3,0,GPE,['Speak'],1
+Frampt,17,17,0,PERSON,['Frampt'],1
+Fire,20,16,4,"ORG, PERSON",['Fire'],1
+Undead,109,72,37,ORG,['Undead'],1
+Andre,10,10,0,PERSON,['Andre'],1
+Ascension,4,4,0,PERSON,['Ascension'],1
+Sen's Fortress,22,16,6,ORG,"[""Sen's Fortress"", ""Sen's Fortress\nOh"", ""Sen's Fortress\nMmm""]",3
+the Darkroot Garden,14,8,6,EVENT,['the Darkroot Garden'],1
+Anor Londo,70,31,39,"GPE, PERSON","['Anor Londo', 'Anor\nLondo']",2
+Catacombs,6,6,0,ORG,['Catacombs'],1
+Artorias the Abysswalker,8,4,4,"WORK_OF_ART, PERSON",['Artorias the Abysswalker'],1
+the Large Divine Ember,3,3,0,LAW,['the Large Divine Ember'],1
+Splendid,4,4,0,PERSON,['Splendid'],1
+Owww,4,4,0,PERSON,['Owww'],1
+"Sen's Fortress
+Sen's Fortress
+Initial",1,1,0,ORG,"[""Sen's Fortress\nSen's Fortress\nInitial""]",1
+Logan,53,50,3,"ORG, WORK_OF_ART, PERSON, GPE, PRODUCT",['Logan'],1
+"Sen's Fortress
+Firelink Shrine
+Firelink Shrine
+First Firelink Shrine",1,1,0,ORG,"[""Sen's Fortress\nFirelink Shrine\nFirelink Shrine\nFirst Firelink Shrine""]",1
+"Intelligence
+Hello",4,4,0,ORG,['Intelligence\nHello'],1
+"Intelligence
+Leaving",1,1,0,ORG,['Intelligence\nLeaving'],1
+The Duke's Archives',6,6,0,"ORG, WORK_OF_ART","[""The Duke's Archives'""]",1
+Archives,12,12,0,ORG,"['Archives', 'Archive']",2
+the Primordial Crystal,6,6,0,ORG,['the Primordial Crystal'],1
+the Crystal Forest,2,2,0,ORG,['the Crystal Forest'],1
+Seath,2,2,0,PERSON,['Seath'],1
+Farewell,26,26,0,PERSON,['Farewell'],1
+Heavens,4,4,0,PERSON,['Heavens'],1
+Black Iron Tarkus,7,4,3,ORG,['Black Iron Tarkus'],1
+Bah,22,22,0,PERSON,['Bah'],1
+the Bell of Awakening,20,19,1,ORG,"['Bells of Awakening', 'Bell of Awakening', 'the Bell of Awakening', 'Bell of Awakening\nOh', 'Bell of Awakening\nNo']",5
+the Undead Church,12,11,1,ORG,"['the Undead Church', 'Undead Church']",2
+Blighttown,11,10,1,"WORK_OF_ART, PERSON, GPE",['Blighttown'],1
+New Londo,34,21,13,GPE,['New Londo'],1
+the Undead Burg,9,7,2,PRODUCT,['the Undead Burg'],1
+the Undead Parish,3,3,0,PRODUCT,['the Undead Parish'],1
+"Broken"" Weapon
+Do",2,2,0,WORK_OF_ART,"['Broken"" Weapon\nDo']",1
+"Broken"" Weapon
+Exhausting",1,1,0,WORK_OF_ART,"['Broken"" Weapon\nExhausting']",1
+The Fire Keeper,2,2,0,WORK_OF_ART,['The Fire Keeper'],1
+god,2,2,0,PERSON,['god'],1
+peter,2,2,0,PERSON,['peter'],1
+the Taurus Demon,3,3,0,"WORK_OF_ART, PRODUCT",['the Taurus Demon'],1
+the Residence Key,3,3,0,ORG,['the Residence Key'],1
+the Lower Undead Burg,3,3,0,ORG,['the Lower Undead Burg'],1
+Griggs,7,7,0,"PERSON, WORK_OF_ART",['Griggs'],1
+Unexpected,4,4,0,PERSON,['Unexpected'],1
+chum,2,2,0,NORP,['chum'],1
+Laurentius,11,11,0,PERSON,['Laurentius'],1
+Rhea,15,15,0,PERSON,['Rhea'],1
+Vince,17,17,0,PERSON,['Vince'],1
+Nico,16,16,0,"ORG, GPE",['Nico'],1
+Damn,4,4,0,PRODUCT,['Damn'],1
+Heheh,2,2,0,PERSON,['Heheh'],1
+the Great Lord Gwyn,8,8,0,EVENT,['the Great Lord Gwyn'],1
+Gwyndolin,21,15,6,PERSON,['Gwyndolin'],1
+"the Blade of the Darkmoon
+O Disciple of the Dark Sun",2,2,0,ORG,['the Blade of the Darkmoon\nO Disciple of the Dark Sun'],1
+Covenant,2,2,0,PERSON,['Covenant'],1
+Darkmoon,28,25,3,"ORG, LOC",['Darkmoon'],1
+a Blade,4,4,0,PERSON,['a Blade'],1
+Hunteth,4,4,0,PERSON,['Hunteth'],1
+Lords,11,11,0,"ORG, PRODUCT",['Lords'],1
+Exit,4,4,0,PERSON,['Exit'],1
+the Blades of the Darkmoon,4,1,3,"ORG, WORK_OF_ART","['the Blade of the Darkmoon\nAnswer', 'the Blades of the Darkmoon']",2
+Blade,10,10,0,PERSON,['Blade'],1
+Godmother,4,4,0,PERSON,['Godmother'],1
+the white fog gate,6,6,0,ORG,['the white fog gate'],1
+non-Darkmoon,3,3,0,NORP,['non-Darkmoon'],1
+Mark,6,6,0,PERSON,['Mark'],1
+"Gwynevere
+Heretic",2,2,0,ORG,['Gwynevere\nHeretic'],1
+the Great Lord,2,2,0,EVENT,['the Great Lord'],1
+the Dark Sun,6,6,0,PERSON,"['the Dark Sun', 'The Dark Soul', 'the Dark Soul']",3
+Dark,43,30,13,"PERSON, ORG, GPE",['Dark'],1
+Seek Anor Londo,4,4,0,PERSON,['Seek Anor Londo'],1
+Gwyn,32,18,14,ORG,['Gwyn'],1
+Abyss,96,76,20,PERSON,['Abyss'],1
+Lifedrain,9,6,3,GPE,['Lifedrain'],1
+Firelink Altar,3,2,1,PERSON,"['Firelink Altar', 'the Firelink Altar']",2
+"Firelink Altar
+Speak",1,1,0,PERSON,['Firelink Altar\nSpeak'],1
+Firelink,16,16,0,GPE,['Firelink'],1
+Seek Gravelord Nito,2,2,0,PERSON,['Seek Gravelord Nito'],1
+Izalith,26,21,5,PERSON,['Izalith'],1
+Seath the Scaleless,4,4,0,WORK_OF_ART,['Seath the Scaleless'],1
+Aye,1,1,0,ORG,['Aye'],1
+karmaic,1,1,0,PERSON,['karmaic'],1
+"Firelink Shrine
+Talk",4,4,0,ORG,"['Firelink Shrine\nTalk', 'Firelink Shrine\nSpeak']",2
+"Firelink Shrine
+Hmm",1,1,0,ORG,['Firelink Shrine\nHmm'],1
+Rumour,1,1,0,PERSON,['Rumour'],1
+rescueth,2,2,0,PERSON,['rescueth'],1
+Oolacile,32,28,4,"GPE, PERSON, ORG, WORK_OF_ART",['Oolacile'],1
+the Crystal Golem,4,4,0,LOC,['the Crystal Golem'],1
+Manus,16,16,0,PERSON,['Manus'],1
+Erggkt,4,4,0,PERSON,['Erggkt'],1
+Killing Quelaag's,2,2,0,ORG,"[""Killing Quelaag's""]",1
+Fair,4,4,0,ORG,['Fair'],1
+Quelaag,27,21,6,"ORG, PERSON","['Quelaag', 'Quelana', 'Queelag']",3
+the Old Witch's,2,2,0,ORG,"[""the Old Witch's""]",1
+Mistress Quelaag's,8,8,0,ORG,"[""Mistress Quelaag's"", 'Mistress Quelaag']",2
+Thy Scent,2,2,0,PERSON,['Thy Scent'],1
+Dusk,5,4,1,PERSON,['Dusk'],1
+Knight Artorias,12,10,2,"ORG, PERSON","['Knight Artorias', 'Knight\nArtorias', ""Knight Artorias's""]",3
+Marvelous Chester,3,3,0,PERSON,"['Marvelous Chester', 'Marvelous Chester\nSpeak']",2
+"Manus
+Using",1,1,0,WORK_OF_ART,['Manus\nUsing'],1
+Forge,8,8,0,PERSON,['Forge'],1
+Duke,6,6,0,"ORG, PERSON",['Duke'],1
+Angh,2,2,0,PERSON,['Angh'],1
+Vinheim,28,28,0,GPE,['Vinheim'],1
+"Intelligence
+Answer",1,1,0,ORG,['Intelligence\nAnswer'],1
+Intelligence,3,3,0,ORG,['Intelligence'],1
+Terrific,2,2,0,PERSON,['Terrific'],1
+Reah,17,17,0,ORG,['Reah'],1
+Kindling,9,8,1,GPE,['Kindling'],1
+Time,8,8,0,ORG,"['Time', 'Times']",2
+Regal Archives,4,4,0,ORG,"['Regal Archives', 'the Regal Archives']",2
+Earth,4,4,0,LOC,['Earth'],1
+beseech,2,2,0,NORP,['beseech'],1
+Succeed Lord Gwyn,6,6,0,PERSON,['Succeed Lord Gwyn'],1
+Without Fire,4,4,0,PERSON,['Without Fire'],1
+inheriteth the Fire of our world,4,4,0,WORK_OF_ART,['inheriteth the Fire of our world'],1
+Kalameet,67,66,1,"ORG, PERSON",['Kalameet'],1
+Skyward,4,4,0,PERSON,['Skyward'],1
+Gough,12,4,8,ORG,['Gough'],1
+Greatbow,4,4,0,PERSON,['Greatbow'],1
+blacksmith,8,8,0,"ORG, PERSON",['blacksmith'],1
+Knighthood,16,16,0,PERSON,['Knighthood'],1
+Humans,2,2,0,NORP,['Humans'],1
+Cursed,5,4,1,PERSON,"['Cursed', 'Curse']",2
+Darkwraiths,14,8,6,ORG,"['Darkwraiths', 'Darkwraith']",2
+Key,3,3,0,LOC,['Key'],1
+the Primordial Serpent,2,2,0,ORG,['the Primordial Serpent'],1
+Chosen Undead,8,8,0,ORG,['Chosen Undead'],1
+the Firelink Chamber,2,2,0,ORG,['the Firelink Chamber'],1
+Kingseeker,4,4,0,PERSON,['Kingseeker'],1
+Gravelord Nito,2,2,0,PERSON,['Gravelord Nito'],1
+Scaleless,3,2,1,ORG,['Scaleless'],1
+Chosen,2,2,0,PERSON,['Chosen'],1
+Knight Lautrec,8,8,0,PERSON,['Knight Lautrec'],1
+Parish,12,12,0,NORP,['Parish'],1
+Gargoyles,6,6,0,"LAW, WORK_OF_ART",['Gargoyles'],1
+"the Catacombs
+Ah",2,2,0,ORG,['the Catacombs\nAh'],1
+Maiden Thorolund,4,4,0,PERSON,['Maiden Thorolund'],1
+Leaving Maiden Thorolund,4,4,0,PERSON,['Leaving Maiden Thorolund'],1
+"the Catacombs
+Answer",1,1,0,ORG,['the Catacombs\nAnswer'],1
+"Anor Londo
+Anor Londo",2,2,0,PERSON,"['Anor Londo\nAnor Londo', 'Anor Londo\nAnor Londo\nSpeak']",2
+the Keeper,4,4,0,PERSON,['the Keeper'],1
+"Gwynevere
+Hmm",2,2,0,ORG,['Gwynevere\nHmm'],1
+forbidden Archives,2,2,0,ORG,['forbidden Archives'],1
+"Blades of the Darkmoon
+Oh…",3,3,0,ORG,['Blades of the Darkmoon\nOh…'],1
+Depths,15,8,7,PERSON,['Depths'],1
+"The Depths
+Entering",1,1,0,WORK_OF_ART,['The Depths\nEntering'],1
+the Great Swamp,4,4,0,LOC,['the Great Swamp'],1
+The Witch of Izalith,8,8,0,PERSON,['The Witch of Izalith'],1
+Quelaana,3,3,0,ORG,['Quelaana'],1
+"Firelink
+Aaahhhh",2,2,0,ORG,['Firelink\nAaahhhh'],1
+Chester,2,2,0,"ORG, PERSON",['Chester'],1
+Juniper,4,4,0,ORG,['Juniper'],1
+Abysswalker,4,4,0,PERSON,['Abysswalker'],1
+Carim,8,4,4,"ORG, PERSON",['Carim'],1
+Indictments,5,5,0,ORG,['Indictments'],1
+"Firelink Shrine
+Speaking",1,1,0,ORG,['Firelink Shrine\nSpeaking'],1
+Through Kindling,6,6,0,PERSON,['Through Kindling'],1
+Miracles,20,20,0,PERSON,['Miracles'],1
+"Firelink Shrine
+Greeting
+Oh",1,1,0,ORG,['Firelink Shrine\nGreeting\nOh'],1
+Thorolund,4,2,2,PRODUCT,['Thorolund'],1
+Sob,6,6,0,PERSON,['Sob'],1
+"Lautrec
+Greeting",1,1,0,EVENT,['Lautrec\nGreeting'],1
+Lautrec,10,10,0,"ORG, PERSON",['Lautrec'],1
+Goodbye Quelaag,2,2,0,ORG,['Goodbye Quelaag'],1
+the Bed of Chaos Report,2,2,0,ORG,['the Bed of Chaos Report'],1
+Ceaseless Discharge,2,2,0,ORG,['Ceaseless Discharge'],1
+"the Bed of Chaos
+Queelag",1,1,0,LAW,['the Bed of Chaos\nQueelag'],1
+Salaman,6,6,0,PERSON,['Salaman'],1
+the Flame of Chaos,3,2,1,ORG,"['the Flame of Chaos', 'Flame of Chaos']",2
+the Bed of Chaos,8,8,0,ORG,"['the Bed of Chaos', 'the Bed of Chaos\nNow']",2
+the Ascended Pyromancy Flame,3,3,0,ORG,['the Ascended Pyromancy Flame'],1
+"the Bed of Chaos
+Leaving",1,1,0,ORG,['the Bed of Chaos\nLeaving'],1
+The Tomb of the Giants,2,2,0,WORK_OF_ART,"['The Tomb of the Giants', 'The Tomb of the Giants\nSpeak']",2
+Perhaps Petrus,4,4,0,ORG,['Perhaps Petrus'],1
+Vereor Nox,6,6,0,PERSON,['Vereor Nox'],1
+Dragon School,9,4,5,ORG,"['Dragon School', 'Dragon\nSchool']",2
+Rickert,4,4,0,WORK_OF_ART,['Rickert'],1
+Forest Hunter,4,3,1,PERSON,['Forest Hunter'],1
+Sieglinde,11,11,0,ORG,['Sieglinde'],1
+Ash Lake,1,1,0,PERSON,['Ash Lake'],1
+"Ash Lake
+Talk",1,1,0,PERSON,['Ash Lake\nTalk'],1
+Catarina,36,32,4,"GPE, NORP, ORG, PERSON","['Catarina', 'Caterina']",2
+Inside Sen's Fortress,3,3,0,PERSON,"[""Outside Sen's Fortress"", ""Inside Sen's Fortress""]",2
+Outside Sen's,1,1,0,PERSON,"[""Outside Sen's""]",1
+Siegmeyer,8,8,0,PERSON,['Siegmeyer'],1
+Fantastic,14,14,0,NORP,['Fantastic'],1
+Knight,7,4,3,PERSON,"['Knight', 'Knights']",2
+Sng,4,4,0,PERSON,['Sng'],1
+The Poison Swamp,2,2,0,WORK_OF_ART,['The Poison Swamp'],1
+Lin,4,4,0,PERSON,['Lin'],1
+"Undead Burg
+Undead Burg",1,1,0,PERSON,['Undead Burg\nUndead Burg'],1
+Smooth,4,4,0,PERSON,['Smooth'],1
+Undead Burg - Altar,1,1,0,PERSON,['Undead Burg - Altar'],1
+Sun,18,16,2,"ORG, LOC",['Sun'],1
+Tomb,2,2,0,PERSON,['Tomb'],1
+Gravelord,2,2,0,PERSON,['Gravelord'],1
+the Sunlight Maggot,3,3,0,WORK_OF_ART,['the Sunlight Maggot'],1
+Drat,4,4,0,"PERSON, GPE",['Drat'],1
+Nee,2,2,0,ORG,['Nee'],1
+Yulia,30,30,0,GPE,['Yulia'],1
+Tsk,4,4,0,PERSON,['Tsk'],1
+Cheap,4,4,0,PRODUCT,['Cheap'],1
+Chaos,4,3,1,PRODUCT,['Chaos'],1
+Old Vamos,4,4,0,PERSON,['Old Vamos'],1
+the Gaping Dragon,4,3,1,"ORG, LOC",['the Gaping Dragon'],1
+Curses,1,1,0,ORG,['Curses'],1
+Petrus,3,3,0,ORG,['Petrus'],1
+Vince of Thorolund,2,2,0,PERSON,['Vince of Thorolund'],1
+After Petrus,1,1,0,ORG,['After Petrus'],1
+seeketh,2,2,0,NORP,['seeketh'],1
+Ariamis,3,2,1,"ORG, PERSON",['Ariamis'],1
+Arrow,2,0,2,PERSON,['Arrow'],1
+Heavier,1,0,1,PERSON,['Heavier'],1
+Moonlight Arrows,1,0,1,PERSON,['Moonlight Arrows'],1
+Dragonslayer,2,0,2,PERSON,['Dragonslayer'],1
+Dragonslayer Arrows,1,0,1,PERSON,['Dragonslayer Arrows'],1
+Dragonslayer Greatbow,1,0,1,PERSON,['Dragonslayer Greatbow'],1
+Requires Greatbow,1,0,1,PERSON,['Requires Greatbow'],1
+Equip,1,0,1,GPE,['Equip'],1
+Rest,3,0,3,PERSON,['Rest'],1
+Estus,5,0,5,ORG,['Estus'],1
+Medicinal,1,0,1,ORG,['Medicinal'],1
+Poison,2,0,2,ORG,['Poison'],1
+Goddess Gwynevere,1,0,1,ORG,['Goddess Gwynevere'],1
+The Goddess of Sunlight,1,0,1,ORG,['The Goddess of Sunlight'],1
+Arstor,4,0,4,"PERSON, GPE",['Arstor'],1
+the Earl of Carim,1,0,1,PERSON,['the Earl of Carim'],1
+The Purging Stone,1,0,1,ORG,['The Purging Stone'],1
+Explodes,1,0,1,PERSON,['Explodes'],1
+Fire Keeper,13,0,13,PERSON,"['Fire Keeper', ""Fire Keeper's""]",2
+Estus Flasks,1,0,1,ORG,['Estus Flasks'],1
+Domain,1,0,1,GPE,['Domain'],1
+Moonlight Butterfly,1,0,1,PERSON,['Moonlight Butterfly'],1
+Ornstein,10,0,10,"ORG, PERSON",['Ornstein'],1
+Dragonslayer Knight,1,0,1,PERSON,['Dragonslayer Knight'],1
+Priscilla the Crossbreed,1,0,1,WORK_OF_ART,['Priscilla the Crossbreed'],1
+Guardian,1,0,1,ORG,['Guardian'],1
+Demons,1,0,1,ORG,['Demons'],1
+Wolf,2,0,2,PERSON,"['Wolf', 'wolf']",2
+Sif,1,0,1,PERSON,['Sif'],1
+Ancient Manus,1,0,1,ORG,['Ancient Manus'],1
+Cinder,5,0,5,PERSON,['Cinder'],1
+Old Man McLoyf,1,0,1,WORK_OF_ART,['Old Man McLoyf'],1
+Lordran,19,0,19,GPE,['Lordran'],1
+The Cracked Red Eye Orb,2,0,2,ORG,['The Cracked Red Eye Orb'],1
+Allfather Lloyd,3,0,3,PERSON,"['Allfather Lloyd', ""Allfather Lloyd's""]",2
+Talisman,1,0,1,ORG,['Talisman'],1
+Lloyd's,1,0,1,ORG,"[""Lloyd's""]",1
+Knight King Rendal,1,0,1,PERSON,['Knight King Rendal'],1
+Temporary,1,0,1,ORG,['Temporary'],1
+Painted World,1,0,1,ORG,['Painted World'],1
+Archives Tower,2,0,2,PERSON,"['Archives Tower', 'Archive Tower']",2
+Extra,1,0,1,NORP,['Extra'],1
+Undead Burg,2,0,2,PERSON,['Undead Burg'],1
+Bent Crest Key,1,0,1,PERSON,['Bent Crest Key'],1
+the North Undead Asylum,5,0,5,ORG,"['the Undead Asylum', 'the North Undead Asylum', 'The Undead Asylum']",3
+North,1,0,1,LOC,['North'],1
+Drake Valley,1,0,1,LOC,['Drake Valley'],1
+Sealers,4,0,4,PRODUCT,['Sealers'],1
+Burg,1,0,1,PERSON,['Burg'],1
+Quit Battle of Stoicism,1,0,1,PERSON,['Quit Battle of Stoicism'],1
+The Red Soapstone,1,0,1,ORG,['The Red Soapstone'],1
+Black Eye,1,0,1,ORG,['Black Eye'],1
+Dragon Scale,1,0,1,ORG,['Dragon Scale'],1
+Stone,2,0,2,ORG,['Stone'],1
+Roar,1,0,1,PERSON,['Roar'],1
+Eyes of Death,2,0,2,ORG,"['Eyes of Death', 'the Eyes of Death']",2
+Blood-Drained,1,0,1,ORG,['Blood-Drained'],1
+Sunlight,1,0,1,PERSON,['Sunlight'],1
+Very Good,1,0,1,WORK_OF_ART,['Very Good'],1
+the Goddess of Sin,5,0,5,WORK_OF_ART,"['The Goddess of Sin Velka', 'the Goddess of Sin']",2
+Velka,10,0,10,ORG,['Velka'],1
+Daughter of Chaos,5,0,5,ORG,"['the Daughters of Chaos', 'Daughter of Chaos']",2
+wearer,11,0,11,ORG,['wearer'],1
+Darkmoon Blade Covenant,1,0,1,WORK_OF_ART,['Darkmoon Blade Covenant'],1
+Gwynevere,1,0,1,PERSON,['Gwynevere'],1
+Eastern,10,0,10,ORG,['Eastern'],1
+Havel,5,0,5,ORG,['Havel'],1
+Blade Ciaran,5,0,5,PERSON,['Blade Ciaran'],1
+Ciaran,2,0,2,GPE,['Ciaran'],1
+The Leo Ring,1,0,1,PERSON,['The Leo Ring'],1
+Vinheim Dragon School,13,0,13,ORG,"['Vinheim Dragon School', 'Vinheim\nDragon School']",2
+Fina,5,0,5,GPE,['Fina'],1
+max,1,0,1,PERSON,['max'],1
+Sin,1,0,1,ORG,['Sin'],1
+Gywn,1,0,1,PERSON,['Gywn'],1
+the Princess of Sunlight,1,0,1,LAW,['the Princess of Sunlight'],1
+Flame,1,0,1,PERSON,['Flame'],1
+the Way of White,5,0,5,LOC,['the Way of White'],1
+Helm,7,0,7,NORP,['Helm'],1
+Balder,8,0,8,"PERSON, GPE",['Balder'],1
+Gigantic,1,0,1,ORG,['Gigantic'],1
+Tarkus,4,0,4,PERSON,['Tarkus'],1
+the Dark of Manus,1,0,1,ORG,['the Dark of Manus'],1
+a Blade of Darkmoon,4,0,4,PERSON,['a Blade of Darkmoon'],1
+Knights of Catarina,4,0,4,ORG,['Knights of Catarina'],1
+the First Flame,4,0,4,ORG,['the First Flame'],1
+Fang Boar,1,0,1,PERSON,['Fang Boar'],1
+Zena,3,0,3,GPE,['Zena'],1
+Domhnall,4,0,4,PERSON,['Domhnall'],1
+Helm of Kirk,1,0,1,PERSON,['Helm of Kirk'],1
+Thorns,4,0,4,NORP,['Thorns'],1
+Kirk,5,0,5,"ORG, PERSON",['Kirk'],1
+Helm of Solaire,1,0,1,ORG,['Helm of Solaire'],1
+"Astora, Knight",4,0,4,ORG,"['Astora, Knight']",1
+Solaire,5,0,5,PERSON,['Solaire'],1
+Grant,4,0,4,ORG,['Grant'],1
+Sanctus,4,0,4,ORG,['Sanctus'],1
+Leeroy,4,0,4,ORG,['Leeroy'],1
+Pharis,1,0,1,GPE,['Pharis'],1
+Helm of Vamos,1,0,1,PERSON,['Helm of Vamos'],1
+skeleton blacksmith,1,0,1,PERSON,['skeleton blacksmith'],1
+Channelers,4,0,4,ORG,['Channelers'],1
+Executioner,4,0,4,ORG,['Executioner'],1
+the Knights of Berenike,3,0,3,ORG,['the Knights of Berenike'],1
+the Stone Knight,8,0,8,ORG,"['the Stone Knight', 'The Stone Knight']",2
+Beatrice,8,0,8,ORG,['Beatrice'],1
+Armor of Solaire,1,0,1,ORG,['Armor of Solaire'],1
+Robe,5,0,5,PERSON,['Robe'],1
+the Black Knight,2,0,2,ORG,"['the Black Knight', 'the Black Knights']",2
+Cloak,3,0,3,"ORG, PERSON",['Cloak'],1
+recovery1,1,0,1,ORG,['recovery1'],1
+White,2,0,2,LOC,['White'],1
+magic garb,3,0,3,PERSON,['magic garb'],1
+Armor of Smough,1,0,1,ORG,['Armor of Smough'],1
+Manchette,2,0,2,ORG,['Manchette'],1
+the Silver Knights,2,0,2,ORG,['the Silver Knights'],1
+Countless Knights,2,0,2,PERSON,['Countless Knights'],1
+Leggings,5,0,5,ORG,['Leggings'],1
+Leggings of Black Iron Tarkus,1,0,1,ORG,['Leggings of Black Iron Tarkus'],1
+Hollow Warriors,1,0,1,ORG,['Hollow Warriors'],1
+Leggings of Solaire,1,0,1,ORG,['Leggings of Solaire'],1
+Leggings of Leeroy,1,0,1,ORG,['Leggings of Leeroy'],1
+Leggings of Smough,1,0,1,ORG,['Leggings of Smough'],1

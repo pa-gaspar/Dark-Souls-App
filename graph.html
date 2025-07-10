@@ -1,0 +1,127 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 600px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "skyblue", "font": {"color": "black"}, "id": "LAURENTIUS OF THE GREAT SWAMP", "label": "LAURENTIUS OF THE GREAT SWAMP", "shape": "dot"}, {"color": "lightgreen", "font": {"color": "black"}, "id": "the Great Swamp", "label": "the Great Swamp", "shape": "dot"}, {"color": "lightgreen", "font": {"color": "black"}, "id": "Quelaana", "label": "Quelaana", "shape": "dot"}, {"color": "skyblue", "font": {"color": "black"}, "id": "QUELAAG\u0027S SISTER", "label": "QUELAAG\u0027S SISTER", "shape": "dot"}, {"color": "lightgreen", "font": {"color": "black"}, "id": "Quelaag", "label": "Quelaag", "shape": "dot"}, {"color": "lightgreen", "font": {"color": "black"}, "id": "the Bed of Chaos Report", "label": "the Bed of Chaos Report", "shape": "dot"}, {"color": "skyblue", "font": {"color": "black"}, "id": "QUELANA OF IZALITH", "label": "QUELANA OF IZALITH", "shape": "dot"}, {"color": "orange", "font": {"color": "black"}, "id": "Fire Keeper Soul", "label": "Fire Keeper Soul", "shape": "dot"}, {"color": "orange", "font": {"color": "black"}, "id": "Soul of a Lost Undead", "label": "Soul of a Lost Undead", "shape": "dot"}, {"color": "orange", "font": {"color": "black"}, "id": "Soul of a Hero", "label": "Soul of a Hero", "shape": "dot"}, {"color": "orange", "font": {"color": "black"}, "id": "Soul of Quelaag", "label": "Soul of Quelaag", "shape": "dot"}, {"color": "orange", "font": {"color": "black"}, "id": "Soul of Smough", "label": "Soul of Smough", "shape": "dot"}, {"color": "orange", "font": {"color": "black"}, "id": "Soul of Priscilla", "label": "Soul of Priscilla", "shape": "dot"}, {"color": "orange", "font": {"color": "black"}, "id": "Soul of Sif", "label": "Soul of Sif", "shape": "dot"}, {"color": "orange", "font": {"color": "black"}, "id": "Blighttown Key", "label": "Blighttown Key", "shape": "dot"}, {"color": "lightgreen", "font": {"color": "black"}, "id": "Blighttown", "label": "Blighttown", "shape": "dot"}, {"color": "orange", "font": {"color": "black"}, "id": "Bloodbite Ring", "label": "Bloodbite Ring", "shape": "dot"}, {"color": "orange", "font": {"color": "black"}, "id": "Cursebite Ring", "label": "Cursebite Ring", "shape": "dot"}, {"color": "orange", "font": {"color": "black"}, "id": "Poisonbite Ring", "label": "Poisonbite Ring", "shape": "dot"}, {"color": "orange", "font": {"color": "black"}, "id": "Hornet Ring", "label": "Hornet Ring", "shape": "dot"}, {"color": "orange", "font": {"color": "black"}, "id": "Leo Ring", "label": "Leo Ring", "shape": "dot"}, {"color": "orange", "font": {"color": "black"}, "id": "Crown of the Great Lord", "label": "Crown of the Great Lord", "shape": "dot"}, {"color": "orange", "font": {"color": "black"}, "id": "Robe of the Great Lord", "label": "Robe of the Great Lord", "shape": "dot"}, {"color": "orange", "font": {"color": "black"}, "id": "Bracelet of the Great Lord", "label": "Bracelet of the Great Lord", "shape": "dot"}, {"color": "orange", "font": {"color": "black"}, "id": "Anklet of the Great Lord", "label": "Anklet of the Great Lord", "shape": "dot"}, {"color": "orange", "font": {"color": "black"}, "id": "Helm of Thorns", "label": "Helm of Thorns", "shape": "dot"}, {"color": "orange", "font": {"color": "black"}, "id": "Gauntlets of Thorns", "label": "Gauntlets of Thorns", "shape": "dot"}]);
+                  edges = new vis.DataSet([{"color": "gray", "dashes": false, "from": "LAURENTIUS OF THE GREAT SWAMP", "title": "mentioned_by", "to": "the Great Swamp"}, {"color": "gray", "dashes": false, "from": "LAURENTIUS OF THE GREAT SWAMP", "title": "mentioned_by", "to": "Quelaana"}, {"color": "gray", "dashes": false, "from": "QUELAAG\u0027S SISTER", "title": "mentioned_by", "to": "Quelaag"}, {"color": "gray", "dashes": false, "from": "QUELAAG\u0027S SISTER", "title": "mentioned_by", "to": "the Bed of Chaos Report"}, {"color": "gray", "dashes": false, "from": "QUELANA OF IZALITH", "title": "mentioned_by", "to": "Quelaag"}, {"color": "black", "dashes": true, "from": "Fire Keeper Soul", "title": "described_in", "to": "Quelaag"}, {"color": "black", "dashes": true, "from": "Soul of a Lost Undead", "title": "described_in", "to": "Soul of a Hero"}, {"color": "black", "dashes": true, "from": "Soul of Quelaag", "title": "described_in", "to": "Soul of Smough"}, {"color": "black", "dashes": true, "from": "Soul of Quelaag", "title": "described_in", "to": "Soul of Priscilla"}, {"color": "black", "dashes": true, "from": "Soul of Quelaag", "title": "described_in", "to": "Soul of Sif"}, {"color": "black", "dashes": true, "from": "Soul of Quelaag", "title": "described_in", "to": "Quelaag"}, {"color": "black", "dashes": true, "from": "Soul of Smough", "title": "described_in", "to": "Soul of Priscilla"}, {"color": "black", "dashes": true, "from": "Soul of Smough", "title": "described_in", "to": "Soul of Sif"}, {"color": "black", "dashes": true, "from": "Soul of Priscilla", "title": "described_in", "to": "Soul of Sif"}, {"color": "black", "dashes": true, "from": "Blighttown Key", "title": "described_in", "to": "Blighttown"}, {"color": "black", "dashes": true, "from": "Bloodbite Ring", "title": "described_in", "to": "Cursebite Ring"}, {"color": "black", "dashes": true, "from": "Bloodbite Ring", "title": "described_in", "to": "Poisonbite Ring"}, {"color": "black", "dashes": true, "from": "Cursebite Ring", "title": "described_in", "to": "Poisonbite Ring"}, {"color": "black", "dashes": true, "from": "Hornet Ring", "title": "described_in", "to": "Leo Ring"}, {"color": "black", "dashes": true, "from": "Crown of the Great Lord", "title": "described_in", "to": "Robe of the Great Lord"}, {"color": "black", "dashes": true, "from": "Crown of the Great Lord", "title": "described_in", "to": "Bracelet of the Great Lord"}, {"color": "black", "dashes": true, "from": "Crown of the Great Lord", "title": "described_in", "to": "Anklet of the Great Lord"}, {"color": "black", "dashes": true, "from": "Helm of Thorns", "title": "described_in", "to": "Gauntlets of Thorns"}, {"color": "black", "dashes": true, "from": "Robe of the Great Lord", "title": "described_in", "to": "Bracelet of the Great Lord"}, {"color": "black", "dashes": true, "from": "Robe of the Great Lord", "title": "described_in", "to": "Anklet of the Great Lord"}, {"color": "black", "dashes": true, "from": "Bracelet of the Great Lord", "title": "described_in", "to": "Anklet of the Great Lord"}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {"nodes": {"shape": "dot", "size": 25, "font": {"size": 14}}, "edges": {"smooth": true, "arrows": {"to": {"enabled": true, "scaleFactor": 0.5}}}, "physics": {"enabled": true, "barnesHut": {"gravitationalConstant": -25000, "springLength": 200, "springConstant": 0.03, "damping": 0.85}}};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

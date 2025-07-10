@@ -1,0 +1,615 @@
+item1,item2,similarity_score,item1_type,item2_type
+Wooden Arrow,Standard Arrow,0.314597196291931,Ammo,Ammo
+Wooden Arrow,Wood Bolt,0.6669265257677657,Ammo,Ammo
+Standard Arrow,Large Arrow,0.3158353105618546,Ammo,Ammo
+Large Arrow,Moonlight Arrow,0.31586667561243725,Ammo,Ammo
+Large Arrow,Heavy Bolt,0.30437108577341154,Ammo,Ammo
+Feather Arrow,Sniper Bolt,0.772146208782924,Ammo,Ammo
+Poison Arrow,Rotten Pine Resin,0.33826294389209544,Ammo,Consumables
+Moonlight Arrow,Darkmoon Blade Covenant Ring,0.403795596763509,Ammo,Rings
+Moonlight Arrow,Darkmoon Seance Ring,0.33530792912045765,Ammo,Rings
+Dragonslayer Arrow,Gough's Great Arrow,0.3669970644602023,Ammo,Ammo
+Dragonslayer Arrow,Gough`s Armor,0.3411630926206891,Ammo,Chest
+Gough's Great Arrow,Hawk Ring,0.42368223182213577,Ammo,Rings
+Gough's Great Arrow,Gough`s Helm,0.4792485327522865,Ammo,Head
+Gough's Great Arrow,Gough`s Armor,0.5199927781834476,Ammo,Chest
+Gough's Great Arrow,Gough`s Gauntlets,0.3137027916225825,Ammo,Hands
+Gough's Great Arrow,Gough`s Leggings,0.3248596743701127,Ammo,Legs
+Wood Bolt,Heavy Bolt,0.32989296901390536,Ammo,Ammo
+Standard Bolt,Heavy Bolt,0.49341260109900087,Ammo,Ammo
+Standard Bolt,Sniper Bolt,0.30749498136928893,Ammo,Ammo
+Heavy Bolt,Sniper Bolt,0.3819827694647814,Ammo,Ammo
+Armor Smithbox,Weapon Smithbox,0.8810768175165419,Bonfire Items,Bonfire Items
+Lordvessel,Big Pilgrim´s Key,0.4538157749766797,Bonfire Items,Keys
+Repairbox,Repair Powder,0.5767331412401528,Bonfire Items,Consumables
+Bloodred Moss Clump,Purple Moss Clump,0.44143325697522173,Consumables,Consumables
+Bloodred Moss Clump,Blooming Purple Moss Clump,0.319365253076417,Consumables,Consumables
+Purple Moss Clump,Blooming Purple Moss Clump,0.4373487563622274,Consumables,Consumables
+Purple Moss Clump,Rotten Pine Resin,0.39704109408365895,Consumables,Consumables
+Divine Blessing,Ring of the Sun Princess,0.43521752537711855,Consumables,Rings
+Green Blossom,Cloranthy Ring,0.40150126818891196,Consumables,Rings
+Firebomb,Black Firebomb,0.9014551105832177,Consumables,Consumables
+Dung pie,Rotten Pine Resin,0.4089396579034439,Consumables,Consumables
+Throwing Knife,Poison Throwing Knife,0.7886692622160763,Consumables,Consumables
+Charcoal Pine Resin,Gold Pine Resin,0.5013677459066439,Consumables,Consumables
+Charcoal Pine Resin,Rotten Pine Resin,0.44294674965680225,Consumables,Consumables
+Gold Pine Resin,Rotten Pine Resin,0.30363110005858657,Consumables,Consumables
+Fire Keeper Soul,Twin Humanities,0.30769131442440584,Consumables,Consumables
+Fire Keeper Soul,Black Eye Orb,0.3123004361165914,Consumables,Multiplayer Items
+Soul of a Lost Undead,Large Soul of a Lost Undead,0.9740421236692403,Consumables,Consumables
+Soul of a Lost Undead,Soul of a Nameless Soldier,0.8845724738836667,Consumables,Consumables
+Soul of a Lost Undead,Large Soul of a Nameless Soldier,0.8640993521708732,Consumables,Consumables
+Soul of a Lost Undead,Soul of a Proud Knight,0.9165794978934295,Consumables,Consumables
+Soul of a Lost Undead,Large Soul of a Proud Knight,0.8938602660785873,Consumables,Consumables
+Soul of a Lost Undead,Soul of a Brave Warrior,0.915336814947077,Consumables,Consumables
+Soul of a Lost Undead,Large Soul of a Brave Warrior,0.8520674668372625,Consumables,Consumables
+Soul of a Lost Undead,Soul of a Hero,0.8530036682867917,Consumables,Consumables
+Soul of a Lost Undead,Soul of a Great Hero,0.8272844230411907,Consumables,Consumables
+Large Soul of a Lost Undead,Soul of a Nameless Soldier,0.8616108510010003,Consumables,Consumables
+Large Soul of a Lost Undead,Large Soul of a Nameless Soldier,0.8900892541235427,Consumables,Consumables
+Large Soul of a Lost Undead,Soul of a Proud Knight,0.892787040639802,Consumables,Consumables
+Large Soul of a Lost Undead,Large Soul of a Proud Knight,0.9207453003242505,Consumables,Consumables
+Large Soul of a Lost Undead,Soul of a Brave Warrior,0.9428678089402756,Consumables,Consumables
+Large Soul of a Lost Undead,Large Soul of a Brave Warrior,0.925441355899705,Consumables,Consumables
+Large Soul of a Lost Undead,Soul of a Hero,0.8816051476189627,Consumables,Consumables
+Large Soul of a Lost Undead,Soul of a Great Hero,0.8058098762975235,Consumables,Consumables
+Soul of a Nameless Soldier,Large Soul of a Nameless Soldier,0.9768553484115247,Consumables,Consumables
+Soul of a Nameless Soldier,Soul of a Proud Knight,0.8636098782134113,Consumables,Consumables
+Soul of a Nameless Soldier,Large Soul of a Proud Knight,0.8422036029630791,Consumables,Consumables
+Soul of a Nameless Soldier,Soul of a Brave Warrior,0.8624390105795359,Consumables,Consumables
+Soul of a Nameless Soldier,Large Soul of a Brave Warrior,0.8028260319548364,Consumables,Consumables
+Soul of a Nameless Soldier,Soul of a Hero,0.8037081298216002,Consumables,Consumables
+Soul of a Nameless Soldier,Soul of a Great Hero,0.7794752135220943,Consumables,Consumables
+Large Soul of a Nameless Soldier,Soul of a Proud Knight,0.8436219284737961,Consumables,Consumables
+Large Soul of a Nameless Soldier,Large Soul of a Proud Knight,0.8700405477840217,Consumables,Consumables
+Large Soul of a Nameless Soldier,Soul of a Brave Warrior,0.8909447864566112,Consumables,Consumables
+Large Soul of a Nameless Soldier,Large Soul of a Brave Warrior,0.8744779951039847,Consumables,Consumables
+Large Soul of a Nameless Soldier,Soul of a Hero,0.8330558139080336,Consumables,Consumables
+Large Soul of a Nameless Soldier,Soul of a Great Hero,0.7614345312832728,Consumables,Consumables
+Soul of a Proud Knight,Large Soul of a Proud Knight,0.9752130264019019,Consumables,Consumables
+Soul of a Proud Knight,Soul of a Brave Warrior,0.8936451660202325,Consumables,Consumables
+Soul of a Proud Knight,Large Soul of a Brave Warrior,0.8318751747205204,Consumables,Consumables
+Soul of a Proud Knight,Soul of a Hero,0.8327891900710791,Consumables,Consumables
+Soul of a Proud Knight,Soul of a Great Hero,0.8076794394174366,Consumables,Consumables
+Large Soul of a Proud Knight,Soul of a Brave Warrior,0.9216302985098808,Consumables,Consumables
+Large Soul of a Proud Knight,Large Soul of a Brave Warrior,0.904596365475513,Consumables,Consumables
+Large Soul of a Proud Knight,Soul of a Hero,0.8617475404968239,Consumables,Consumables
+Large Soul of a Proud Knight,Soul of a Great Hero,0.78765951047687,Consumables,Consumables
+Large Soul of a Proud Knight,Soul of Ornstein,0.31408383656422906,Consumables,Consumables
+Soul of a Brave Warrior,Large Soul of a Brave Warrior,0.9786703829873082,Consumables,Consumables
+Soul of a Brave Warrior,Soul of a Hero,0.8824525252333909,Consumables,Consumables
+Soul of a Brave Warrior,Soul of a Great Hero,0.8065844013244067,Consumables,Consumables
+Large Soul of a Brave Warrior,Soul of a Hero,0.868737759223528,Consumables,Consumables
+Large Soul of a Brave Warrior,Soul of a Great Hero,0.7508321706329198,Consumables,Consumables
+Large Soul of a Brave Warrior,Soul of Ornstein,0.31649372159349953,Consumables,Consumables
+Soul of a Hero,Soul of a Great Hero,0.9211135337644282,Consumables,Consumables
+Soul of the Moonlight Butterfly,Soul of Quelaag,0.5338955526063067,Consumables,Consumables
+Soul of the Moonlight Butterfly,Core of an Iron Golem,0.3256187553857685,Consumables,Consumables
+Soul of the Moonlight Butterfly,Soul of Ornstein,0.5660960278091302,Consumables,Consumables
+Soul of the Moonlight Butterfly,Soul of Smough,0.5970852669512708,Consumables,Consumables
+Soul of the Moonlight Butterfly,Soul of Priscilla,0.5725253790744448,Consumables,Consumables
+Soul of the Moonlight Butterfly,Soul of Sif,0.5369528747398172,Consumables,Consumables
+Soul of the Moonlight Butterfly,Soul of Gwyndolin,0.6555335394397248,Consumables,Consumables
+Soul of Quelaag,Soul of Ornstein,0.46695123101307323,Consumables,Consumables
+Soul of Quelaag,Soul of Smough,0.49251308386970577,Consumables,Consumables
+Soul of Quelaag,Soul of Priscilla,0.4722545600252428,Consumables,Consumables
+Soul of Quelaag,Soul of Sif,0.4429121448283765,Consumables,Consumables
+Soul of Quelaag,Soul of Gwyndolin,0.5407248561633515,Consumables,Consumables
+Core of an Iron Golem,Soul of Ornstein,0.3013491716960287,Consumables,Consumables
+Core of an Iron Golem,Soul of Smough,0.3364983056642077,Consumables,Consumables
+Core of an Iron Golem,Soul of Gwyndolin,0.4170972279082809,Consumables,Consumables
+Core of an Iron Golem,Golem Helm,0.4051209635773747,Consumables,Head
+Core of an Iron Golem,Golem Armor,0.40187813995809984,Consumables,Chest
+Core of an Iron Golem,Golem Gauntlets,0.4111010277838396,Consumables,Hands
+Core of an Iron Golem,Golem Leggings,0.4111010277838396,Consumables,Legs
+Soul of Ornstein,Soul of Smough,0.7169803216568574,Consumables,Consumables
+Soul of Ornstein,Soul of Priscilla,0.5007373244447596,Consumables,Consumables
+Soul of Ornstein,Soul of Sif,0.5130605089977179,Consumables,Consumables
+Soul of Ornstein,Soul of Gwyndolin,0.6383914150438045,Consumables,Consumables
+Soul of Ornstein,Leo Ring,0.3290278121919713,Consumables,Rings
+Soul of Ornstein,Ornstein`s Helm,0.372876320665271,Consumables,Head
+Soul of Ornstein,Ornstein`s Armor,0.3762229809219529,Consumables,Chest
+Soul of Ornstein,Ornstein`s Gauntlets,0.3734841363986888,Consumables,Hands
+Soul of Ornstein,Ornstein`s Leggings,0.3711482437118094,Consumables,Legs
+Soul of Smough,Soul of Priscilla,0.5281486962480012,Consumables,Consumables
+Soul of Smough,Soul of Sif,0.5372679795814557,Consumables,Consumables
+Soul of Smough,Soul of Gwyndolin,0.6453076813739832,Consumables,Consumables
+Soul of Smough,Smough`s Helm,0.39733657541600437,Consumables,Head
+Soul of Smough,Smough`s Armor,0.3988011401396068,Consumables,Chest
+Soul of Smough,Smough`s Gauntlets,0.3976042869863185,Consumables,Hands
+Soul of Smough,Smough`s Leggings,0.39657124055835224,Consumables,Legs
+Soul of Priscilla,Soul of Sif,0.4749588985648093,Consumables,Consumables
+Soul of Priscilla,Soul of Gwyndolin,0.5798488145080691,Consumables,Consumables
+Soul of Sif,Soul of Gwyndolin,0.5438212859103633,Consumables,Consumables
+Soul of Artorias,Silver Pendant,0.47558872099725646,Consumables,Consumables
+Soul of Artorias,Covenant Of Artorias,0.5999274439113816,Consumables,Rings
+Soul of Artorias,Gauntlets of Artorias,0.30231074807997915,Consumables,Hands
+Soul of Artorias,Leggings of Artorias,0.30151829509117734,Consumables,Legs
+Soul of Manus,Bloated Head,0.36343328486476956,Consumables,Head
+Soul of Manus,Bloated Sorcerer Head,0.3817614066569918,Consumables,Head
+"Soul of Gwyn, Lord of Cinder",Crown of the Great Lord,0.5528010785604484,Consumables,Head
+"Soul of Gwyn, Lord of Cinder",Robe of the Great Lord,0.5719775736276936,Consumables,Chest
+"Soul of Gwyn, Lord of Cinder",Bracelet of the Great Lord,0.5818727711196077,Consumables,Hands
+"Soul of Gwyn, Lord of Cinder",Anklet of the Great Lord,0.5818727711196077,Consumables,Legs
+Copper Coin,Gold Coin,0.862735034341893,Consumables,Consumables
+Copper Coin,Silver Coin,0.8592770350413395,Consumables,Consumables
+Cracked Red Eye Orb,Red Sign Soapstone,0.4249230346844401,Consumables,Multiplayer Items
+Cracked Red Eye Orb,White Sign Soapstone,0.3030345993273912,Consumables,Multiplayer Items
+Cracked Red Eye Orb,Cracked Red Eye Orb,1.0000000000000002,Consumables,Multiplayer Items
+Cracked Red Eye Orb,Red Eye Orb,0.7150069358548519,Consumables,Multiplayer Items
+Cracked Red Eye Orb,Red Eye Orb,0.7150069358548519,Multiplayer Items,Multiplayer Items
+Gold Coin,Silver Coin,0.8453868595553243,Consumables,Consumables
+Humanity,Twin Humanities,0.9783944995058687,Consumables,Consumables
+Silver Pendant,Covenant Of Artorias,0.45343097982001274,Consumables,Rings
+Annex Key,Peculiar Doll,0.3005290228693226,Keys,Keys
+Archive Tower Cell Key,Archive Tower Giant Cell Key,0.3445924319834922,Keys,Keys
+Archive Tower Cell Key,Archive Tower Giant Door Key,0.5775761791161884,Keys,Keys
+Archive Tower Cell Key,Archive Prison Extra Key,0.7493353524854865,Keys,Keys
+Archive Tower Giant Cell Key,Archive Tower Giant Door Key,0.36188839816711343,Keys,Keys
+Archive Tower Giant Cell Key,Archive Prison Extra Key,0.45554896749723495,Keys,Keys
+Archive Tower Giant Cell Key,Dungeon Cell Key,0.30827868629356536,Keys,Keys
+Archive Tower Giant Cell Key,Mystery Key,0.3719477394411661,Keys,Keys
+Archive Tower Giant Door Key,Archive Prison Extra Key,0.4392641057059905,Keys,Keys
+Archive Tower Giant Door Key,Mystery Key,0.4885978237281757,Keys,Keys
+Archive Tower Giant Door Key,Undead Asylum F2 West Key,0.39884565475353473,Keys,Keys
+Basement Key,Key to the Depths,0.31948331651789497,Keys,Keys
+Basement Key,Residence Key,0.31000157741684775,Keys,Keys
+Big Pilgrim´s Key,Undead Asylum F2 West Key,0.3181075107516984,Keys,Keys
+Blighttown Key,Key to the Depths,0.548557495746929,Keys,Keys
+Blighttown Key,Sewer Chamber Key,0.4656461690747574,Keys,Keys
+Crest Key,Crest of Artorias,0.4689680652237857,Keys,Keys
+Dungeon Cell Key,Mystery Key,0.4114095512239668,Keys,Keys
+Dungeon Cell Key,Undead Asylum F2 East Key,0.3139539027681587,Keys,Keys
+Dungeon Cell Key,Undead Asylum F2 West Key,0.3268826246854599,Keys,Keys
+Key to New Londo Ruins,Key to the Seal,0.4708001914217227,Keys,Keys
+Key to the Depths,Residence Key,0.33559260479186126,Keys,Keys
+Key to the Depths,Sewer Chamber Key,0.5747548535647575,Keys,Keys
+Key to the Seal,Mask of the Sealer,0.6103825287787337,Keys,Head
+Key to the Seal,Crimson Robe,0.5113471926871451,Keys,Chest
+Key to the Seal,Crimson Gloves,0.5121073055471492,Keys,Hands
+Key to the Seal,Crimson Waistcloth,0.556717590023697,Keys,Legs
+Master Key,Mystery Key,0.3043779912780804,Keys,Keys
+Undead Asylum F2 East Key,Undead Asylum F2 West Key,0.7956063659509568,Keys,Keys
+Red Sign Soapstone,White Sign Soapstone,0.4938194227420481,Multiplayer Items,Multiplayer Items
+Red Sign Soapstone,Cracked Red Eye Orb,0.4249230346844401,Multiplayer Items,Multiplayer Items
+Red Sign Soapstone,Red Eye Orb,0.5099663934661643,Multiplayer Items,Multiplayer Items
+White Sign Soapstone,Cracked Red Eye Orb,0.3030345993273912,Multiplayer Items,Multiplayer Items
+White Sign Soapstone,Red Eye Orb,0.3144885041914294,Multiplayer Items,Multiplayer Items
+Blue Eye Orb,Red Eye Orb,0.3798094677979659,Multiplayer Items,Multiplayer Items
+Blue Eye Orb,Dragon Eye,0.5174364770490915,Multiplayer Items,Multiplayer Items
+Blue Eye Orb,Souvenir of Reprisal,0.35703370112405564,Multiplayer Items,Multiplayer Items
+Red Eye Orb,Dragon Eye,0.3647284339300792,Multiplayer Items,Multiplayer Items
+Dragon Eye,Dragon Head Stone,0.4080667574914221,Multiplayer Items,Multiplayer Items
+Dragon Eye,Dragon Torso Stone,0.4071021639769855,Multiplayer Items,Multiplayer Items
+Dragon Head Stone,Dragon Torso Stone,0.9760601548136658,Multiplayer Items,Multiplayer Items
+Sunlight Medal,Ring of the Sun's Firstborn,0.4100968046050003,Multiplayer Items,Rings
+Hello Carving,Very Good! Carving,0.9296003126777662,Multiplayer Items,Multiplayer Items
+Hello Carving,Thank You Carving,0.9557335021341965,Multiplayer Items,Multiplayer Items
+Hello Carving,I'm Sorry Carving,0.9664012410253169,Multiplayer Items,Multiplayer Items
+Hello Carving,Help Me! Carving,0.9519275752801059,Multiplayer Items,Multiplayer Items
+Very Good! Carving,Thank You Carving,0.9513013501332754,Multiplayer Items,Multiplayer Items
+Very Good! Carving,I'm Sorry Carving,0.9619196180786087,Multiplayer Items,Multiplayer Items
+Very Good! Carving,Help Me! Carving,0.9475130730176148,Multiplayer Items,Multiplayer Items
+Thank You Carving,I'm Sorry Carving,0.9889613770779075,Multiplayer Items,Multiplayer Items
+Thank You Carving,Help Me! Carving,0.9741498311080754,Multiplayer Items,Multiplayer Items
+I'm Sorry Carving,Help Me! Carving,0.9850231300097927,Multiplayer Items,Multiplayer Items
+Book of the Guilty,Indictment,0.6096352598616303,Multiplayer Items,Multiplayer Items
+Bellowing Dragoncrest Ring,Lingering Dragoncrest Ring,0.9190783178859667,Rings,Rings
+Bellowing Dragoncrest Ring,Slumbering Dragoncrest Ring,0.5237195286235525,Rings,Rings
+Bloodbite Ring,Cursebite Ring,0.9416907890836759,Rings,Rings
+Bloodbite Ring,Poisonbite Ring,0.9582760415891396,Rings,Rings
+Blue Tearstone Ring,Red Tearstone Ring,0.8309293690591442,Rings,Rings
+Calamity Ring,Orange Charred Ring,0.36110178779335894,Rings,Rings
+Cat Covenant Ring,Ring of Fog,0.34764599562848364,Rings,Rings
+Covenant Of Artorias,Wolf Ring,0.34542728905942593,Rings,Rings
+Covetous Gold Serpent Ring,Covetous Silver Serpent Ring,0.7825756878159551,Rings,Rings
+Cursebite Ring,Poisonbite Ring,0.9497306500694305,Rings,Rings
+Darkmoon Blade Covenant Ring,Darkmoon Seance Ring,0.37240464804922196,Rings,Rings
+Darkmoon Blade Covenant Ring,Ring of the Sun Princess,0.33647816985821327,Rings,Rings
+Darkmoon Blade Covenant Ring,Brass Helm,0.30196498137825084,Rings,Head
+Darkmoon Blade Covenant Ring,Crown of the Dark Sun,0.35529287933811604,Rings,Head
+Darkmoon Blade Covenant Ring,Brass Armor,0.3039889413975709,Rings,Chest
+Darkmoon Seance Ring,Crown of the Dark Sun,0.3813390409847079,Rings,Head
+Dark Wood Grain Ring,East Wood Grain Ring,0.6919324902845817,Rings,Rings
+Dusk Crown Ring,Crown of Dusk,0.4781229650168435,Rings,Head
+Flame Stoneplate Ring,Speckled Stoneplate Ring,0.640070579720701,Rings,Rings
+Flame Stoneplate Ring,Spell Stoneplate Ring,0.7932073121655367,Rings,Rings
+Flame Stoneplate Ring,Thunder Stoneplate Ring,0.778382997691342,Rings,Rings
+Havel's Ring,Havel`s Helm,0.30498209041183694,Rings,Head
+Havel's Ring,Havel`s Armor,0.30547535355805916,Rings,Chest
+Havel's Ring,Havel`s Gauntlets,0.30507248344491533,Rings,Hands
+Havel's Ring,Havel`s Leggings,0.3047231095039964,Rings,Legs
+Hawk Ring,Leo Ring,0.3082130116923875,Rings,Rings
+Hawk Ring,Gough`s Helm,0.3865901681897455,Rings,Head
+Hawk Ring,Gough`s Armor,0.34781545111192685,Rings,Chest
+Hornet Ring,Leo Ring,0.40662258992976863,Rings,Rings
+Hornet Ring,Porcelain Mask,0.42527601550806715,Rings,Head
+Leo Ring,Wolf Ring,0.36209490944618217,Rings,Rings
+Lingering Dragoncrest Ring,Slumbering Dragoncrest Ring,0.4723011072392119,Rings,Rings
+Rare Ring of Sacrifice,Ring of Favor and Protection,0.3293043059723899,Rings,Rings
+Rare Ring of Sacrifice,Ring of Sacrifice,0.8433862200687233,Rings,Rings
+Ring of Favor and Protection,Ring of Sacrifice,0.3043326562842075,Rings,Rings
+Slumbering Dragoncrest Ring,Black Sorcerer Hat,0.3498929480790735,Rings,Head
+Slumbering Dragoncrest Ring,Black Sorcerer Cloak,0.3440449558363335,Rings,Chest
+Slumbering Dragoncrest Ring,Black Sorcerer Gauntlets,0.3551192420621268,Rings,Hands
+Slumbering Dragoncrest Ring,Black Sorcerer Boots,0.3489322832453086,Rings,Legs
+Speckled Stoneplate Ring,Spell Stoneplate Ring,0.6742506661993121,Rings,Rings
+Speckled Stoneplate Ring,Thunder Stoneplate Ring,0.6946190681419946,Rings,Rings
+Spell Stoneplate Ring,Thunder Stoneplate Ring,0.873267631104876,Rings,Rings
+Balder Helm,Balder Armor,0.9733509306397887,Head,Chest
+Balder Helm,Balder Gauntlets,0.971291899254997,Head,Hands
+Balder Helm,Balder Leggings,0.9695102628333578,Head,Legs
+Big Hat,Sage Robe,0.41794516300311146,Head,Chest
+Big Hat,Traveling Gloves,0.42010789928617953,Head,Hands
+Big Hat,Traveling Boots,0.4173206946922381,Head,Legs
+Black Iron Helm,Black Iron Armor,0.9771655104633247,Head,Chest
+Black Iron Helm,Black Iron Gauntlets,0.9753941803512145,Head,Hands
+Black Iron Helm,Black Iron Leggings,0.9738601855657395,Head,Legs
+Black Knight Helm,Black Knight Armor,0.9518077748096208,Head,Chest
+Black Knight Helm,Black Knight Gauntlets,0.9337351691511383,Head,Hands
+Black Knight Helm,Black Knight Leggings,0.9705333177786774,Head,Legs
+Black Sorcerer Hat,Black Sorcerer Cloak,0.9125040549670972,Head,Chest
+Black Sorcerer Hat,Black Sorcerer Gauntlets,0.9418761789162414,Head,Hands
+Black Sorcerer Hat,Black Sorcerer Boots,0.9254666228030377,Head,Legs
+Bloated Head,Bloated Sorcerer Head,0.7879050886404384,Head,Head
+Brass Helm,Brass Armor,0.9313502673131331,Head,Chest
+Brass Helm,Brass Gauntlets,0.8495864723658026,Head,Hands
+Brass Helm,Brass Leggings,0.8879547198203092,Head,Legs
+Brigand Hood,Brigand Armor,0.5403118582430751,Head,Chest
+Brigand Hood,Brigand Gauntlets,0.5390240825103209,Head,Hands
+Brigand Hood,Brigand Trousers,0.5250550078621469,Head,Legs
+Catarina Helm,Catarina Armor,0.928693393097519,Head,Chest
+Catarina Helm,Catarina Gauntlets,0.9271692005280294,Head,Hands
+Catarina Helm,Catarina Leggings,0.925848595602672,Head,Legs
+Chain Helm,Chain Armor,0.9785280173567132,Head,Chest
+Chain Helm,Chain Leggings,0.97475710252394,Head,Legs
+Cleric Helm,Elite Cleric Helm,0.4891358906761775,Head,Head
+Cleric Helm,Cleric Armor,0.965092697131583,Head,Chest
+Cleric Helm,Elite Cleric Armor,0.4770249786999191,Head,Chest
+Cleric Helm,Cleric Gauntlets,0.9624188612060647,Head,Hands
+Cleric Helm,Elite Cleric Gauntlets,0.457529583409308,Head,Hands
+Cleric Helm,Cleric Leggings,0.9601094882844142,Head,Legs
+Cleric Helm,Elite Cleric Leggings,0.4545298174530472,Head,Legs
+Crown of the Dark Sun,Moonlight Robe,0.48764995536464023,Head,Chest
+Crown of the Dark Sun,Moonlight Gloves,0.4883285256848028,Head,Hands
+Crown of the Dark Sun,Moonlight Waistcloth,0.4852058675930873,Head,Legs
+Crown of the Great Lord,Robe of the Great Lord,0.7613703973486715,Head,Chest
+Crown of the Great Lord,Bracelet of the Great Lord,0.7745420858791839,Head,Hands
+Crown of the Great Lord,Anklet of the Great Lord,0.7745420858791839,Head,Legs
+Crystalline Helm,Crystalline Armor,0.9414894311713303,Head,Chest
+Crystalline Helm,Crystalline Gauntlets,0.8693804288591426,Head,Hands
+Crystalline Helm,Crystalline Leggings,0.8914149789555869,Head,Legs
+Dark Mask,Mask of the Sealer,0.4437306493342724,Head,Head
+Dark Mask,Porcelain Mask,0.3581952631095839,Head,Head
+Dark Mask,Dark Armor,0.34729009624782137,Head,Chest
+Dark Mask,Dark Gauntlets,0.3287101688365597,Head,Hands
+Dark Mask,Dark Leggings,0.3260354859053143,Head,Legs
+Dingy Hood,Dingy Robe,0.9316209742239064,Head,Chest
+Dingy Hood,Dingy Gloves,0.9334953404426282,Head,Hands
+Dingy Hood,Blood-Stained Skirt,0.4376669902196803,Head,Legs
+Eastern Helm,Eastern Armor,0.8904030268410704,Head,Chest
+Eastern Helm,Eastern Gauntlets,0.8445468082516293,Head,Hands
+Eastern Helm,Eastern Leggings,0.8382649959177185,Head,Legs
+Elite Cleric Helm,Cleric Armor,0.459022783096355,Head,Chest
+Elite Cleric Helm,Elite Cleric Armor,0.9364633350937103,Head,Chest
+Elite Cleric Helm,Cleric Gauntlets,0.4577510383077743,Head,Hands
+Elite Cleric Helm,Elite Cleric Gauntlets,0.8981912870710415,Head,Hands
+Elite Cleric Helm,Cleric Leggings,0.45665264145029727,Head,Legs
+Elite Cleric Helm,Elite Cleric Leggings,0.8923023484256133,Head,Legs
+Elite Knight Helm,Elite Knight Armor,0.8677563939159738,Head,Chest
+Elite Knight Helm,Elite Knight Gauntlets,0.960386308093236,Head,Hands
+Elite Knight Helm,Elite Knight Leggings,0.9579575654721819,Head,Legs
+Giant Helm,Giant Armor,0.9501243177872594,Head,Chest
+Giant Helm,Giant Gauntlets,0.859285761189947,Head,Hands
+Giant Helm,Giant Leggings,0.8578089333072098,Head,Legs
+Gold-Hemmed Black Hood,Gold-Hemmed Black Cloak,0.9399563207697726,Head,Chest
+Gold-Hemmed Black Hood,Gold-Hemmed Black Gloves,0.8444634503286051,Head,Hands
+Gold-Hemmed Black Hood,Gold-Hemmed Black Skirt,0.9420382725158336,Head,Legs
+Golem Helm,Golem Armor,0.9633452833852192,Head,Chest
+Golem Helm,Golem Gauntlets,0.9267387390190966,Head,Hands
+Golem Helm,Golem Leggings,0.9267387390190966,Head,Legs
+Gough`s Helm,Gough`s Armor,0.43360453779092106,Head,Chest
+Gough`s Helm,Gough`s Gauntlets,0.5345147006829488,Head,Hands
+Gough`s Helm,Gough`s Leggings,0.5535247892177223,Head,Legs
+Guardian Helm,Stone Helm,0.33022762967980235,Head,Head
+Guardian Helm,Guardian Armor,0.8789998985301143,Head,Chest
+Guardian Helm,Guardian Gauntlets,0.8704491922846165,Head,Hands
+Guardian Helm,Guardian Leggings,0.8632061083824303,Head,Legs
+Havel`s Helm,Havel`s Armor,0.9833887531455169,Head,Chest
+Havel`s Helm,Havel`s Gauntlets,0.9820918303868407,Head,Hands
+Havel`s Helm,Havel`s Leggings,0.9809671229427213,Head,Legs
+Helm of Artorias,Armor of Artorias,0.8435593892974798,Head,Chest
+Helm of Artorias,Gauntlets of Artorias,0.6200847537138059,Head,Hands
+Helm of Artorias,Leggings of Artorias,0.6184593136012336,Head,Legs
+Helm of Favor,Embraced Armor of Favor,0.7908208472947229,Head,Chest
+Helm of Favor,Gauntlets of Favor,0.9695136932225052,Head,Hands
+Helm of Favor,Leggings of Favor,0.9676254301413305,Head,Legs
+Helm of The Wise,Armor of the Glorious,0.9020591739193289,Head,Chest
+Helm of The Wise,Gauntlets of the Vanquisher,0.8738637053790262,Head,Hands
+Helm of The Wise,Boots of the Explorer,0.8253491892629312,Head,Legs
+Helm of Thorns,Armor of Thorns,0.9826569337728155,Head,Chest
+Helm of Thorns,Gauntlets of Thorns,0.9813038989440376,Head,Hands
+Helm of Thorns,Leggings of Thorns,0.9801307214253752,Head,Legs
+Hollow Soldier Helm,Hollow Warrior Helm,0.8131169503972149,Head,Head
+Hollow Soldier Helm,Standard Helm,0.6329960564405746,Head,Head
+Hollow Soldier Helm,Hollow Soldier Armor,0.7397247073931723,Head,Chest
+Hollow Thief`s Hood,Hollow Thief`s Leather Armor,0.42996430427520255,Head,Chest
+Hollow Thief`s Hood,Hollow Thief`s Tights,0.42990470879769993,Head,Legs
+Hollow Warrior Helm,Standard Helm,0.642077625707068,Head,Head
+Hollow Warrior Helm,Hollow Soldier Armor,0.41943739296238974,Head,Chest
+Iron Helm,Armor of the Sun,0.7595224828592475,Head,Chest
+Iron Helm,Iron Bracelet,0.9889440509589372,Head,Hands
+Iron Helm,Iron Leggings,0.9770071328460136,Head,Legs
+Knight Helm,Knight Armor,0.9576253608609039,Head,Chest
+Knight Helm,Knight Gauntlets,0.9544050719830088,Head,Hands
+Knight Helm,Knight Leggings,0.9516283385435707,Head,Legs
+Mage Smith Hat,Mage Smith Coat,0.9575954164124209,Head,Chest
+Mage Smith Hat,Mage Smith Gauntlets,0.9735680741226483,Head,Hands
+Mage Smith Hat,Mage Smith Boots,0.9658138947982513,Head,Legs
+Maiden Hood,Maiden Robe,0.943374198153461,Head,Chest
+Maiden Hood,Maiden Gloves,0.9449436320955172,Head,Hands
+Maiden Hood,Maiden Skirt,0.9341657574466335,Head,Legs
+Mask of the Child,Mask of the Father,0.800405020659954,Head,Head
+Mask of the Child,Mask of the Mother,0.8409136822278047,Head,Head
+Mask of the Father,Mask of the Mother,0.8301641437179745,Head,Head
+Mask of the Sealer,Crimson Robe,0.5662982959739807,Head,Chest
+Mask of the Sealer,Dark Armor,0.31407022965353504,Head,Chest
+Mask of the Sealer,Crimson Gloves,0.5671400931394373,Head,Hands
+Mask of the Sealer,Crimson Waistcloth,0.6159853779677116,Head,Legs
+Mask of Velka,Black Cleric Robe,0.5631830387398853,Head,Chest
+Mask of Velka,Black Manchette,0.5570885805457698,Head,Hands
+Mask of Velka,Black Tights,0.5737858833510372,Head,Legs
+Ornstein`s Helm,Ornstein`s Armor,0.9081868412245492,Head,Chest
+Ornstein`s Helm,Ornstein`s Gauntlets,0.9015753829077472,Head,Hands
+Ornstein`s Helm,Ornstein`s Leggings,0.8959366337926934,Head,Legs
+Painting Guardian Hood,Painting Guardian Robe,0.9629511578285598,Head,Chest
+Painting Guardian Hood,Painting Guardian Gloves,0.9639967113115934,Head,Hands
+Painting Guardian Hood,Painting Guardian Waistcloth,0.9591773238994379,Head,Legs
+Paladin Helm,Paladin Armor,0.9844536406641449,Head,Chest
+Paladin Helm,Paladin Gauntlets,0.9829151222887609,Head,Hands
+Paladin Helm,Paladin Leggings,0.9818411514382679,Head,Legs
+Shadow Mask,Shadow Garb,0.9053537188665692,Head,Chest
+Shadow Mask,Shadow Gauntlets,0.8350722204981458,Head,Hands
+Shadow Mask,Shadow Leggings,0.8339503125120885,Head,Legs
+Silver Knight Helm,Silver Knight Armor,0.9762169527179835,Head,Chest
+Silver Knight Helm,Silver Knight Gauntlets,0.9743738616051527,Head,Hands
+Silver Knight Helm,Silver Knight Leggings,0.9727780574335891,Head,Legs
+Six-Eyed Helm of the Channelers,Robe of the Channelers,0.6620928900165254,Head,Chest
+Six-Eyed Helm of the Channelers,Gauntlets of the Channelers,0.6664105818707541,Head,Hands
+Six-Eyed Helm of the Channelers,Waistcloth of the Channelers,0.6596785097510545,Head,Legs
+Smough`s Helm,Smough`s Armor,0.9621856249065892,Head,Chest
+Smough`s Helm,Smough`s Gauntlets,0.9592979829635021,Head,Hands
+Smough`s Helm,Smough`s Leggings,0.9568055567319665,Head,Legs
+Snickering Top Hat,Chester`s Long Coat,0.6775319489665206,Head,Chest
+Snickering Top Hat,Chester`s Gloves,0.5148974677866051,Head,Hands
+Snickering Top Hat,Chester`s Trousers,0.4477065583656126,Head,Legs
+Sorcerer Hat,Sorcerer Cloak,0.951779169798013,Head,Chest
+Sorcerer Hat,Sorcerer Gauntlets,0.9684188779580426,Head,Hands
+Sorcerer Hat,Sorcerer Boots,0.9592110153964828,Head,Legs
+Standard Helm,Hard Leather Armor,0.5331798905112323,Head,Chest
+Standard Helm,Leather Armor,0.331012596264504,Head,Chest
+Standard Helm,Hard Leather Gauntlets,0.4557917254862042,Head,Hands
+Standard Helm,Leather Gloves,0.31978939483808855,Head,Hands
+Standard Helm,Hard Leather Boots,0.5158604194102693,Head,Legs
+Standard Helm,Leather Boots,0.3163863739165606,Head,Legs
+Steel Helm,Steel Armor,0.9795549383788466,Head,Chest
+Steel Helm,Steel Gauntlets,0.9774032010003545,Head,Hands
+Steel Helm,Steel Leggings,0.9759913279255055,Head,Legs
+Stone Helm,Stone Armor,0.8965071040506917,Head,Chest
+Stone Helm,Stone Gauntlets,0.8891519522220731,Head,Hands
+Stone Helm,Stone Leggings,0.8828950801809647,Head,Legs
+Tattered Cloth Hood,Tattered Cloth Robe,0.9489055882968834,Head,Chest
+Tattered Cloth Hood,Tattered Cloth Manchette,0.9357196715345589,Head,Hands
+Thief Mask,Hollow Thief`s Leather Armor,0.3019697658393724,Head,Chest
+Thief Mask,Hollow Thief`s Tights,0.45274247122177835,Head,Legs
+Wanderer Hood,Wanderer Coat,0.4388627968887567,Head,Chest
+Wanderer Hood,Wanderer Manchette,0.5340833446951752,Head,Hands
+Wanderer Hood,Wanderer Boots,0.5363121780898166,Head,Legs
+Witch Hat,Witch Cloak,0.9218283902885024,Head,Chest
+Witch Hat,Witch Gloves,0.9312268265847917,Head,Hands
+Witch Hat,Witch Skirt,0.9235143117409365,Head,Legs
+Xanthous Crown,Xanthous Overcoat,0.7880093119854005,Head,Chest
+Xanthous Crown,Xanthous Gloves,0.7391277332292019,Head,Hands
+Xanthous Crown,Xanthous Waistcloth,0.7880093119854005,Head,Legs
+Antiquated Dress,Antiquated Gloves,0.91796829406782,Chest,Hands
+Antiquated Dress,Antiquated Skirt,0.9469933880909897,Chest,Legs
+Armor of Artorias,Gauntlets of Artorias,0.6089777239618507,Chest,Hands
+Armor of Artorias,Leggings of Artorias,0.6073813989203752,Chest,Legs
+Armor of the Glorious,Gauntlets of the Vanquisher,0.8275080230664246,Chest,Hands
+Armor of the Glorious,Boots of the Explorer,0.7815670472893825,Chest,Legs
+Armor of the Sun,Iron Bracelet,0.7680136021069852,Chest,Hands
+Armor of the Sun,Iron Leggings,0.7587433956993803,Chest,Legs
+Armor of Thorns,Gauntlets of Thorns,0.982960997959279,Chest,Hands
+Armor of Thorns,Leggings of Thorns,0.9817858393302656,Chest,Legs
+Balder Armor,Balder Gauntlets,0.9738134423958655,Chest,Hands
+Balder Armor,Balder Leggings,0.9720271807188295,Chest,Legs
+Black Cleric Robe,Black Manchette,0.9529587552558072,Chest,Hands
+Black Cleric Robe,Black Tights,0.9815212522322279,Chest,Legs
+Black Iron Armor,Black Iron Gauntlets,0.9775634708559939,Chest,Hands
+Black Iron Armor,Black Iron Leggings,0.9760260644443379,Chest,Legs
+Black Knight Armor,Black Knight Gauntlets,0.9112703271651326,Chest,Hands
+Black Knight Armor,Black Knight Leggings,0.9505567302291571,Chest,Legs
+Black Leather Armor,Hollow Thief`s Leather Armor,0.332889562240615,Chest,Chest
+Black Leather Armor,Black Leather Gloves,0.9601513826791263,Chest,Hands
+Black Leather Armor,Black Leather Boots,0.9564958494850747,Chest,Legs
+Black Sorcerer Cloak,Black Sorcerer Gauntlets,0.9261339794287601,Chest,Hands
+Black Sorcerer Cloak,Black Sorcerer Boots,0.9099986870793265,Chest,Legs
+Brass Armor,Brass Gauntlets,0.8552809374828337,Chest,Hands
+Brass Armor,Brass Leggings,0.8939063531642815,Chest,Legs
+Brigand Armor,Brigand Gauntlets,0.9704923716850469,Chest,Hands
+Brigand Armor,Brigand Trousers,0.9453415837602933,Chest,Legs
+Catarina Armor,Catarina Gauntlets,0.9796877767254523,Chest,Hands
+Catarina Armor,Catarina Leggings,0.9782923674490006,Chest,Legs
+Chain Armor,Chain Leggings,0.9774261129902018,Chest,Legs
+Chester`s Long Coat,Chester`s Gloves,0.5169176478220336,Chest,Hands
+Chester`s Long Coat,Chester`s Trousers,0.592516797906509,Chest,Legs
+Cleric Armor,Elite Cleric Armor,0.5059083610225159,Chest,Chest
+Cleric Armor,Cleric Gauntlets,0.9656930688618236,Chest,Hands
+Cleric Armor,Elite Cleric Gauntlets,0.45908612695299705,Chest,Hands
+Cleric Armor,Cleric Leggings,0.963375839312664,Chest,Legs
+Cleric Armor,Elite Cleric Leggings,0.4560761556100223,Chest,Legs
+Crimson Robe,Dark Armor,0.3060714084013313,Chest,Chest
+Crimson Robe,Crimson Gloves,0.9546043123725447,Chest,Hands
+Crimson Robe,Crimson Waistcloth,0.8653529388833342,Chest,Legs
+Crystalline Armor,Crystalline Gauntlets,0.8915443328100903,Chest,Hands
+Crystalline Armor,Crystalline Leggings,0.8706760976497366,Chest,Legs
+Dark Armor,Crimson Gloves,0.30652638071159827,Chest,Hands
+Dark Armor,Dark Gauntlets,0.8328485178725508,Chest,Hands
+Dark Armor,Crimson Waistcloth,0.31014386107920694,Chest,Legs
+Dark Armor,Dark Leggings,0.826071709832352,Chest,Legs
+Dingy Robe,Dingy Gloves,0.9385743080530123,Chest,Hands
+Dingy Robe,Blood-Stained Skirt,0.44004825166915484,Chest,Legs
+Eastern Armor,Eastern Gauntlets,0.8536036114324494,Chest,Hands
+Eastern Armor,Eastern Leggings,0.8472544338117707,Chest,Legs
+Elite Cleric Armor,Cleric Gauntlets,0.47732172979199683,Chest,Hands
+Elite Cleric Armor,Elite Cleric Gauntlets,0.9365925644074462,Chest,Hands
+Elite Cleric Armor,Cleric Leggings,0.47617637206665503,Chest,Legs
+Elite Cleric Armor,Elite Cleric Leggings,0.9304518500329553,Chest,Legs
+Elite Knight Armor,Elite Knight Gauntlets,0.8683254195523965,Chest,Hands
+Elite Knight Armor,Elite Knight Leggings,0.8661294917912035,Chest,Legs
+Embraced Armor of Favor,Gauntlets of Favor,0.7912199073743998,Chest,Hands
+Embraced Armor of Favor,Leggings of Favor,0.789678896297785,Chest,Legs
+Giant Armor,Giant Gauntlets,0.8336421019132028,Chest,Hands
+Giant Armor,Giant Leggings,0.832209346995183,Chest,Legs
+Gold-Hemmed Black Cloak,Gold-Hemmed Black Gloves,0.8386629305339736,Chest,Hands
+Gold-Hemmed Black Cloak,Gold-Hemmed Black Skirt,0.9355675227813101,Chest,Legs
+Golem Armor,Golem Gauntlets,0.9193205835989215,Chest,Hands
+Golem Armor,Golem Leggings,0.9193205835989215,Chest,Legs
+Guardian Armor,Stone Armor,0.3772795362452392,Chest,Chest
+Guardian Armor,Guardian Gauntlets,0.8791542541470456,Chest,Hands
+Guardian Armor,Guardian Leggings,0.8718387346633204,Chest,Legs
+Hard Leather Armor,Leather Armor,0.703800625658822,Chest,Chest
+Hard Leather Armor,Hard Leather Gauntlets,0.8133515426899989,Chest,Hands
+Hard Leather Armor,Leather Gauntlets,0.5164525998301239,Chest,Hands
+Hard Leather Armor,Leather Gloves,0.6112859048911634,Chest,Hands
+Hard Leather Armor,Hard Leather Boots,0.9091064974715425,Chest,Legs
+Hard Leather Armor,Leather Boots,0.60478094019578,Chest,Legs
+Havel`s Armor,Havel`s Gauntlets,0.9836802177753644,Chest,Hands
+Havel`s Armor,Havel`s Leggings,0.9825536912843246,Chest,Legs
+Hollow Thief`s Leather Armor,Hollow Thief`s Tights,0.631697177602318,Chest,Legs
+Hollow Warrior Armor,Hollow Soldier Waistcloth,0.3092193297527043,Chest,Legs
+Hollow Warrior Armor,Hollow Warrior Waistcloth,0.47738736157126727,Chest,Legs
+Holy Robe,Holy Trousers,0.9629731641324215,Chest,Legs
+Knight Armor,Knight Gauntlets,0.9583481684530493,Chest,Hands
+Knight Armor,Knight Leggings,0.9555599630211156,Chest,Legs
+Leather Armor,Hard Leather Gauntlets,0.6129050318254278,Chest,Hands
+Leather Armor,Leather Gauntlets,0.7973035367177069,Chest,Hands
+Leather Armor,Leather Gloves,0.8852860975300769,Chest,Hands
+Leather Armor,Hard Leather Boots,0.612185855586778,Chest,Legs
+Leather Armor,Leather Boots,0.8758653751419627,Chest,Legs
+Lord`s Blade Robe,Lord`s Blade Gloves,0.8904873951799156,Chest,Hands
+Lord`s Blade Robe,Lord`s Blade Waistcloth,0.8765538669459496,Chest,Legs
+Maiden Robe,Maiden Gloves,0.9491990529698968,Chest,Hands
+Maiden Robe,Maiden Skirt,0.9383726416769171,Chest,Legs
+Mage Smith Coat,Mage Smith Gauntlets,0.9640671406413349,Chest,Hands
+Mage Smith Coat,Mage Smith Boots,0.9563886334182753,Chest,Legs
+Moonlight Robe,Moonlight Gloves,0.9575027996718101,Chest,Hands
+Moonlight Robe,Moonlight Waistcloth,0.9513799669721589,Chest,Legs
+Ornstein`s Armor,Ornstein`s Gauntlets,0.9096672523431593,Chest,Hands
+Ornstein`s Armor,Ornstein`s Leggings,0.9039778940139642,Chest,Legs
+Painting Guardian Robe,Painting Guardian Gloves,0.9668346887712381,Chest,Hands
+Painting Guardian Robe,Painting Guardian Waistcloth,0.9620011132268141,Chest,Legs
+Paladin Armor,Paladin Gauntlets,0.9847320049793367,Chest,Hands
+Paladin Armor,Paladin Leggings,0.9836560489329668,Chest,Legs
+Robe of the Channelers,Gauntlets of the Channelers,0.974491344159379,Chest,Hands
+Robe of the Channelers,Waistcloth of the Channelers,0.9646470436825053,Chest,Legs
+Robe of the Great Lord,Bracelet of the Great Lord,0.9829942248837762,Chest,Hands
+Robe of the Great Lord,Anklet of the Great Lord,0.9829942248837762,Chest,Legs
+Sage Robe,Traveling Gloves,0.42427924952819795,Chest,Hands
+Sage Robe,Traveling Boots,0.42146437012362514,Chest,Legs
+Shadow Garb,Shadow Gauntlets,0.8927151648582727,Chest,Hands
+Shadow Garb,Shadow Leggings,0.8915158143731956,Chest,Legs
+Silver Knight Armor,Silver Knight Gauntlets,0.9766310163841121,Chest,Hands
+Silver Knight Armor,Silver Knight Leggings,0.9750315155031499,Chest,Legs
+Smough`s Armor,Smough`s Gauntlets,0.9628339121283425,Chest,Hands
+Smough`s Armor,Smough`s Leggings,0.9603322989259597,Chest,Legs
+Sorcerer Cloak,Sorcerer Gauntlets,0.9594710008872519,Chest,Hands
+Sorcerer Cloak,Sorcerer Boots,0.9503482159962752,Chest,Legs
+Steel Armor,Steel Gauntlets,0.9799212935011169,Chest,Hands
+Steel Armor,Steel Leggings,0.9785057830051929,Chest,Legs
+Stone Armor,Stone Gauntlets,0.8981531066864517,Chest,Hands
+Stone Armor,Stone Leggings,0.8918328944349724,Chest,Legs
+Tattered Cloth Robe,Tattered Cloth Manchette,0.9395210291728429,Chest,Hands
+Wanderer Coat,Wanderer Manchette,0.4258860365032014,Chest,Hands
+Wanderer Coat,Wanderer Boots,0.4276633415435066,Chest,Legs
+Witch Cloak,Witch Gloves,0.9546941423678271,Chest,Hands
+Witch Cloak,Witch Skirt,0.9467872688391108,Chest,Legs
+Xanthous Overcoat,Xanthous Gloves,0.9402261301108497,Chest,Hands
+Xanthous Overcoat,Xanthous Waistcloth,1.0000000000000002,Chest,Legs
+Antiquated Gloves,Antiquated Skirt,0.9165104558930347,Hands,Legs
+Balder Gauntlets,Balder Leggings,0.9699709496011839,Hands,Legs
+Black Iron Gauntlets,Black Iron Leggings,0.974256799831903,Hands,Legs
+Black Knight Gauntlets,Silver Knight Gauntlets,0.3024182012794424,Hands,Hands
+Black Knight Gauntlets,Black Knight Leggings,0.9325078789840789,Hands,Legs
+Black Leather Gloves,Black Leather Boots,0.9451395706047971,Hands,Legs
+Black Manchette,Black Tights,0.9708997671609632,Hands,Legs
+Black Sorcerer Gauntlets,Black Sorcerer Boots,0.9392901670294252,Hands,Legs
+Bracelet of the Great Lord,Anklet of the Great Lord,1.0000000000000004,Hands,Legs
+Brass Gauntlets,Brass Leggings,0.8812076935841023,Hands,Legs
+Brigand Gauntlets,Brigand Trousers,0.9430884628410363,Hands,Legs
+Catarina Gauntlets,Catarina Leggings,0.9766867719227097,Hands,Legs
+Chester`s Gloves,Chester`s Trousers,0.42851331658335906,Hands,Legs
+Cleric Gauntlets,Elite Cleric Gauntlets,0.5191375280752568,Hands,Hands
+Cleric Gauntlets,Cleric Leggings,0.960706760024647,Hands,Legs
+Cleric Gauntlets,Elite Cleric Leggings,0.4548125745951967,Hands,Legs
+Crimson Gloves,Crimson Waistcloth,0.8666392780022232,Hands,Legs
+Crystalline Gauntlets,Crystalline Leggings,0.8767011213568239,Hands,Legs
+Dark Gauntlets,Dark Leggings,0.8663939133702331,Hands,Legs
+Dingy Gloves,Blood-Stained Skirt,0.44093360268674364,Hands,Legs
+Eastern Gauntlets,Eastern Leggings,0.8779088661811334,Hands,Legs
+Elite Cleric Gauntlets,Cleric Leggings,0.45671565823403965,Hands,Legs
+Elite Cleric Gauntlets,Elite Cleric Leggings,0.8924254836470478,Hands,Legs
+Elite Knight Gauntlets,Elite Knight Leggings,0.9585857399427827,Hands,Legs
+Gauntlets of Artorias,Leggings of Artorias,0.9570707596763601,Hands,Legs
+Gauntlets of Favor,Leggings of Favor,0.9681137084695643,Hands,Legs
+Gauntlets of the Channelers,Waistcloth of the Channelers,0.9709377753087126,Hands,Legs
+Gauntlets of the Vanquisher,Boots of the Explorer,0.8295113631234906,Hands,Legs
+Gauntlets of Thorns,Leggings of Thorns,0.9804340039242769,Hands,Legs
+Giant Gauntlets,Giant Leggings,0.971865389056621,Hands,Legs
+Gold-Hemmed Black Gloves,Gold-Hemmed Black Skirt,0.8405205229709835,Hands,Legs
+Golem Gauntlets,Golem Leggings,1.0000000000000004,Hands,Legs
+Gough`s Gauntlets,Silver Knight Gauntlets,0.3268498488970779,Hands,Hands
+Gough`s Gauntlets,Gough`s Leggings,0.9607869059921275,Hands,Legs
+Guardian Gauntlets,Stone Gauntlets,0.38833133076158455,Hands,Hands
+Guardian Gauntlets,Guardian Leggings,0.86335769055169,Hands,Legs
+Hard Leather Gauntlets,Leather Gauntlets,0.5896181458150527,Hands,Hands
+Hard Leather Gauntlets,Leather Gloves,0.5921240805714044,Hands,Hands
+Hard Leather Gauntlets,Hard Leather Boots,0.7869311566453636,Hands,Legs
+Hard Leather Gauntlets,Leather Boots,0.5858230253555328,Hands,Legs
+Havel`s Gauntlets,Havel`s Leggings,0.9812578698304267,Hands,Legs
+Iron Bracelet,Iron Leggings,0.9879296325193031,Hands,Legs
+Knight Gauntlets,Knight Leggings,0.9523466196335593,Hands,Legs
+Leather Gauntlets,Leather Gloves,0.7702704319610955,Hands,Hands
+Leather Gauntlets,Hard Leather Boots,0.4996764872329318,Hands,Legs
+Leather Gauntlets,Leather Boots,0.7620736423317048,Hands,Legs
+Leather Gloves,Hard Leather Boots,0.5914292884796981,Hands,Legs
+Leather Gloves,Leather Boots,0.8461685791934899,Hands,Legs
+Lord`s Blade Gloves,Lord`s Blade Waistcloth,0.883797835958385,Hands,Legs
+Mage Smith Gauntlets,Mage Smith Boots,0.9723411620308008,Hands,Legs
+Maiden Gloves,Maiden Skirt,0.939933754835436,Hands,Legs
+Moonlight Gloves,Moonlight Waistcloth,0.9527038227455115,Hands,Legs
+Ornstein`s Gauntlets,Ornstein`s Leggings,0.8973970761752857,Hands,Legs
+Painting Guardian Gloves,Painting Guardian Waistcloth,0.9630456351700507,Hands,Legs
+Paladin Gauntlets,Paladin Leggings,0.9821187770454654,Hands,Legs
+Shadow Gauntlets,Shadow Leggings,0.9780110151494666,Hands,Legs
+Silver Knight Gauntlets,Gough`s Leggings,0.30722989826102376,Hands,Legs
+Silver Knight Gauntlets,Silver Knight Leggings,0.9731906624878949,Hands,Legs
+Smough`s Gauntlets,Smough`s Leggings,0.9574502190508325,Hands,Legs
+Sorcerer Gauntlets,Sorcerer Boots,0.9669629071624402,Hands,Legs
+Steel Gauntlets,Steel Leggings,0.9763563502517347,Hands,Legs
+Stone Gauntlets,Stone Leggings,0.8845160909041496,Hands,Legs
+Traveling Gloves,Traveling Gloves,0.3046704866694606,Hands,Hands
+Traveling Gloves,Wanderer Boots,0.4280924419172092,Hands,Legs
+Traveling Gloves,Traveling Boots,0.9042735313243244,Hands,Legs
+Wanderer Manchette,Wanderer Boots,0.5885815757740518,Hands,Legs
+Witch Gloves,Witch Skirt,0.9564401716202209,Hands,Legs
+Xanthous Gloves,Xanthous Waistcloth,0.9402261301108497,Hands,Legs
+Cleric Leggings,Elite Cleric Leggings,0.5224113845223188,Legs,Legs
+Gough`s Leggings,Silver Knight Leggings,0.3107891965779184,Legs,Legs
+Guardian Leggings,Stone Leggings,0.3976355228061791,Legs,Legs
+Hard Leather Boots,Heavy Boots,0.311455974972502,Legs,Legs
+Hard Leather Boots,Leather Boots,0.7251691993045056,Legs,Legs
+Heavy Boots,Leather Boots,0.36217176874977186,Legs,Legs
+Heavy Boots,Wanderer Boots,0.32772745247793644,Legs,Legs
+Hollow Soldier Waistcloth,Hollow Warrior Waistcloth,0.8269738761981772,Legs,Legs
+Mage Smith Boots,Sorcerer Boots,0.30099798598654554,Legs,Legs
