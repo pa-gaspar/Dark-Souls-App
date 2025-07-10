@@ -11,16 +11,16 @@ sys.path.append('./src/')
 from answerGraphBuilder import GraphBuilder, GraphQA, return_answers_to_neo4j
 
 # Load CSV data
-adressDialoguesCsv = 'data/darksouls_characters_dialogues.csv'
-adressItemsCsv = 'data/darksouls_item_descriptions.csv'
-adressEntitiesCsv = 'data/entities_df.csv'
-adressEntitiesGroupedCsv = 'data/entities_grouped_df.csv'
-adressEntityCharCsv = 'data/entity_char_df.csv'
-adressEntityItemCsv = 'data/entity_item_df.csv'
-adressCharCharCsv = 'data/char_char_df.csv'
-adressCharItemCsv = 'data/char_item_df.csv'
-adressItemCharCsv = 'data/item_char_df.csv'
-adressItemItemCsv = 'data/item_item_df.csv'
+adressDialoguesCsv = '../data/darksouls_characters_dialogues.csv'
+adressItemsCsv = '../data/darksouls_item_descriptions.csv'
+adressEntitiesCsv = '../data/entities_df.csv'
+adressEntitiesGroupedCsv = '../data/entities_grouped_df.csv'
+adressEntityCharCsv = '../data/entity_char_df.csv'
+adressEntityItemCsv = '../data/entity_item_df.csv'
+adressCharCharCsv = '../data/char_char_df.csv'
+adressCharItemCsv = '../data/char_item_df.csv'
+adressItemCharCsv = '../data/item_char_df.csv'
+adressItemItemCsv = '../data/item_item_df.csv'
 
 dialoguesDF = pd.read_csv(adressDialoguesCsv)
 itemsDF = pd.read_csv(adressItemsCsv)
