@@ -43,7 +43,7 @@ password = "83f6K55qqLGcjPhJb28mgiVWyxmOspONuudLkUjT5mE"
 driver = GraphDatabase.driver(uri, auth=(user, password))
 
 # Set Gemini API KEY
-os.environ["GOOGLE_API_KEY"] = "AIzaSyCAmO7qFkmbYyA4WV3ygtXPQjx1D8qWIxE"
+os.environ["GOOGLE_API_KEY"] = "GOOGLE_AI_KEY"
 
 # UI setup
 st.set_page_config(layout="wide")
