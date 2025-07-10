@@ -36,14 +36,21 @@ itemItemDF = pd.read_csv(adressItemItemCsv)
 dialoguesDF = dialoguesDF.rename(columns={'name': 'character'})
 itemsDF = itemsDF.rename(columns={'name': 'item'})
 
+GOOGLE_API_KEY = st.secrets["GOOGLE_API_KEY"]
+NEO4JPASSWORD = st.secrets["password"]
+
+
 # Neo4j config
 uri = "neo4j+s://5aef28dd.databases.neo4j.io"
 user = "neo4j"
-password = "83f6K55qqLGcjPhJb28mgiVWyxmOspONuudLkUjT5mE"
+# .env
+password = NEO4JPASSWORD
 driver = GraphDatabase.driver(uri, auth=(user, password))
 
+
 # Set Gemini API KEY
-os.environ["GOOGLE_API_KEY"] = "GOOGLE_AI_KEY"
+# .env
+os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
 
 # UI setup
 st.set_page_config(layout="wide")
